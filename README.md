@@ -23,26 +23,31 @@ Python · pandas · scikit-learn · NetworkX · WordCloud · Matplotlib · Power
 
 ## Repository Structure
 nstg_outputs/        → 10 publication-quality charts
+
 nstg_powerbi_exports/           → 10 cleaned CSV exports for Power BI
+
 nstg_analysis.ipynb        → Jupyter notebook with markdown inferences
+
 NSTG_Dashboard.pbix        → Interactive Power BI dashboard (open with free Power BI Desktop)
 
 ## Setup Instructions
 1. Create a Virtual Environment
-python -m venv venv
+
+    `python -m venv venv`
+
 2. Activate the Virtual Environment
-Windows
-venv\\Scripts\\activate
-Mac/Linux
-source venv/bin/activate
+    - Windows
+        `venv\\Scripts\\activate`
+    - Mac/Linux
+        `source venv/bin/activate`
 3. Install Project Requirements
-pip install -r requirements.txt
+    `pip install -r requirements.txt`
 4. Launch Jupyter Notebook
-jupyter notebook
+    `jupyter notebook`
 
 Open and start working on:
 
-nstg_analysis.ipynb
+`nstg_analysis.ipynb`
 
 ----------------------------------------------------------------
 
