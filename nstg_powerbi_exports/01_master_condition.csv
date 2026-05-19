@@ -1,0 +1,271 @@
+condition_name,condition_slug,source,category,n_drug_items,n_nondrug_items,n_investigations,n_complications,n_diff_dx,n_prevention,n_detected_drugs,has_introduction,has_prognosis,has_prevention,has_complications,has_diff_dx
+Abortion,abortion,NSTG 2022,Maternal/Reproductive,6,6,8,2,2,3,2,True,False,True,True,True
+Acne Vulgaris,acne-vulgaris,NSTG 2022,Dermatological,6,7,3,5,10,2,6,True,False,True,True,True
+Acute Abdomen,acute-abdomen,NSTG 2022,Surgical/Emergency,1,8,6,0,1,0,0,True,True,False,False,True
+Acute Anterior Uveitis,acute-anterior-uveitis,NSTG 2022,Ophthalmology,3,0,3,2,3,1,0,True,False,True,True,True
+Acute Bronchitis,acute-bronchitis,NSTG 2022,Respiratory,3,0,4,3,4,0,2,True,False,False,True,True
+Acute Coronary Syndrome,acute-coronary-syndrome,NSTG 2022,Cardiovascular,12,2,9,6,5,4,6,True,True,True,True,True
+Acute Diarrhoea,acute-diarrhoea,NSTG 2022,Gastrointestinal,5,0,3,6,0,3,1,True,False,True,True,False
+Acute Epiglottitis,acute-epiglottitis,NSTG 2022,Respiratory,3,0,4,5,8,1,2,True,False,True,True,True
+Acute Keratitis,acute-keratitis,NSTG 2022,Ophthalmology,5,1,1,2,3,1,0,True,False,True,True,True
+Acute Kidney Injury,acute-kidney-injury,NSTG 2022,Renal/Urological,1,6,5,3,2,6,1,True,False,True,True,True
+Acute Necrotizing Ulcerative Gingivitis,acute-necrotizing-ulcerative-gingivitis,NSTG 2022,Dental/Oral Health,4,1,1,0,3,0,1,True,False,False,False,True
+Acute Otitis Media,acute-otitis-media,NSTG 2022,"ENT (Ear, Nose & Throat)",13,2,2,4,3,1,2,True,False,True,True,True
+Acute Peri-Apical Abscess,acute-peri-apical-abscess,NSTG 2022,Dental/Oral Health,11,3,1,0,2,0,2,True,False,False,False,True
+"Acute Rhinitis (Common Cold, Coryza)",acute-rhinitis-common-cold-coryza,NSTG 2022,Respiratory,7,0,0,6,2,0,2,True,False,False,True,True
+Adenoid Diseases,adenoid-diseases,NSTG 2022,"ENT (Ear, Nose & Throat)",3,1,3,3,3,0,1,True,False,False,True,True
+Alcohol Dependence (Alcoholism),alcohol-dependence-alcoholism,NSTG 2022,Neurological/Mental,1,4,1,7,2,2,0,True,True,True,True,True
+Allergic Conjunctivitis,allergic-conjunctivitis,NSTG 2022,Ophthalmology,6,0,1,3,2,1,1,True,False,True,True,True
+Alveolar Osteitis (Dry Socket),alveolar-osteitis-dry-socket,NSTG 2022,Dental/Oral Health,3,3,0,1,1,3,0,True,False,True,True,True
+Amoebiasis,amoebiasis,NSTG 2022,Infectious/Tropical,6,1,4,7,0,3,1,True,False,True,True,False
+Anaemias,anaemias,NSTG 2022,Haematological,12,9,11,1,2,2,0,True,True,True,True,True
+Anemia in Pregnancy,anemia-in-pregnancy,NSTG 2022,Maternal/Reproductive,3,7,10,2,0,7,1,True,False,True,True,False
+Ankylosis,ankylosis,NSTG 2022,Musculoskeletal,0,0,0,0,0,0,0,True,False,False,False,False
+Antenatal Care (ANC),antenatal-care-anc,NSTG 2022,Maternal/Reproductive,5,4,0,0,0,2,0,True,False,True,False,False
+Antiphospholipid Syndrome,antiphospholipid-syndrome,NSTG 2022,Haematological,14,4,9,0,5,0,6,True,False,False,False,True
+Anxiety Disorder,anxiety-disorder,NSTG 2022,Neurological/Mental,3,1,2,7,1,2,1,True,False,True,True,True
+Atopic Dermatitis (Atopic Eczema),atopic-dermatitis-atopic-eczema,NSTG 2022,Dermatological,4,19,3,3,6,0,2,True,False,False,True,True
+Bacillary Dysentery,bacillary-dysentery,NSTG 2022,Infectious/Tropical,3,0,2,4,0,2,3,True,False,True,True,False
+Back Pain,back-pain,NSTG 2022,Musculoskeletal,6,7,3,0,5,0,4,True,False,False,False,True
+Bacterial Vaginosis,bacterial-vaginosis,NSTG 2022,Maternal/Reproductive,4,0,3,3,1,5,1,True,False,True,True,True
+Benign Prostatic Hyperplasia,benign-prostatic-hyperplasia,NSTG 2022,Renal/Urological,2,1,9,6,11,0,0,True,False,False,True,True
+Bipolar Disorders,bipolar-disorders,NSTG 2022,Neurological/Mental,18,4,2,6,3,2,2,True,False,True,True,True
+Blood Transfusion in the Newborn,blood-transfusion-in-the-newborn,NSTG 2022,Haematological,0,0,0,4,0,0,0,True,False,False,True,False
+Blood Transfusion in the Newborn,blood-transfusion-in-the-newborn,NSTG 2022,Haematological,5,0,0,7,0,0,0,True,False,False,True,False
+Blood Transfusion,blood-transfusion,NSTG 2022,Haematological,3,2,1,2,0,3,2,True,False,True,True,False
+Breast Cancer,breast_cancer,NSTG 2022,Oncology,10,0,3,0,0,0,0,True,False,False,False,False
+Bronchial Asthma,bronchial_asthma,NSTG 2022,Respiratory,24,0,4,3,6,3,4,True,False,True,True,True
+Bronchiectasis,bronchiectasis,NSTG 2022,Respiratory,13,1,6,6,4,3,3,True,False,True,True,True
+Cancer of the Cervix,cancer-of-the-cervix,NSTG 2022,Oncology,0,0,9,0,9,5,0,True,False,True,False,True
+Cancer Therapy,cancer-therapy,NSTG 2022,Oncology,8,3,15,7,0,7,0,True,True,True,True,False
+Carcinoma of the Prostate,carcinoma-of-the-prostate,NSTG 2022,Oncology,8,6,8,7,5,0,1,True,False,False,True,True
+Cardiac Arrhythmias,cardiac-arrhythmias,NSTG 2022,Cardiovascular,6,3,5,4,1,1,4,True,False,True,True,True
+Cardiac Disease in Pregnancy,cardiac-disease-in-pregnancy,NSTG 2022,Maternal/Reproductive,2,19,12,4,0,4,2,True,True,True,True,False
+Cardiomyopathies,cardiomyopathies,NSTG 2022,Cardiovascular,9,7,4,3,1,2,0,True,False,True,True,True
+Cataract,cataract,NSTG 2022,Ophthalmology,0,0,4,3,2,2,0,True,False,True,True,True
+Sjogren's Syndrome,sjogrens-syndrome,NSTG 2022,Musculoskeletal,3,7,0,0,0,0,0,False,False,False,False,False
+Cellulitis,cellulitis,NSTG 2022,Dermatological,2,4,1,2,0,1,1,True,False,True,True,False
+Cellulitis,cellulitis,NSTG 2022,Dermatological,5,0,6,5,2,1,4,True,False,True,True,True
+Cervical Cancer,cervical-cancer,NSTG 2022,Oncology,0,0,3,0,0,3,0,True,False,True,False,False
+"Chancroid (Ulcus Molle, Soft Chancre)",chancroid,NSTG 2022,Infectious/Tropical,4,2,2,1,10,4,4,True,False,True,True,True
+Chest Pain,chest-pain,NSTG 2022,Cardiovascular,2,0,3,0,0,0,2,True,False,False,False,False
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),chlamydial-infection-other-than-lymphogranuloma-venereum,NSTG 2022,Infectious/Tropical,6,0,5,4,1,1,4,True,False,True,True,True
+Cholera,cholera,NSTG 2022,Infectious/Tropical,7,0,3,3,0,3,3,True,False,True,True,False
+Cholestasis of Pregnancy,cholestasis-of-pregnancy,NSTG 2022,Maternal/Reproductive,4,3,2,0,3,0,0,True,True,False,False,True
+Chronic Kidney Disease (CKD),chronic-kidney-disease-ckd,NSTG 2022,Renal/Urological,6,3,5,6,3,0,0,True,False,False,True,True
+Chronic Lymphocytic Leukaemia,chronic-lymphocytic-leukaemia,NSTG 2022,Oncology,12,5,8,2,4,3,1,True,False,True,True,True
+Chronic Myeloid Leukaemia (CML),chronic-myeloid-leukaemia-cml,NSTG 2022,Oncology,3,3,3,2,3,2,0,True,False,True,True,True
+Chronic Obstructive Airways Disease (COAD),chronic-obstructive-airways-disease-coad,NSTG 2022,Respiratory,0,0,0,0,2,0,0,True,False,False,False,True
+Chronic Otitis Media,chronic-otitis-media,NSTG 2022,"ENT (Ear, Nose & Throat)",4,3,5,4,0,0,0,True,False,False,True,False
+Chronic Stable Angina (Angina Pectoris),chronic-stable-angina-angina-pectoris,NSTG 2022,Cardiovascular,7,2,5,0,7,0,3,False,False,False,False,True
+Gonorrhea in Children,gonorrhea-in-children,NSTG 2022,Infectious/Tropical,4,6,0,0,5,5,2,False,False,True,False,True
+Gonorrhea in Females,gonorrhea-in-females,NSTG 2022,Infectious/Tropical,0,0,1,13,18,0,0,False,False,False,True,True
+Asphyxiated Babies,asphyxiated-babies,NSTG 2022,Paediatric,4,6,5,0,0,0,1,False,True,False,False,False
+Asphyxia in Neonates,asphyxia-in-neonates,NSTG 2022,Paediatric,4,5,0,0,0,0,1,True,True,False,False,False
+Colorectal Cancer,colorectal-cancer,NSTG 2022,Oncology,13,0,16,0,0,7,2,True,False,True,False,False
+Congenital Heart Disease,congenital-heart-disease,NSTG 2022,Cardiovascular,1,1,6,2,2,3,1,True,False,True,True,True
+Constipation,constipation,NSTG 2022,Gastrointestinal,3,6,7,5,0,0,0,True,False,False,True,False
+Contact Dermatitis,contact-dermatitis,NSTG 2022,Dermatological,1,0,2,2,6,0,0,True,False,False,True,True
+Coronary Artery Disease,coronary-artery-disease,NSTG 2022,Cardiovascular,0,0,0,0,0,0,0,True,False,False,False,False
+Coronavirus Disease (COVID-19),coronavirus-disease-covid-19,NSTG 2022,Infectious/Tropical,7,6,11,9,0,2,4,True,False,True,True,False
+Cough,cough,NSTG 2022,Respiratory,2,3,6,0,14,0,0,True,False,False,False,True
+Cushing's Syndrome,cushings-syndrome,NSTG 2022,Endocrine/Metabolic,4,3,7,5,7,0,0,True,True,False,True,True
+Cutaneous Larva Migrans (Creeping Eruption),cutaneous-larva-migrans-creeping-eruption,NSTG 2022,Dermatological,6,0,1,2,1,1,2,True,False,True,True,True
+Cutaneous Squamous Cell Carcinoma,cutaneous-squamous-cell-carcinoma,NSTG 2022,Oncology,0,0,4,4,0,0,0,True,False,False,True,False
+Decubitus (Pressure) Ulcers,decubitus-pressure-ulcers,NSTG 2022,Dermatological,2,7,2,3,3,5,0,True,False,True,True,True
+Deep Vein Thrombosis,deep-vein-thrombosis,NSTG 2022,Cardiovascular,2,1,7,1,3,2,2,True,False,True,True,True
+Delirium,delirium,NSTG 2022,Neurological/Mental,2,4,1,1,2,2,1,True,False,True,True,True
+Delirium,delirium,NSTG 2022,Neurological/Mental,2,8,9,5,4,1,1,True,False,True,True,True
+Dental Caries,dental-caries,NSTG 2022,Dental/Oral Health,1,3,4,1,0,5,1,True,False,True,True,False
+Depression,depression,NSTG 2022,Neurological/Mental,3,2,3,3,2,1,0,True,False,True,True,True
+Dermatophyte Infections (Tinea),dermatophyte-infections-tinea,NSTG 2022,Dermatological,4,0,0,0,0,9,1,True,False,True,False,False
+Diabetes in Pregnancy,diabetes-in-pregnancy,NSTG 2022,Maternal/Reproductive,2,9,3,1,5,0,1,True,False,False,True,True
+Diabetes Mellitus,diabetes-mellitus,NSTG 2022,Endocrine/Metabolic,6,3,6,0,0,0,2,True,False,False,False,False
+Diabetic Foot Problems,diabetic-foot-problems,NSTG 2022,Endocrine/Metabolic,0,1,0,0,0,1,0,True,False,True,False,False
+Dizziness,dizziness,NSTG 2022,"ENT (Ear, Nose & Throat)",3,2,6,4,8,1,1,True,False,True,True,True
+Dubin-Johnson Syndrome,dubin-johnson-syndrome,NSTG 2022,Endocrine/Metabolic,0,0,0,0,0,0,0,True,False,False,False,False
+Dyspnoea,dyspnoea,NSTG 2022,Respiratory,0,2,0,0,8,0,0,True,False,False,False,True
+Ectopic Pregnancy,ectopic-pregnancy,NSTG 2022,Maternal/Reproductive,5,3,7,4,7,0,0,True,False,False,True,True
+Elder Mistreatment,elder-mistreatment,NSTG 2022,Geriatric,1,4,1,4,6,1,0,True,False,True,True,True
+Epistaxis,epistaxis,NSTG 2022,"ENT (Ear, Nose & Throat)",4,5,6,2,1,1,2,True,False,True,True,True
+Erectile Dysfunction,erectile-dysfunction,NSTG 2022,Maternal/Reproductive,1,9,8,5,4,0,0,True,False,False,True,True
+Exfoliative Dermatitis (Erythroderma),exfoliative-dermatitis-erythroderma,NSTG 2022,Dermatological,3,0,5,8,1,3,1,True,False,True,True,True
+Falls,falls,NSTG 2022,Geriatric,1,0,2,3,0,4,0,True,False,True,True,False
+Fevers,fevers,NSTG 2022,Infectious/Tropical,8,2,14,4,0,0,2,True,False,False,True,False
+Food Poisoning,food-poisoning,NSTG 2022,Infectious/Tropical,17,1,2,6,2,12,5,True,False,True,True,True
+Foreign Bodies in the Airways,foreign-bodies-in-the-airways,NSTG 2022,Surgical/Emergency,2,2,1,2,4,1,2,True,False,True,True,True
+Foreign Bodies in the Ear,foreign-bodies-in-the-ear,NSTG 2022,"ENT (Ear, Nose & Throat)",0,3,3,2,2,1,0,True,False,True,True,True
+Foreign Bodies in the Nose and Rhinoliths,foreign-bodies-in-the-nose-and-rhinoliths,NSTG 2022,"ENT (Ear, Nose & Throat)",0,2,3,1,2,1,0,True,False,True,True,True
+Foreign Body Impaction,foreign-body-impaction,NSTG 2022,Gastrointestinal,1,2,1,1,0,0,1,True,False,False,True,False
+Frailty,frailty,NSTG 2022,Geriatric,1,1,6,0,5,6,0,True,False,True,False,True
+Furunculosis (Boils),furunculosis-boils,NSTG 2022,Dermatological,4,0,5,3,3,0,1,True,False,False,True,True
+Gastric Cancer,gastric-cancer,NSTG 2022,Oncology,0,2,1,0,0,0,0,True,False,False,False,False
+Gastritis,gastritis,NSTG 2022,Gastrointestinal,6,0,2,2,0,1,4,True,False,True,True,False
+Giardiasis,giardiasis,NSTG 2022,Infectious/Tropical,2,0,3,1,0,2,1,True,False,True,True,False
+Gingival Abscess,gingival-abscess,NSTG 2022,Dental/Oral Health,1,2,0,0,0,0,3,True,False,False,False,False
+Glaucoma,glaucoma,NSTG 2022,Ophthalmology,6,0,4,3,2,2,0,True,False,True,True,True
+Gonorrhea,gonorrhea,NSTG 2022,Infectious/Tropical,0,0,1,10,10,0,0,True,False,False,True,True
+Gout,gout,NSTG 2022,Endocrine/Metabolic,11,8,6,0,8,0,2,True,False,False,False,True
+Granuloma Inguinale (Donovanosis Granuloma Venereum),granuloma-inguinale,NSTG 2022,Infectious/Tropical,8,0,1,2,8,1,5,True,False,True,True,True
+Guinea Worm Disease (Dracunculiasis),guinea-worm-disease-dracunculiasis,NSTG 2022,Infectious/Tropical,4,2,1,7,2,2,3,True,False,True,True,True
+Haemorrhoids,haemorrhoids,NSTG 2022,Gastrointestinal,2,5,2,4,0,0,1,True,False,False,True,False
+Headaches,headaches,NSTG 2022,Neurological/Mental,0,0,0,0,0,0,0,True,False,False,False,False
+Heart Failure,heart-failure,NSTG 2022,Cardiovascular,11,5,7,3,4,2,5,True,False,True,True,True
+Helminthiasis,helminthiasis,NSTG 2022,Infectious/Tropical,11,0,4,0,0,4,4,True,False,True,False,False
+Hepatitis,hepatitis,NSTG 2022,Infectious/Tropical,8,3,6,3,0,0,0,True,False,False,True,False
+Hepatocellular Carcinoma (HCC),hepatocellular-carcinoma-hcc,NSTG 2022,Oncology,0,0,8,0,0,3,0,True,False,True,False,False
+Herpes Zoster,herpes_zoster,NSTG 2022,Infectious/Tropical,6,0,4,5,1,0,0,True,False,False,True,True
+Human Immunodeficiency Virus (HIV) Infection,human-immunodeficiency-virus-hiv-infection,NSTG 2022,Infectious/Tropical,8,0,18,8,4,6,0,True,False,True,True,True
+Hyperemesis Gravidarum,hyperemesis-gravidarum,NSTG 2022,Maternal/Reproductive,2,4,7,13,10,0,0,True,False,False,True,True
+Hyperglycemia in a Child,hyperglycemia-in-a-child,NSTG 2022,Endocrine/Metabolic,2,3,0,0,0,0,1,True,False,False,False,False
+Hyperglycemia in a Child,hyperglycemia-in-a-child,NSTG 2022,Endocrine/Metabolic,2,2,0,0,0,0,1,True,False,False,False,False
+Hyperlipidaemia,hyperlipidaemia,NSTG 2022,Endocrine/Metabolic,1,4,5,4,3,2,0,True,False,True,True,True
+Hypertension,hypertension,NSTG 2022,Cardiovascular,15,7,10,6,0,5,4,True,True,True,True,False
+Hypoglycemia in a Child,hypoglycemia_in_a_child,NSTG 2022,Endocrine/Metabolic,6,1,2,0,0,0,1,True,False,False,False,False
+Hypoglycemia in a Child,hypoglycemia-in-a-child,NSTG 2022,Endocrine/Metabolic,5,2,2,0,0,0,1,True,False,False,False,False
+Hypothyroidism (Myxoedema),hypothyroidism-myxoedema,NSTG 2022,Endocrine/Metabolic,2,0,3,1,2,1,0,True,False,True,True,True
+Idiopathic Inflammatory Myopathies,idiopathic-inflammatory-myopathies,NSTG 2022,Musculoskeletal,10,1,13,0,6,0,3,True,False,False,False,True
+Impetigo Contagiosa,impetigo-contagiosa,NSTG 2022,Infectious/Tropical,7,2,1,4,2,0,1,True,False,False,True,True
+Infective Conjunctivitis,infective_conjunctivitis,NSTG 2022,Ophthalmology,13,1,1,2,4,2,3,True,False,True,True,True
+Infective Endocarditis,infective-endocarditis,NSTG 2022,Infectious/Tropical,7,2,6,3,2,9,7,True,False,True,True,True
+Insomnia,insomnia,NSTG 2022,Neurological/Mental,2,4,1,2,2,3,1,True,False,True,True,True
+Intra-hepatic Cholestatic Jaundice of Pregnancy,intra-hepatic-cholestatic-jaundice-of-pregnancy,NSTG 2022,Maternal/Reproductive,0,2,6,8,0,0,0,True,False,False,True,False
+Jaundice in Pregnancy,jaundice-in-pregnancy,NSTG 2022,Maternal/Reproductive,0,0,2,3,0,0,0,True,True,False,True,False
+Jaundice,jaundice,NSTG 2022,Gastrointestinal,2,0,4,0,0,0,0,True,False,False,False,False
+Juvenile Periodontitis,juvenile-periodontitis,NSTG 2022,Dental/Oral Health,7,8,1,3,0,0,5,True,False,False,True,False
+Kwashiorkor and Marasmus,kwashiorkor-and-marasmus,NSTG 2022,Nutritional,1,3,7,0,0,0,0,True,False,False,False,False
+Leukaemia,leukaemia,NSTG 2022,Oncology,1,5,13,1,3,0,2,True,False,False,True,True
+Lichen Planus,lichen_planus,NSTG 2022,Dermatological,9,0,2,2,11,1,1,True,False,True,True,True
+Liver Cirrhosis,liver-cirrhosis,NSTG 2022,Gastrointestinal,5,3,6,0,0,2,2,True,False,True,False,False
+Lung Abscess,lung-abscess,NSTG 2022,Respiratory,9,3,5,3,3,6,2,True,False,True,True,True
+Lung Cancer,lung-cancer,NSTG 2022,Oncology,0,0,5,0,0,3,0,True,True,True,False,False
+Lymphogranuloma Venereum,lymphogranuloma-venereum,NSTG 2022,Infectious/Tropical,3,3,3,6,2,4,3,True,False,True,True,True
+Lymphomas,lymphomas,NSTG 2022,Oncology,3,3,10,0,0,1,0,True,False,True,False,False
+Malaria in the Newborn,malaria-in-the-newborn,NSTG 2022,Infectious/Tropical,3,2,4,0,0,0,1,True,False,False,False,False
+Malaria in the Newborn,malaria-in-the-newborn,NSTG 2022,Infectious/Tropical,3,0,4,0,0,0,1,True,False,False,False,False
+Male Infertility,male-infertility,NSTG 2022,Maternal/Reproductive,0,8,6,0,0,0,0,True,False,False,False,False
+Mastoiditis,mastoiditis,NSTG 2022,"ENT (Ear, Nose & Throat)",4,2,4,5,1,1,3,True,False,True,True,True
+Measles (Rubeola),measles-rubeola,NSTG 2022,Infectious/Tropical,4,4,5,9,7,4,1,True,False,True,True,True
+Meningitis,meningitis,NSTG 2022,Infectious/Tropical,8,4,9,5,5,2,6,True,False,True,True,True
+Micronutrient Deficiencies,micronutrient-deficiencies,NSTG 2022,Nutritional,1,2,1,0,0,3,0,True,False,True,False,False
+Migraines,migraines,NSTG 2022,Neurological/Mental,14,3,3,4,8,3,3,True,False,True,True,True
+Molluscum Contagiosum,molluscum-contagiosum,NSTG 2022,Infectious/Tropical,2,3,1,1,2,1,0,True,False,True,True,True
+Multiple Myeloma,multiple-myeloma,NSTG 2022,Oncology,6,0,6,0,0,0,2,True,False,False,False,False
+Myiasis,myiasis,NSTG 2022,Dermatological,2,2,0,1,1,1,0,True,False,True,True,True
+Myocarditis,myocarditis,NSTG 2022,Cardiovascular,7,1,6,3,1,3,3,True,False,True,True,True
+Malaria,malaria,NSTG 2022,Infectious/Tropical,7,0,9,10,5,7,4,True,False,True,True,True
+Nasal Allergy,nasal-allergy,NSTG 2022,"ENT (Ear, Nose & Throat)",3,2,5,2,3,1,0,True,False,True,True,True
+Necrotizing Enterocolitis,necrotizing-enterocolitis,NSTG 2022,Gastrointestinal,1,7,5,2,0,0,3,True,True,False,True,False
+Necrotizing Enterocolitis,necrotizing-enterocolitis,NSTG 2022,Gastrointestinal,3,9,5,2,0,0,3,True,False,False,True,False
+Neonatal Jaundice,neonatal-jaundice,NSTG 2022,Gastrointestinal,1,6,9,0,0,0,1,True,False,False,False,False
+Neonatal Sepsis,neonatal-sepsis,NSTG 2022,Paediatric,4,0,2,0,0,0,4,True,False,False,False,False
+Neonatal Sepsis,neonatal-sepsis,NSTG 2022,Paediatric,3,2,2,0,0,0,4,True,False,False,False,False
+Neonatal Jaundice,neonatal-jaundice,NSTG 2022,Gastrointestinal,1,6,9,0,0,0,0,True,False,False,False,False
+Neoplasms of the Salivary Gland,neoplasms-of-the-salivary-gland,NSTG 2022,Dental/Oral Health,2,0,3,0,0,0,1,True,False,False,False,False
+Nephrotic Syndrome,nephrotic-syndrome,NSTG 2022,Renal/Urological,3,0,4,6,3,2,2,True,False,True,True,True
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),non-obstructive-simple-chronic-bronchitis-ncb,NSTG 2022,Respiratory,5,5,5,2,4,0,1,True,True,False,True,True
+Obesity,obesity,NSTG 2022,Endocrine/Metabolic,2,3,3,11,0,0,0,True,False,False,True,False
+Obesity,obesity,NSTG 2022,Endocrine/Metabolic,0,9,1,6,0,0,0,True,False,False,True,False
+Onchocerciasis (River Blindness),onchocerciasis-river-blindness,NSTG 2022,Infectious/Tropical,2,1,4,1,7,4,2,True,False,True,True,True
+Ophthalmia Neonatorum,ophthalmia-neonatorum,NSTG 2022,Paediatric,5,1,1,2,1,2,4,True,False,True,True,True
+Oral Thrush (Candidiasis),oral-thrush-candidiasis,NSTG 2022,Dental/Oral Health,3,5,5,0,0,1,1,True,False,True,False,False
+Otitis Externa,otitis-externa,NSTG 2022,"ENT (Ear, Nose & Throat)",3,3,4,1,2,2,3,True,False,True,True,True
+Solid Tumours in Surgical Practice,solid-tumours-in-surgical-practice,NSTG 2022,Oncology,6,0,0,0,0,2,0,True,False,True,False,False
+Osteoarthritis,osteoarthritis,NSTG 2022,Musculoskeletal,9,9,3,4,5,2,5,True,False,True,True,True
+Pancreatitis,pancreatitis,NSTG 2022,Gastrointestinal,4,0,8,8,0,0,2,True,False,False,True,False
+Panic Disorder,panic-disorder,NSTG 2022,Neurological/Mental,2,1,1,3,3,1,0,True,False,True,True,True
+Parkinsonism,parkinsonism,NSTG 2022,Neurological/Mental,4,1,2,3,6,2,0,True,False,True,True,True
+Pediculosis (Lice),pediculosis-lice,NSTG 2022,Dermatological,2,0,2,4,11,2,0,True,False,True,True,True
+Pelvic Inflammatory Diseases,pelvic-inflammatory-diseases,NSTG 2022,Maternal/Reproductive,7,0,9,7,8,4,4,True,False,True,True,True
+Peptic Ulcer Disease (PUD),peptic-ulcer-disease-pud,NSTG 2022,Gastrointestinal,6,0,4,4,0,0,3,True,False,False,True,False
+Pericarditis,pericarditis,NSTG 2022,Cardiovascular,3,1,4,2,3,2,1,True,False,True,True,True
+Pericoronitis,pericoronitis,NSTG 2022,Dental/Oral Health,3,5,3,5,0,0,0,True,False,False,True,False
+Periodontitis,periodontitis,NSTG 2022,Dental/Oral Health,5,2,0,0,0,2,3,True,False,True,False,False
+Peripheral Vascular Disease,peripheral-vascular-disease,NSTG 2022,Cardiovascular,6,2,3,5,5,1,3,True,False,True,True,True
+Peritonsillar Abscess (Quinsy),peritonsillar-abscess-quinsy,NSTG 2022,"ENT (Ear, Nose & Throat)",4,1,2,2,3,1,3,True,False,True,True,True
+Pharyngitis (Sore Throat),pharyngitis-sore-throat,NSTG 2022,"ENT (Ear, Nose & Throat)",1,3,3,1,2,0,0,True,False,False,True,True
+Pityriasis Rosea,pityriasis-rosea,NSTG 2022,Dermatological,6,0,3,0,9,0,2,True,False,False,False,True
+Pityriasis Versicolor (Tinea Versicolor),pityriasis-versicolor-tinea-versicolor,NSTG 2022,Dermatological,3,0,1,2,4,3,0,True,False,True,True,True
+Plaque-Induced Gingivitis,plaque-induced-gingivitis,NSTG 2022,Dental/Oral Health,3,4,0,0,0,2,3,True,False,True,False,False
+Pneumonia,pneumonia,NSTG 2022,Respiratory,12,3,11,10,5,2,4,True,False,True,True,True
+Poliomyelitis,poliomyelitis,NSTG 2022,Infectious/Tropical,4,10,6,10,7,15,0,True,False,True,True,True
+Poliomyelitis,poliomyelitis,NSTG 2022,Infectious/Tropical,4,10,4,11,7,15,0,True,False,True,True,True
+Posterior Urethral Valves,posterior-urethral-valves,NSTG 2022,Renal/Urological,0,2,7,7,5,0,0,True,False,False,True,True
+Prevention and Control of Surgical Site Infection,prevention-and-control-of-surgical-site-infection,NSTG 2022,Surgical/Emergency,0,6,0,4,0,2,0,True,False,True,True,False
+Prevention of Blood Loss and Blood Transfusion in Surgery,prevention-of-blood-loss-and-blood-transfusion-in-surgery,NSTG 2022,Haematological,0,0,0,21,0,6,0,True,False,True,True,False
+Prevention of Diabetes,prevention-of-diabetes,NSTG 2022,Endocrine/Metabolic,0,0,0,0,0,3,0,True,False,True,False,False
+Priapism,priapism,NSTG 2022,Renal/Urological,2,5,3,1,0,1,0,True,False,True,True,False
+Prostatitis,prostatitis,NSTG 2022,Renal/Urological,6,3,7,4,4,0,6,True,False,False,True,True
+Pruritus,pruritus,NSTG 2022,Dermatological,9,3,1,4,1,2,1,True,False,True,True,True
+Psoriasis,psoriasis,NSTG 2022,Dermatological,14,0,1,2,15,2,1,True,False,True,True,True
+Pulmonary Oedema,pulmonary-oedema,NSTG 2022,Respiratory,6,3,6,2,2,2,3,True,False,True,True,True
+Pulmonary Tuberculosis,pulmonary-tuberculosis,NSTG 2022,Infectious/Tropical,5,2,7,10,4,0,4,True,False,False,True,True
+Pulpitis,pulpitis,NSTG 2022,Dental/Oral Health,6,6,5,6,0,2,1,True,False,True,True,False
+Rabies,rabies,NSTG 2022,Infectious/Tropical,8,1,8,0,4,3,0,True,False,True,False,True
+Rape,rape,NSTG 2022,Maternal/Reproductive,9,2,6,0,4,9,0,True,False,True,False,True
+Recurrent Aphthous Stomatitis (RAS),recurrent-aphthous-stomatitis-ras,NSTG 2022,Dental/Oral Health,3,0,0,0,0,0,1,True,False,False,False,False
+Rheumatic Heart Disease,rheumatic-heart-disease,NSTG 2022,Cardiovascular,4,2,5,4,3,1,1,True,False,True,True,True
+Renal Cell Carcinoma,renal-cell-carcinoma,NSTG 2022,Renal/Urological,1,1,9,0,3,0,0,True,True,False,False,True
+Rheumatic and Musculoskeletal Disorders,rheumatic-and-musculoskeletal-disorders,NSTG 2022,Musculoskeletal,0,0,0,0,0,0,0,True,False,False,False,False
+Rheumatic Fever,rheumatic-fever,NSTG 2022,Cardiovascular,5,1,7,3,4,3,4,True,False,True,True,True
+Rheumatoid Arthritis,rheumatoid-arthritis,NSTG 2022,Musculoskeletal,0,0,0,0,0,0,0,True,False,False,False,False
+Rheumatoid Arthritis,rheumatoid-arthritis,NSTG 2022,Musculoskeletal,14,1,14,0,6,0,4,True,False,False,False,True
+Safety of Drugs and Pharmacovigilance,safety-of-drugs-and-pharmacovigilance,NSTG 2022,Other (Unclassifiable),0,2,0,0,0,0,0,True,False,False,False,False
+Drug Safety and Pharmacovigilance,drug-safety-and-pharmacovigilance,NSTG 2022,Other (Unclassifiable),0,2,0,0,0,0,0,True,False,False,False,False
+Salivary Gland Diseases,salivary-gland-diseases,NSTG 2022,Dental/Oral Health,0,0,0,0,0,0,0,True,False,False,False,False
+Scabies,scabies,NSTG 2022,Dermatological,7,0,2,1,4,0,1,True,False,False,True,True
+Schizophrenia,schizophrenia,NSTG 2022,Neurological/Mental,3,4,1,4,4,3,2,True,False,True,True,True
+Scleritis/Episcleritis,scleritis-episcleritis,NSTG 2022,Ophthalmology,2,0,1,3,3,1,0,True,False,True,True,True
+Scleroderma (Systemic Sclerosis),scleroderma-systemic-sclerosis,NSTG 2022,Musculoskeletal,17,3,8,0,6,0,3,True,False,False,False,True
+Scorpion Sting,scorpion-sting,NSTG 2022,Surgical/Emergency,7,2,2,0,0,0,3,True,False,False,False,False
+Scorpion Sting,scorpion-sting,NSTG 2022,Surgical/Emergency,7,2,2,0,0,0,3,True,False,False,False,False
+Seizures/Epilepsies,seizures-epilepsies,NSTG 2022,Neurological/Mental,16,3,4,4,7,6,5,True,False,True,True,True
+Septic Arthritis,septic-arthritis,NSTG 2022,Musculoskeletal,4,2,6,2,7,0,4,True,False,False,True,True
+Sialadenitis,sialadenitis,NSTG 2022,Dental/Oral Health,2,2,2,7,2,0,0,True,False,False,True,True
+Sickle Cell Disease,sickle-cell-disease,NSTG 2022,Haematological,12,3,11,6,3,2,5,True,False,True,True,True
+Sickle Cell Disease,sickle-cell-disease,NSTG 2022,Haematological,18,14,20,8,0,1,5,True,False,True,True,False
+Sickle Cell Disease,sickle-cell-disease,NSTG 2022,Haematological,11,14,22,8,0,0,5,True,False,False,True,False
+Sinusitis,sinusitis,NSTG 2022,"ENT (Ear, Nose & Throat)",29,7,5,10,3,3,4,True,False,True,True,True
+Snake Bite,snake-bite,NSTG 2022,Surgical/Emergency,5,9,7,10,0,0,0,True,False,False,True,False
+Snake Bite,snake-bite,NSTG 2022,Surgical/Emergency,4,7,7,0,0,1,0,True,False,True,False,False
+Soft Tissue Sarcoma,soft-tissue-sarcoma,NSTG 2022,Oncology,0,0,7,0,0,0,0,True,False,False,False,False
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",stroke,NSTG 2022,Neurological/Mental,3,5,5,2,8,2,3,True,False,True,True,True
+Stye (Hordeolum),stye-hordeolum,NSTG 2022,Ophthalmology,4,2,1,3,1,2,1,True,False,True,True,True
+Surgical Care,surgical-care,NSTG 2022,Surgical/Emergency,4,13,9,4,0,0,1,True,False,False,True,False
+Syncope (Fainting),syncope-fainting,NSTG 2022,Cardiovascular,2,1,4,3,5,5,0,True,False,True,True,True
+Syphilis,syphilis,NSTG 2022,Infectious/Tropical,4,0,3,2,10,6,4,True,False,True,True,True
+Systemic Lupus Erythematosus,systemic_lupus_erythematosus,NSTG 2022,Musculoskeletal,12,4,7,0,5,0,3,True,False,False,False,True
+Temporomandibular Joint Disorders,temporomandibular-joint-disorders,NSTG 2022,Dental/Oral Health,0,0,0,0,0,0,0,True,False,False,False,False
+Temporomandibular Joint Pain Dysfunction Syndrome,temporomandibular_joint_pain_dysfunction_syndrome,NSTG 2022,Dental/Oral Health,3,5,0,0,2,0,1,True,False,False,False,True
+Tetanus,tetanus,NSTG 2022,Infectious/Tropical,5,8,8,8,6,3,4,True,False,True,True,True
+The Empty Scrotum,the-empty-scrotum,NSTG 2022,Renal/Urological,1,0,6,4,0,0,0,True,False,False,True,False
+The Paralyzed Patient,the-paralyzed-patient,NSTG 2022,Neurological/Mental,5,5,7,6,4,4,1,True,False,True,True,True
+The Red Eye,the-red-eye,NSTG 2022,Ophthalmology,0,0,0,0,0,0,0,True,False,False,False,False
+The Unconscious Patient,the-unconscious-patient,NSTG 2022,Neurological/Mental,4,2,8,1,10,4,1,True,False,True,True,True
+Thyrotoxicosis,thyrotoxicosis,NSTG 2022,Endocrine/Metabolic,6,0,7,6,7,0,0,True,False,False,True,True
+Tonsillitis,tonsillitis,NSTG 2022,"ENT (Ear, Nose & Throat)",14,3,2,3,3,0,3,True,False,False,True,True
+Torsion of the Testis,torsion-of-the-testis,NSTG 2022,Renal/Urological,0,0,2,4,6,0,0,True,False,False,True,True
+Trachoma,trachoma,NSTG 2022,Ophthalmology,7,0,3,3,3,4,3,True,False,True,True,True
+Trauma to the Temporomandibular Joint,trauma-to-the-temporomandibular-joint,NSTG 2022,Dental/Oral Health,0,0,0,0,0,0,0,False,False,False,False,False
+Apnea in a Child,apnea-in-a-child,NSTG 2022,Paediatric,3,3,1,0,11,1,1,True,False,True,False,True
+Apnea in a Child,apnea-in-a-child,NSTG 2022,Paediatric,3,4,2,0,11,1,1,True,False,True,False,True
+Trichomoniasis,trichomoniasis,NSTG 2022,Infectious/Tropical,11,0,1,2,1,1,1,True,False,True,True,True
+Trypanosomiasis (Sleeping Sickness),trypanosomiasis-sleeping-sickness,NSTG 2022,Infectious/Tropical,4,0,2,0,3,3,0,True,False,True,False,True
+Tumour Lysis Syndrome,tumour-lysis-syndrome,NSTG 2022,Oncology,6,0,5,0,0,4,1,True,False,True,False,False
+Typhoid Fever (Enteric Fever),typhoid-fever-enteric-fever,NSTG 2022,Infectious/Tropical,8,2,8,11,0,7,1,True,False,True,True,False
+Urethral Strictures,urethral-strictures,NSTG 2022,Renal/Urological,0,4,8,6,4,3,0,True,False,True,True,True
+Urinary Schistosomiasis,urinary-schistosomiasis,NSTG 2022,Infectious/Tropical,3,0,6,5,3,4,1,True,False,True,True,True
+Urinary Tract Calculi,urinary-tract-calculi,NSTG 2022,Renal/Urological,6,4,6,4,4,0,0,True,False,False,True,True
+Urticaria and Angioedema,urticaria-and-angioedema,NSTG 2022,Dermatological,5,6,1,2,20,1,2,True,False,True,True,True
+Varicella (Chickenpox),varicella-chickenpox,NSTG 2022,Infectious/Tropical,3,0,3,4,4,1,1,True,False,True,True,True
+Vertigo,vertigo,NSTG 2022,"ENT (Ear, Nose & Throat)",2,1,5,2,3,0,0,True,False,False,True,True
+Viral Hepatitis,viral-hepatitis,NSTG 2022,Infectious/Tropical,1,5,0,0,0,0,0,True,False,False,False,False
+Viral Warts (Verrucae),viral-warts-verrucae,NSTG 2022,Infectious/Tropical,3,3,1,3,14,2,0,True,False,True,True,True
+Vitamin A Deficiency,vitamin_a_deficiency,NSTG 2022,Nutritional,5,2,10,2,3,2,0,True,False,True,True,True
+Vitamin A Deficiency,vitamin_a_deficiency,NSTG 2022,Nutritional,5,2,10,2,3,2,0,True,False,True,True,True
+Vitamin K Deficiency Bleeding,vitamin-k-deficiency-bleeding,NSTG 2022,Haematological,2,0,5,0,0,1,0,True,False,True,False,False
+Vitamin K Deficiency Bleeding,vitamin-k-deficiency-bleeding,NSTG 2022,Haematological,5,0,5,0,0,1,0,True,False,True,False,False
+Vitiligo,vitiligo,NSTG 2022,Dermatological,5,0,1,1,8,0,2,True,False,False,True,True
+Vulvo-Vaginal Candidiasis,vulvo-vaginal-candidiasis,NSTG 2022,Maternal/Reproductive,6,0,2,2,1,2,1,True,False,True,True,True
+Wax in the Ear,wax-in-the-ear,NSTG 2022,"ENT (Ear, Nose & Throat)",2,3,0,2,2,0,0,True,False,False,True,True
+Xerophthalmia,xerophthalmia,NSTG 2022,Nutritional,3,1,2,3,1,3,0,True,False,True,True,True

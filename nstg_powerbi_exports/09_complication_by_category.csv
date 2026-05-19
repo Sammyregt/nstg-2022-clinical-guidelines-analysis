@@ -1,0 +1,20 @@
+category,total_complications,n_conditions,avg_per_condition
+Haematological,57,5,11.4
+Endocrine/Metabolic,33,5,6.6
+Infectious/Tropical,192,33,5.82
+Surgical/Emergency,20,4,5.0
+Renal/Urological,51,11,4.64
+Maternal/Reproductive,54,12,4.5
+Respiratory,40,9,4.44
+Gastrointestinal,34,8,4.25
+Neurological/Mental,58,14,4.14
+Dental/Oral Health,23,6,3.83
+Oncology,23,6,3.83
+Geriatric,7,2,3.5
+Nutritional,7,2,3.5
+Cardiovascular,45,13,3.46
+Dermatological,52,17,3.06
+Musculoskeletal,6,2,3.0
+"ENT (Ear, Nose & Throat)",48,16,3.0
+Ophthalmology,24,9,2.67
+Paediatric,2,1,2.0

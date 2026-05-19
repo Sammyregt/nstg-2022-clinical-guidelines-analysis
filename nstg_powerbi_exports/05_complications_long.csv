@@ -1,0 +1,777 @@
+condition_name,category,complication
+Abortion,Maternal/Reproductive,"Endometritis, parametritis, peritonitis, haemorrhage, secondary infertility, chronic pelvic pain, dyspareunia."
+Abortion,Maternal/Reproductive,"Induced abortion can be complicated by uterine perforation, bladder or intestinal injuries and shock"
+Acne Vulgaris,Dermatological,Psychosocial problems from cosmetic disfigurement
+Acne Vulgaris,Dermatological,Post-inflammatory pigmentary changes
+Acne Vulgaris,Dermatological,Pitted scars
+Acne Vulgaris,Dermatological,Keloids
+Acne Vulgaris,Dermatological,Acne fulminans (acute febrile ulcerative acne conglobata with polyarthritis and leukemoid reaction)
+Acute Anterior Uveitis,Ophthalmology,Secondary glaucoma
+Acute Anterior Uveitis,Ophthalmology,Secondary cataracts
+Acute Bronchitis,Respiratory,Pneumonia
+Acute Bronchitis,Respiratory,Acute respiratory failure
+Acute Bronchitis,Respiratory,Repeated bouts of acute bronchitis over time may lead to COP
+Acute Coronary Syndrome,Cardiovascular,Arrhythmia
+Acute Coronary Syndrome,Cardiovascular,Pulmonary oedema
+Acute Coronary Syndrome,Cardiovascular,Septal/chordae/myocardial wall rupture
+Acute Coronary Syndrome,Cardiovascular,Stroke
+Acute Coronary Syndrome,Cardiovascular,Ventricular aneurysm
+Acute Coronary Syndrome,Cardiovascular,Pericarditis
+Acute Diarrhoea,Gastrointestinal,Hypovolaemic shock.
+Acute Diarrhoea,Gastrointestinal,Electrolyte imbalance.
+Acute Diarrhoea,Gastrointestinal,Septicaemia
+Acute Diarrhoea,Gastrointestinal,Intestinal perforation
+Acute Diarrhoea,Gastrointestinal,Gastro-intestinal bleeding
+Acute Diarrhoea,Gastrointestinal,Paralytic ileus
+Acute Epiglottitis,Respiratory,Airway obstruction
+Acute Epiglottitis,Respiratory,Epiglottic abscess
+Acute Epiglottitis,Respiratory,Secondary infection
+Acute Epiglottitis,Respiratory,"Necrotizing epiglottitis (rare, in immunodeficiency)"
+Acute Epiglottitis,Respiratory,Death
+Acute Keratitis,Ophthalmology,Corneal perforation
+Acute Keratitis,Ophthalmology,Corneal scarification
+Acute Kidney Injury,Renal/Urological,Pulmonary oedema
+Acute Kidney Injury,Renal/Urological,Infections
+Acute Kidney Injury,Renal/Urological,"Electrolyte abnormalities: Hyperkalaemia, Hypokalaemia, Hyponatraemia"
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",Acute mastoiditis
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",Facial nerve paralysis
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",Labyrinthitis
+Acute Otitis Media,"ENT (Ear, Nose & Throat)","Intracranial (meningitis, brain abscess, lateral sinus thrombosis)"
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,Superimposed bacterial rhinitis
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,Suspect this if symptoms last longer than 7-10days
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,Sinusitis (suspect with worsening symptoms with facial pain)
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,Lower respiratory infection
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,Otitis media
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,Obstruction of internal auditory meatus: may cause deafness.
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",Sinusitis
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",Recurrent otitis media
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",Pneumonitis
+Alcohol Dependence (Alcoholism),Neurological/Mental,Hypertension
+Alcohol Dependence (Alcoholism),Neurological/Mental,Liver cirrhosis
+Alcohol Dependence (Alcoholism),Neurological/Mental,Damage to other organs (including the brain)
+Alcohol Dependence (Alcoholism),Neurological/Mental,Accidents
+Alcohol Dependence (Alcoholism),Neurological/Mental,Delirium tremens
+Alcohol Dependence (Alcoholism),Neurological/Mental,Increased mortality (reduce life expectancy)
+Alcohol Dependence (Alcoholism),Neurological/Mental,"Family, social and occupational disability"
+Allergic Conjunctivitis,Ophthalmology,Pannus formation
+Allergic Conjunctivitis,Ophthalmology,Keratoconus
+Allergic Conjunctivitis,Ophthalmology,Corneal plaques
+Alveolar Osteitis (Dry Socket),Dental/Oral Health,Osteomyelitis
+Amoebiasis,Infectious/Tropical,Amoebic Liver Abscess (ALA)
+Amoebiasis,Infectious/Tropical,Intracranial space-occupying lesion
+Amoebiasis,Infectious/Tropical,"Rupture:Hepatobronchial amoebiasis, Lungs Abscess, Peritoneal Abscess"
+Amoebiasis,Infectious/Tropical,Amoeboma
+Amoebiasis,Infectious/Tropical,Anal ulceration
+Amoebiasis,Infectious/Tropical,Amoebic cutis
+Amoebiasis,Infectious/Tropical,Chronic carrier
+Anaemias,Haematological,Cardiac failure
+Anemia in Pregnancy,Maternal/Reproductive,"Maternal complications: Abortion, Cardiac failure, Reduced ability to tolerate blood loss at delivery, Reduced ability to tolerate anaesthesia, Diminished resistance to infection, Preterm labour, Precipitate labour may occur, Death"
+Anemia in Pregnancy,Maternal/Reproductive,"Foetal complications: Spontaneous abortion, Intrauterine growth restriction, Intrauterine foetal death (leading to still birth), Prematurity, Risk of developing anaemia within 2 - 3 months of birth if mother suffered iron deficiency anaemia"
+Anxiety Disorder,Neurological/Mental,Chronicity
+Anxiety Disorder,Neurological/Mental,Co-morbid depression
+Anxiety Disorder,Neurological/Mental,Substance use disorders
+Anxiety Disorder,Neurological/Mental,Insomnia
+Anxiety Disorder,Neurological/Mental,Poor quality of life
+Anxiety Disorder,Neurological/Mental,Problems at school or work
+Anxiety Disorder,Neurological/Mental,Medical morbidity (e.g. hypertension)
+Atopic Dermatitis (Atopic Eczema),Dermatological,Bacterial infections of the skin
+Atopic Dermatitis (Atopic Eczema),Dermatological,Eczema herpeticum
+Atopic Dermatitis (Atopic Eczema),Dermatological,Complications of over treatment with steroids
+Bacillary Dysentery,Infectious/Tropical,Septicaemia/bacteraemia
+Bacillary Dysentery,Infectious/Tropical,Severe rectal bleeding
+Bacillary Dysentery,Infectious/Tropical,Intestinal perforation
+Bacillary Dysentery,Infectious/Tropical,Reiter's syndrome
+Bacterial Vaginosis,Maternal/Reproductive,Acute salpingitis
+Bacterial Vaginosis,Maternal/Reproductive,Premature rupture of membranes
+Bacterial Vaginosis,Maternal/Reproductive,Preterm delivery and low birth weight
+Benign Prostatic Hyperplasia,Renal/Urological,Urinary retention
+Benign Prostatic Hyperplasia,Renal/Urological,Recurrent Urinary Tract Infection
+Benign Prostatic Hyperplasia,Renal/Urological,Bladder calculus
+Benign Prostatic Hyperplasia,Renal/Urological,chronic renal insufficiency & Acute renal failure
+Benign Prostatic Hyperplasia,Renal/Urological,Haematuria
+Benign Prostatic Hyperplasia,Renal/Urological,Obstructive uropathy
+Bipolar Disorders,Neurological/Mental,"Social and personal consequences of inappropriate behaviour (e.g. unplanned pregnancy, drug and alcohol abuse, sexually-transmitted infections, etc.)"
+Bipolar Disorders,Neurological/Mental,Suicide and Homicide
+Bipolar Disorders,Neurological/Mental,Increased risk of morbidity (reduce life expectancy) (e.g. trauma and accidents)
+Bipolar Disorders,Neurological/Mental,Poor performance at school or work
+Bipolar Disorders,Neurological/Mental,Financial or legal issues
+Bipolar Disorders,Neurological/Mental,Increased mortality
+Blood Transfusion in the Newborn,Haematological,Transfusion reactions are extremely rare in the newborn.
+Blood Transfusion in the Newborn,Haematological,"Risk of transmission of infections (HIV, Hepatitis B Virus, Hepatitis C Virus, CMV) is germane"
+Blood Transfusion in the Newborn,Haematological,"Hyperkalaemia, Hypocalcaemia, acidosis, hypothermia."
+Blood Transfusion in the Newborn,Haematological,Circulatory overload is common. The recommended measures include slowing of the drip rate and intravenous frusemide 1 mg/kg.
+Blood Transfusion in the Newborn,Haematological,Transfusion reactions are extremely rare in the newborn
+Blood Transfusion in the Newborn,Haematological,"Risk of transmission of infections such as HIV, Hepatitis B Virus, Hepatitis C Virus, CMV"
+Blood Transfusion in the Newborn,Haematological,Hyperkalaemia
+Blood Transfusion in the Newborn,Haematological,Hypocalcaemia
+Blood Transfusion in the Newborn,Haematological,Acidosis
+Blood Transfusion in the Newborn,Haematological,Hypothermia
+Blood Transfusion in the Newborn,Haematological,Circulatory overload is common
+Blood Transfusion,Haematological,"Immunological: Sensitization to red cell antigens, Haemolytic transfusion reactions (Immediate, Delayed), Reactions due to white cell and platelet antibodies, Febrile transfusion reactions, Post-transfusion purpura, Reactions due to white cell and plasma protein antibodies, Urticaria, Anaphylaxis"
+Blood Transfusion,Haematological,"Non-immunological: Transmission of disease, Reactions due to bacteria and bacterial pyrogens, Circulatory overload, Thrombophlebitis, Air embolism, Transfusion haemosiderosis, Complications of massive transfusion"
+Bronchial Asthma,Respiratory,Spontaneous pneumothorax
+Bronchial Asthma,Respiratory,Pneumo-mediastinum
+Bronchial Asthma,Respiratory,Atelectasis
+Bronchiectasis,Respiratory,Massive haemoptysis
+Bronchiectasis,Respiratory,Lung abscess
+Bronchiectasis,Respiratory,Mycotic abscess
+Bronchiectasis,Respiratory,Pulmonary amyloidosis
+Bronchiectasis,Respiratory,Ventilatory failure
+Bronchiectasis,Respiratory,Cor pulmonale and right ventricular failure
+Cancer Therapy,Oncology,Pain
+Cancer Therapy,Oncology,Fungating malignant ulcers
+Cancer Therapy,Oncology,Malignant pleural effusion and/or widespread lung parenchyma metastasis
+Cancer Therapy,Oncology,Brain metastasis
+Cancer Therapy,Oncology,Spinal metastasis
+Cancer Therapy,Oncology,Long bone metastasis and pathological fracture
+Cancer Therapy,Oncology,Limb lymphoedema associated with breast cancer
+Carcinoma of the Prostate,Oncology,Urinary retention
+Carcinoma of the Prostate,Oncology,Recurrent Urinary tract infection
+Carcinoma of the Prostate,Oncology,Obstructive uropathy
+Carcinoma of the Prostate,Oncology,Progressive renal failure
+Carcinoma of the Prostate,Oncology,Paraplegia/Paraparesis
+Carcinoma of the Prostate,Oncology,Pathological fractures
+Carcinoma of the Prostate,Oncology,Lymphoedema
+Cardiac Arrhythmias,Cardiovascular,Cardiac failure
+Cardiac Arrhythmias,Cardiovascular,Stroke
+Cardiac Arrhythmias,Cardiovascular,Peripheral embolic phenomena
+Cardiac Arrhythmias,Cardiovascular,Sudden death
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Maternal mortality in various conditions (25 - 50% in Eisenmenger's syndrome; 5% in tetralogy of Fallot; 1% in rheumatic heart disease)
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Congestive cardiac failure: greatest risk post-partum
+Cardiac Disease in Pregnancy,Maternal/Reproductive,"Foetal complications: Rheumatic heart disease causing intrauterine growth restriction, pre-term delivery, cyanotic congenital heart disease, poor outcomes with foetal loss up to 40%"
+Cardiac Disease in Pregnancy,Maternal/Reproductive,"Uncorrected coarctation of aorta leading to foetal growth restriction, pre-maturity, small for gestation age, intrauterine growth restriction, intrauterine fetal death, 10 - 15% chance of baby having congenital heart disease"
+Cardiomyopathies,Cardiovascular,Sudden cardiac death
+Cardiomyopathies,Cardiovascular,Thromboembolism
+Cardiomyopathies,Cardiovascular,Arrhythmias
+Cataract,Ophthalmology,"In congenital cases, can lead to amblyopia in children (lazy eye) if not operated early"
+Cataract,Ophthalmology,Intumescent cataract with secondary glaucoma
+Cataract,Ophthalmology,Phacolytic uveitis and glaucoma
+Cellulitis,Dermatological,"Extension towards the eyes, and risk of cavernous sinus thrombosis: cellulitis affecting maxillary teeth"
+Cellulitis,Dermatological,Respiratory difficulty: cellulitis affecting mandibular teeth
+Cellulitis,Dermatological,Unusual in immunocompetent adults; children and compromised adults are at higher risk
+Cellulitis,Dermatological,Septicaemia
+Cellulitis,Dermatological,Gangrene
+Cellulitis,Dermatological,Metastatic abscesses
+Cellulitis,Dermatological,Recurrent cellulitis may predispose to chronic lymphoedema
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,"Progressive ulceration and amputation of the phallus, particularly in HIV patients"
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Epididymo-orchitis and sterility in males
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Pelvic inflammatory disease (PID) and infertility in females
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Adverse pregnancy outcomes
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Conjunctivitis and pneumonia in the newborn
+Cholera,Infectious/Tropical,Hydropaenia/Hypovolaemic shock with multiple end organ failure leading to death
+Cholera,Infectious/Tropical,Dyselectrolytetaemia
+Cholera,Infectious/Tropical,Hypokalaemia
+Chronic Kidney Disease (CKD),Renal/Urological,Anaemia
+Chronic Kidney Disease (CKD),Renal/Urological,CKD Mineral and Bone Disease
+Chronic Kidney Disease (CKD),Renal/Urological,Congestive cardiac failure
+Chronic Kidney Disease (CKD),Renal/Urological,Cerebrovascular disease
+Chronic Kidney Disease (CKD),Renal/Urological,Peripheral vascular disease
+Chronic Kidney Disease (CKD),Renal/Urological,Malnutrition
+Chronic Lymphocytic Leukaemia,Oncology,Richter transformation
+Chronic Lymphocytic Leukaemia,Oncology,Progression of disease
+Chronic Myeloid Leukaemia (CML),Oncology,Blastic transformation
+Chronic Myeloid Leukaemia (CML),Oncology,Death
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)","Intracranial suppuration (extradural abscess, meningitis, or brain abscess)"
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)",Lateral sinus thrombosis
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)",Facial nerve paralysis
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)",Labyrinthitis
+Gonorrhea in Females,Infectious/Tropical,Infections of Skene's periurethral glands and Bartholin's labial glands; a Bartholin's gland abscess may cause pain on sitting or walking
+Gonorrhea in Females,Infectious/Tropical,Vulvitis
+Gonorrhea in Females,Infectious/Tropical,"Ascending infection to the endometrium, fallopian tubes, ovaries and peritoneum (pelvic inflammatory disease)"
+Gonorrhea in Females,Infectious/Tropical,Ectopic pregnancy
+Gonorrhea in Females,Infectious/Tropical,Infertility
+Gonorrhea in Females,Infectious/Tropical,Perihepatic abscess (Fitz-Hugh-Curtis syndrome)
+Gonorrhea in Females,Infectious/Tropical,Risk of disseminated gonococcal infection during pregnancy and menstruation
+Gonorrhea in Females,Infectious/Tropical,Premature rupture of membranes
+Gonorrhea in Females,Infectious/Tropical,Premature labour
+Gonorrhea in Females,Infectious/Tropical,Chorioamnionitis
+Gonorrhea in Females,Infectious/Tropical,Septic abortion
+Gonorrhea in Females,Infectious/Tropical,Ophthalmia neonatorum
+Gonorrhea in Females,Infectious/Tropical,Oropharyngeal gonorrhoea
+Congenital Heart Disease,Cardiovascular,Embolic phenomena
+Congenital Heart Disease,Cardiovascular,Cardiac failure
+Constipation,Gastrointestinal,Faecal impaction
+Constipation,Gastrointestinal,Rectal prolapse
+Constipation,Gastrointestinal,Anal fissures
+Constipation,Gastrointestinal,Haemorrhoids
+Constipation,Gastrointestinal,Rectal bleeding
+Contact Dermatitis,Dermatological,Impetiginization
+Contact Dermatitis,Dermatological,Secondary dissemination
+Coronavirus Disease (COVID-19),Infectious/Tropical,"Thromboembolism-Stroke, deep venous thrombosis, pulmonary embolism, or acute coronary syndrome"
+Coronavirus Disease (COVID-19),Infectious/Tropical,Acute liver injury
+Coronavirus Disease (COVID-19),Infectious/Tropical,Acute kidney injury
+Coronavirus Disease (COVID-19),Infectious/Tropical,Acute cardiac injury
+Coronavirus Disease (COVID-19),Infectious/Tropical,Disseminated intravascular coagulation (DIC)
+Coronavirus Disease (COVID-19),Infectious/Tropical,Sepsis and septic shock
+Coronavirus Disease (COVID-19),Infectious/Tropical,Acute respiratory failure
+Coronavirus Disease (COVID-19),Infectious/Tropical,Secondary infection
+Coronavirus Disease (COVID-19),Infectious/Tropical,Multiorgan failure
+Cushing's Syndrome,Endocrine/Metabolic,Diabetes mellitus
+Cushing's Syndrome,Endocrine/Metabolic,Osteoporosis and fractures
+Cushing's Syndrome,Endocrine/Metabolic,Hypopituitarism (compression of other corticotrophs)
+Cushing's Syndrome,Endocrine/Metabolic,Steroid psychosis
+Cushing's Syndrome,Endocrine/Metabolic,Hormone replacement
+Cutaneous Larva Migrans (Creeping Eruption),Dermatological,Secondary bacterial infection
+Cutaneous Larva Migrans (Creeping Eruption),Dermatological,Fatal Strongyloides stercoralis hyper infection in immunocompromised patients
+Cutaneous Squamous Cell Carcinoma,Oncology,Recurrent bleeding
+Cutaneous Squamous Cell Carcinoma,Oncology,joint stiffness
+Cutaneous Squamous Cell Carcinoma,Oncology,muscle weakness
+Cutaneous Squamous Cell Carcinoma,Oncology,perineural invasion
+Decubitus (Pressure) Ulcers,Dermatological,Secondary wound infection
+Decubitus (Pressure) Ulcers,Dermatological,Systemic Inflammatory Response Syndrome
+Decubitus (Pressure) Ulcers,Dermatological,Osteomyelitis
+Deep Vein Thrombosis,Cardiovascular,Pulmonary embolism
+Delirium,Neurological/Mental,Usually transient but may be associated with increased morbidity (e.g. from falls) and mortality
+Delirium,Neurological/Mental,"Increased length of hospital stay: functional decline, immobility, pressure ulcers, deep vein thrombosis, pulmonary embolism, etc."
+Delirium,Neurological/Mental,Complications associated with underlying causes
+Delirium,Neurological/Mental,Increased risk of dementia
+Delirium,Neurological/Mental,Worsening of pre-existing cognitive impairment
+Delirium,Neurological/Mental,Mortality
+Dental Caries,Dental/Oral Health,Pulpitis; If not treated can cause apical periodontitis and dento alveolar abscess
+Depression,Neurological/Mental,Worsening of co-morbid physical illness
+Depression,Neurological/Mental,Suicide
+Depression,Neurological/Mental,Recurrence
+Diabetes in Pregnancy,Maternal/Reproductive,Acute metabolic complications of diabetes mellitus
+Dizziness,"ENT (Ear, Nose & Throat)",Falls with fractures
+Dizziness,"ENT (Ear, Nose & Throat)",Stroke
+Dizziness,"ENT (Ear, Nose & Throat)",If due to intracranial tumour: raised intracranial pressure with coning is a distinct possibility
+Dizziness,"ENT (Ear, Nose & Throat)","If due to other intracranial pathology, there may be cranial nerve palsies"
+Ectopic Pregnancy,Maternal/Reproductive,Shock
+Ectopic Pregnancy,Maternal/Reproductive,Sterility (with the loss of both tubes)
+Ectopic Pregnancy,Maternal/Reproductive,Often requires blood transfusion (with its attendant cost and risk of blood-borne infections)
+Ectopic Pregnancy,Maternal/Reproductive,5-20% risk of having another ectopic gestation fatality
+Elder Mistreatment,Geriatric,Physical harm
+Elder Mistreatment,Geriatric,"Psychological harm e.g. living in fear, depression, anxiety, etc."
+Elder Mistreatment,Geriatric,Morbidity worsening
+Elder Mistreatment,Geriatric,Mortality
+Epistaxis,"ENT (Ear, Nose & Throat)",Haemorrhagic shock
+Epistaxis,"ENT (Ear, Nose & Throat)",Fatality
+Erectile Dysfunction,Maternal/Reproductive,Psychological disturbance – stress and anxiety
+Erectile Dysfunction,Maternal/Reproductive,Unsatisfactory sex life
+Erectile Dysfunction,Maternal/Reproductive,Embarrassment and low esteem
+Erectile Dysfunction,Maternal/Reproductive,Relationship problems
+Erectile Dysfunction,Maternal/Reproductive,Infertility
+Exfoliative Dermatitis (Erythroderma),Dermatological,Hypothermia
+Exfoliative Dermatitis (Erythroderma),Dermatological,Hypoalbuminaemia
+Exfoliative Dermatitis (Erythroderma),Dermatological,Dehydration
+Exfoliative Dermatitis (Erythroderma),Dermatological,High output cardiac failure
+Exfoliative Dermatitis (Erythroderma),Dermatological,Septicaemia
+Exfoliative Dermatitis (Erythroderma),Dermatological,Enteropathy
+Exfoliative Dermatitis (Erythroderma),Dermatological,Steatorrhoea
+Exfoliative Dermatitis (Erythroderma),Dermatological,Anaemia
+Falls,Geriatric,"Economic: Costs of Disability, Dependence, Hospitalization and interventions to treat Complications"
+Falls,Geriatric,"Physical: Dehydration, Dependency, Disability and Fractures, Haemorrhage e.g. subdural haematoma, Hypothermia, Immobility, Increased likelihood of falling again, Self-imposed reduction in physical activity, Severe injuries requiring hospitalization and Skin lacerations"
+Falls,Geriatric,"Psychological: Anxiety, Depression, Fear of falling; falls phobia syndrome, Loss of confidence, Social withdrawal"
+Fevers,Infectious/Tropical,Heat stroke in adults
+Fevers,Infectious/Tropical,Febrile convulsions in children
+Fevers,Infectious/Tropical,Complications associated with underlying cause(s) of fever.
+Fevers,Infectious/Tropical,Arrythmias in those with cardiac disease.
+Food Poisoning,Infectious/Tropical,"Fluid and electrolyte derangements, Dehydration"
+Food Poisoning,Infectious/Tropical,Rectal prolapse.
+Food Poisoning,Infectious/Tropical,"Protein-losing enteropathy, Malnutrition"
+Food Poisoning,Infectious/Tropical,Haemolytic-uraemic syndrome
+Food Poisoning,Infectious/Tropical,"Toxic megacolon, perforation"
+Food Poisoning,Infectious/Tropical,"Bacteraemia, Cholecystitis, Pancreatitis, Cystitis, Meningitis, Endocarditis, Arthritis, Peritonitis, Cellulitis or Septic abortion"
+Foreign Bodies in the Airways,Surgical/Emergency,Life-threatening asphyxia
+Foreign Bodies in the Airways,Surgical/Emergency,Lung collapse and atelectasis
+Foreign Bodies in the Ear,"ENT (Ear, Nose & Throat)",Otitis externa
+Foreign Bodies in the Ear,"ENT (Ear, Nose & Throat)",Perforation of tympanic membrane from attempts at removal
+Foreign Bodies in the Nose and Rhinoliths,"ENT (Ear, Nose & Throat)",Secondary infection: rhinosinusitis
+Foreign Body Impaction,Gastrointestinal,"Perforation of oesophagus, mediastinitis, aspiration pneumonitis"
+Furunculosis (Boils),Dermatological,Cellulitis
+Furunculosis (Boils),Dermatological,Septicaemia
+Furunculosis (Boils),Dermatological,Cavernous sinus thrombosis when the lesions are on the head and neck
+Gastritis,Gastrointestinal,Acute gastritis: Upper gastrointestinal (GI) haemorrhage
+Gastritis,Gastrointestinal,Chronic gastritis: peptic ulcer disease; gastric cancer
+Giardiasis,Infectious/Tropical,Diseases related to Vitamin B deficiency
+Glaucoma,Ophthalmology,Central Retinal Vein Occlusion
+Glaucoma,Ophthalmology,Rubeosis irides with resultant secondary glaucoma
+Glaucoma,Ophthalmology,Total blindness
+Gonorrhea,Infectious/Tropical,Local complications (now uncommon): Littre abscess involving periurethral glands
+Gonorrhea,Infectious/Tropical,Paraurethral abscesses
+Gonorrhea,Infectious/Tropical,Proximal urethral involvement with frequency and terminal haematuria
+Gonorrhea,Infectious/Tropical,"Cowper's gland abscess involving the bulbourethral glands, producing a swelling behind the base of the scrotum that can produce a proximal or Cowper's stricture"
+Gonorrhea,Infectious/Tropical,Prostatitis
+Gonorrhea,Infectious/Tropical,Proctitis
+Gonorrhea,Infectious/Tropical,Urethral stricture leading to hydroureters and hydronephrosis
+Gonorrhea,Infectious/Tropical,Chronic epididymo-orchitis leading to sterility
+Gonorrhea,Infectious/Tropical,Contaminated fingers or other fomites can also lead to infection of the eyes - gonococcal conjunctivitis
+Gonorrhea,Infectious/Tropical,"Haematogenous spread leading to meningitis, arthritis etc"
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,Obstructed labour
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,Squamous cell carcinoma
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Secondary infection
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Cellulitis
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Erysipelas
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Progressive lymphoedema
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Osteomyelitis
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Arthritis
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Tetanus
+Haemorrhoids,Gastrointestinal,Bleeding
+Haemorrhoids,Gastrointestinal,Necrosis
+Haemorrhoids,Gastrointestinal,Perineal sepsis
+Haemorrhoids,Gastrointestinal,Mucus discharge
+Heart Failure,Cardiovascular,"Thrombo-embolic phenomena: stroke, pulmonary embolism"
+Heart Failure,Cardiovascular,Pre-renal azotaemia
+Heart Failure,Cardiovascular,Arrhythmias
+Hepatitis,Infectious/Tropical,Liver failure
+Hepatitis,Infectious/Tropical,Bleeding tendencies.
+Hepatitis,Infectious/Tropical,Cirrhosis/Liver cancer
+Herpes Zoster,Infectious/Tropical,Pain may persist long after rash has healed (post-herpetic neuralgia)
+Herpes Zoster,Infectious/Tropical,Dissemination of infection in the immunocompromised
+Herpes Zoster,Infectious/Tropical,Hemorrhagic and necrotic lesions
+Herpes Zoster,Infectious/Tropical,"Ramsay-Hunt syndrome (Herpes zoster of the ear resulting in severe ear pain, hearing loss and vertigo)"
+Herpes Zoster,Infectious/Tropical,Visual impairment due to corneal ulcers (Zoster ophthalmicus-V1)
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Acute HIV, candidal vaginitis"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"PGL, Guillain-Barré syndrome, myopathy, aseptic meningitis"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Pneumococcal/bacterial pneumonias, pulmonary TB, Herpes zoster"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Cervical cancer, anaemia, lymphomas"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Miliary/extra-pulmonary TB, PCP, disseminated histoplasmosis and coccidiomycosis, PML"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Wasting, peripheral neuropathy, HIV-associated dementia, cardiomyopathy"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Disseminated herpes simplex, toxoplasmosis, cryptococcosis"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Disseminated cytomegalovirus, disseminated Mycobacterium avium complex"
+Hyperemesis Gravidarum,Maternal/Reproductive,Biochemical abnormalities
+Hyperemesis Gravidarum,Maternal/Reproductive,"Usually sequel to vomiting, starvation and dehydration"
+Hyperemesis Gravidarum,Maternal/Reproductive,Ketosis
+Hyperemesis Gravidarum,Maternal/Reproductive,Electrolyte imbalance (alkalosis and hypokalaemia)
+Hyperemesis Gravidarum,Maternal/Reproductive,Vitamin deficiencies
+Hyperemesis Gravidarum,Maternal/Reproductive,"In neglected or poorly managed cases: severe weight loss, Tachycardia, Hypotension, Oliguria"
+Hyperemesis Gravidarum,Maternal/Reproductive,Neurologic disorders from vitamin B deficiency
+Hyperemesis Gravidarum,Maternal/Reproductive,Retinal haemorrhages
+Hyperemesis Gravidarum,Maternal/Reproductive,Jaundice (from hepatic necrosis)
+Hyperemesis Gravidarum,Maternal/Reproductive,Oesophageal tears and spontaneous rupture of the oesophagus
+Hyperemesis Gravidarum,Maternal/Reproductive,Mendelson's syndrome
+Hyperemesis Gravidarum,Maternal/Reproductive,Foetal loss
+Hyperemesis Gravidarum,Maternal/Reproductive,Maternal mortality
+Hyperlipidaemia,Endocrine/Metabolic,Ischaemic heart disease
+Hyperlipidaemia,Endocrine/Metabolic,Peripheral vascular disease
+Hyperlipidaemia,Endocrine/Metabolic,Stroke
+Hyperlipidaemia,Endocrine/Metabolic,Hypertension
+Hypertension,Cardiovascular,Heart failure
+Hypertension,Cardiovascular,Ischaemic heart disease
+Hypertension,Cardiovascular,"Stroke (ischaemic, hemorrhagic)"
+Hypertension,Cardiovascular,Hypertensive retinopathy
+Hypertension,Cardiovascular,Renal failure
+Hypertension,Cardiovascular,Peripheral artery disease
+Hypothyroidism (Myxoedema),Endocrine/Metabolic,Myxoedema coma in adults and cretinism in the young
+Impetigo Contagiosa,Infectious/Tropical,Regional lymphadenopathy
+Impetigo Contagiosa,Infectious/Tropical,Cellulitis
+Impetigo Contagiosa,Infectious/Tropical,Rarely: septicaemia
+Impetigo Contagiosa,Infectious/Tropical,"Rarely: acute glomerulonephritis, if nephritogenic strain of streptococci is involved"
+Infective Conjunctivitis,Ophthalmology,"Corneal affectation, which could lead to perforation"
+Infective Conjunctivitis,Ophthalmology,Endophthalmitis
+Infective Endocarditis,Infectious/Tropical,Cardiac failure
+Infective Endocarditis,Infectious/Tropical,Destruction of heart valves
+Infective Endocarditis,Infectious/Tropical,Systemic embolism (could be infective)
+Insomnia,Neurological/Mental,Deteriorating physical and/or mental health
+Insomnia,Neurological/Mental,Decline in overall wellbeing and quality of life
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Maternal Haemorrhage
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Preterm labour
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Steatorrhea
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Foetal distress
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Still-birth
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Perinatal death
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Prematurity and its problems
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Meconium staining of the liquor
+Jaundice in Pregnancy,Maternal/Reproductive,Disseminated intravascular coagulopathy
+Jaundice in Pregnancy,Maternal/Reproductive,Hypotension
+Jaundice in Pregnancy,Maternal/Reproductive,"Significant risk of maternal and foetal death due to: Maternal liver failure, Metabolic disturbance, Encephalopathy, Overwhelming haemorrhage associated with clotting defects"
+Juvenile Periodontitis,Dental/Oral Health,Tooth loss
+Juvenile Periodontitis,Dental/Oral Health,Malocclusion
+Juvenile Periodontitis,Dental/Oral Health,Temporomandibular Joint (TMJ) dysfunction syndrome
+Leukaemia,Oncology,Worsening ill-health
+Lichen Planus,Dermatological,20-nail dystrophy
+Lichen Planus,Dermatological,"Rarely, squamous cell carcinoma of oral and hypertrophic lichen planus"
+Lung Abscess,Respiratory,Cerebral abscess
+Lung Abscess,Respiratory,Empyema
+Lung Abscess,Respiratory,Amyloidosis
+Lymphogranuloma Venereum,Infectious/Tropical,"Systemic spread of C. trachomatis in the secondary stage resulting in arthritis, pneumonia, hepatitis or rarely perihepatitis"
+Lymphogranuloma Venereum,Infectious/Tropical,"Other rare systemic complications include pulmonary infection, cardiac involvement, aseptic meningitis, and ocular inflammatory disease"
+Lymphogranuloma Venereum,Infectious/Tropical,The late stage may be complicated by the genito-anorectal syndrome
+Lymphogranuloma Venereum,Infectious/Tropical,"Reported more in homosexual men, and women who engage in receptive anal intercourse"
+Lymphogranuloma Venereum,Infectious/Tropical,"Patients may also complain of fever, pain, and tenesmus"
+Lymphogranuloma Venereum,Infectious/Tropical,Obstructed labour from elephantiasis of the vulva
+Mastoiditis,"ENT (Ear, Nose & Throat)",Spread of infection into cranial cavity with:
+Mastoiditis,"ENT (Ear, Nose & Throat)",Extradural abscess
+Mastoiditis,"ENT (Ear, Nose & Throat)",Meningitis
+Mastoiditis,"ENT (Ear, Nose & Throat)",Brain abscess
+Mastoiditis,"ENT (Ear, Nose & Throat)",Lateral sinus thrombophlebitis
+Measles (Rubeola),Infectious/Tropical,Diarrhoea
+Measles (Rubeola),Infectious/Tropical,Otitis media
+Measles (Rubeola),Infectious/Tropical,Pneumonia
+Measles (Rubeola),Infectious/Tropical,Laryngo-tracheobronchitis
+Measles (Rubeola),Infectious/Tropical,Malnutrition
+Measles (Rubeola),Infectious/Tropical,Encephalitis
+Measles (Rubeola),Infectious/Tropical,Flaccid paralysis
+Measles (Rubeola),Infectious/Tropical,Seizures or Blindness
+Measles (Rubeola),Infectious/Tropical,Subacute sclerosing panencephalitis
+Meningitis,Infectious/Tropical,Cranial nerve palsies notably blindness and deafness
+Meningitis,Infectious/Tropical,Subdural pus collection (empyema)
+Meningitis,Infectious/Tropical,Stroke (from vasculitis)
+Meningitis,Infectious/Tropical,Epilepsy
+Meningitis,Infectious/Tropical,Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH)
+Migraines,Neurological/Mental,Most headache attacks are benign with no sequelae apart from reduced economic productivity/wastage of medications
+Migraines,Neurological/Mental,The dreaded complication is coning from raised intracranial pressure
+Migraines,Neurological/Mental,Blindness may follow temporal arteritis and unrelieved raised pressure in idiopathic intracranial hypertension (pseudotumour cerebri)
+Migraines,Neurological/Mental,The risk of epilepsy is higher in those who suffer from migraine headache
+Molluscum Contagiosum,Infectious/Tropical,Secondary bacterial infection
+Myiasis,Dermatological,Secondary bacterial infection
+Myocarditis,Cardiovascular,Cardiac failure
+Myocarditis,Cardiovascular,Arrhythmias
+Myocarditis,Cardiovascular,Thrombus formation
+Malaria,Infectious/Tropical,Pneumonia
+Malaria,Infectious/Tropical,Septicaemia
+Malaria,Infectious/Tropical,Preterm contractions/preterm labour
+Malaria,Infectious/Tropical,Abortions
+Malaria,Infectious/Tropical,Low birth weight
+Malaria,Infectious/Tropical,Intrauterine deaths
+Malaria,Infectious/Tropical,Congenital malaria
+Malaria,Infectious/Tropical,Hyperreactive malaria splenomegaly
+Malaria,Infectious/Tropical,Quartan malaria nephropathy
+Malaria,Infectious/Tropical,"Possibly, Burkitt's lymphoma"
+Nasal Allergy,"ENT (Ear, Nose & Throat)",Chronic sinusitis
+Nasal Allergy,"ENT (Ear, Nose & Throat)",Pharyngitis
+Necrotizing Enterocolitis,Gastrointestinal,Intestinal perforation
+Necrotizing Enterocolitis,Gastrointestinal,Strictures presenting with intestinal obstruction.
+Necrotizing Enterocolitis,Gastrointestinal,Intestinal perforation
+Necrotizing Enterocolitis,Gastrointestinal,Strictures presenting with intestinal obstruction
+Nephrotic Syndrome,Renal/Urological,Peripheral arterial or venous thrombosis
+Nephrotic Syndrome,Renal/Urological,Acceleration of atherosclerosis
+Nephrotic Syndrome,Renal/Urological,Protein malnutrition
+Nephrotic Syndrome,Renal/Urological,Vitamin D deficiency
+Nephrotic Syndrome,Renal/Urological,Increased susceptibility to infections
+Nephrotic Syndrome,Renal/Urological,Iron-resistant microcytic hypochromic anaemia
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,Mucopurulent relapses due to secondary bacterial infection
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,Progression to chronic obstructive airway disease
+Obesity,Endocrine/Metabolic,"Gastrointestinal: Gallstones, pancreatitis, abdominal hernia, Non-Alcoholic Fatty Liver Disease, GERD"
+Obesity,Endocrine/Metabolic,"Endocrinology/Metabolic: Metabolic syndrome, insulin resistance, impaired glucose tolerance, type 2 DM, dyslipidaemia, polycystic ovarian syndrome"
+Obesity,Endocrine/Metabolic,"Cardiovascular: Hypertension, coronary artery disease, congestive heart failure, dysarrhythmia, pulmonary hypertension, stroke, venous stasis, deep venous thrombosis (DVT), pulmonary embolism, chronic kidney disease"
+Obesity,Endocrine/Metabolic,"Respiratory: Abnormal pulmonary function, obstructive sleep apnoea, obesity hypoventilation syndrome"
+Obesity,Endocrine/Metabolic,"Musculoskeletal: Osteoarthritis, gout, low back pain"
+Obesity,Endocrine/Metabolic,"Gynaecologic: Menstrual irregularities, infertility"
+Obesity,Endocrine/Metabolic,Genitourinary: Urinary stress incontinence
+Obesity,Endocrine/Metabolic,Ophthalmologic: Cataracts
+Obesity,Endocrine/Metabolic,Neurologic: Idiopathic intracranial hypertension
+Obesity,Endocrine/Metabolic,"Cancers: Oesophagus, colon, gall bladder, cervix, breast, uterus, kidney, prostate"
+Obesity,Endocrine/Metabolic,"Postoperative events: Atelectasis, pneumonia, DVT, pulmonary embolism"
+Obesity,Endocrine/Metabolic,Cardiovascular: Coronary artery disease
+Obesity,Endocrine/Metabolic,Stroke
+Obesity,Endocrine/Metabolic,Congestive heart failure
+Obesity,Endocrine/Metabolic,"Pulmonary: Obstructive sleep apnoea, 'Obesity hypoventilation syndrome'"
+Obesity,Endocrine/Metabolic,Endocrine: Insulin resistance and type 2 diabetes mellitus
+Obesity,Endocrine/Metabolic,Hepatobiliary: Gall stones
+Onchocerciasis (River Blindness),Infectious/Tropical,Blindness
+Ophthalmia Neonatorum,Paediatric,Corneal perforation
+Ophthalmia Neonatorum,Paediatric,Endophthalmitis
+Otitis Externa,"ENT (Ear, Nose & Throat)",Acute perichondritis
+Osteoarthritis,Musculoskeletal,Joint deformity
+Osteoarthritis,Musculoskeletal,Immobility
+Osteoarthritis,Musculoskeletal,Joint subluxation
+Osteoarthritis,Musculoskeletal,Obesity: depression/anxiety
+Pancreatitis,Gastrointestinal,Hypovolaemic shock
+Pancreatitis,Gastrointestinal,Multiple organ failure syndrome
+Pancreatitis,Gastrointestinal,Acute renal and respiratory failure
+Pancreatitis,Gastrointestinal,Abscess
+Pancreatitis,Gastrointestinal,Phlegmons
+Pancreatitis,Gastrointestinal,Gastrointestinal bleeding
+Pancreatitis,Gastrointestinal,Electrolyte imbalance (hypo & hypercalcaemia)
+Pancreatitis,Gastrointestinal,Pancreatic pseudocysts
+Panic Disorder,Neurological/Mental,Phobia
+Panic Disorder,Neurological/Mental,Depression
+Panic Disorder,Neurological/Mental,Suicide
+Parkinsonism,Neurological/Mental,"Recurrent falls with attendant complications e.g. fractures, subdural haematoma"
+Parkinsonism,Neurological/Mental,Dementia
+Parkinsonism,Neurological/Mental,Depression
+Pediculosis (Lice),Dermatological,Secondary bacterial infection
+Pediculosis (Lice),Dermatological,The body louse serves as a vector for diseases: Epidemic typhus (Rickettsia prowazekii)
+Pediculosis (Lice),Dermatological,Trench fever (Bartonella quintana)
+Pediculosis (Lice),Dermatological,Relapsing fever (Borrelia recurrentis)
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Pelvic abscess
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Septicaemia
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Chronic pelvic pain
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Ectopic gestation
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Infertility
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Fitz-Hugh-Curtis syndrome
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Recurrence (about 25% rates)
+Peptic Ulcer Disease (PUD),Gastrointestinal,Upper gastrointestinal bleeding
+Peptic Ulcer Disease (PUD),Gastrointestinal,Perforation
+Peptic Ulcer Disease (PUD),Gastrointestinal,Penetration
+Peptic Ulcer Disease (PUD),Gastrointestinal,Gastric outlet obstruction
+Pericarditis,Cardiovascular,Pericardial tamponade
+Pericarditis,Cardiovascular,Constrictive pericarditis
+Pericoronitis,Dental/Oral Health,Cellulitis
+Pericoronitis,Dental/Oral Health,Ludwig's angina
+Pericoronitis,Dental/Oral Health,Osteomyelitis
+Pericoronitis,Dental/Oral Health,Submasseteric abscess
+Pericoronitis,Dental/Oral Health,Temporomandibular joint ankylosis
+Peripheral Vascular Disease,Cardiovascular,Amputation
+Peripheral Vascular Disease,Cardiovascular,Poor wound healing.
+Peripheral Vascular Disease,Cardiovascular,Restricted mobility due to pain or discomfort.
+Peripheral Vascular Disease,Cardiovascular,Severe pain in the affected extremity.
+Peripheral Vascular Disease,Cardiovascular,Stroke
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",Septicaemia
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",Parapharyngeal suppuration/abscess
+Pharyngitis (Sore Throat),"ENT (Ear, Nose & Throat)",More often related to the primary sources of irritation or infection
+Pityriasis Versicolor (Tinea Versicolor),Dermatological,None usually; only of cosmetic significance
+Pityriasis Versicolor (Tinea Versicolor),Dermatological,Malassezia furfur sepsis from contamination of the lipid-containing medium in immunocompromised patients receiving hyperalimentation through tubes
+Pneumonia,Respiratory,Empyema thoracis
+Pneumonia,Respiratory,Pleural effusion
+Pneumonia,Respiratory,Lung abscess
+Pneumonia,Respiratory,Lobar collapse
+Pneumonia,Respiratory,Deep vein thrombosis and pulmonary embolism
+Pneumonia,Respiratory,Pneumothorax
+Pneumonia,Respiratory,ARDS
+Pneumonia,Respiratory,Multi organ failure
+Pneumonia,Respiratory,"Hepatitis, pericarditis, myocarditis, meningoencephalitis"
+Pneumonia,Respiratory,Pyrexia from drug hypersensitivity
+Poliomyelitis,Infectious/Tropical,Multiple intestinal erosions
+Poliomyelitis,Infectious/Tropical,Acute gastric dilatation
+Poliomyelitis,Infectious/Tropical,Hypertension
+Poliomyelitis,Infectious/Tropical,Hypercalcaemia
+Poliomyelitis,Infectious/Tropical,Nephrocalcinosis
+Poliomyelitis,Infectious/Tropical,Vascular lesions
+Poliomyelitis,Infectious/Tropical,Myocarditis
+Poliomyelitis,Infectious/Tropical,Pulmonary oedema and Pulmonary embolism
+Poliomyelitis,Infectious/Tropical,Paralysis of limbs
+Poliomyelitis,Infectious/Tropical,Muscles of respiration and swallowing which can be fatal
+Poliomyelitis,Infectious/Tropical,Multiple intestinal erosions
+Poliomyelitis,Infectious/Tropical,Acute gastric dilatation
+Poliomyelitis,Infectious/Tropical,Hypertension
+Poliomyelitis,Infectious/Tropical,Hypercalcaemia
+Poliomyelitis,Infectious/Tropical,Nephrocalcinosis
+Poliomyelitis,Infectious/Tropical,Vascular lesions
+Poliomyelitis,Infectious/Tropical,Myocarditis
+Poliomyelitis,Infectious/Tropical,Pulmonary oedema
+Poliomyelitis,Infectious/Tropical,Pulmonary embolism
+Poliomyelitis,Infectious/Tropical,Paralysis of limbs
+Poliomyelitis,Infectious/Tropical,Muscles of respiration and swallowing which can be fatal
+Posterior Urethral Valves,Renal/Urological,Recurrent urinary tract infections
+Posterior Urethral Valves,Renal/Urological,Septicaemia
+Posterior Urethral Valves,Renal/Urological,Bladder dysfunction
+Posterior Urethral Valves,Renal/Urological,Bladder stones
+Posterior Urethral Valves,Renal/Urological,Hydroureter/hydronephrosis
+Posterior Urethral Valves,Renal/Urological,Progressive renal impairment
+Posterior Urethral Valves,Renal/Urological,Failure to thrive
+Prevention and Control of Surgical Site Infection,Surgical/Emergency,Antibiotic misuse
+Prevention and Control of Surgical Site Infection,Surgical/Emergency,Antibiotic resistance
+Prevention and Control of Surgical Site Infection,Surgical/Emergency,Side effects of antibiotics (e.g. pseudomembranous colitis)
+Prevention and Control of Surgical Site Infection,Surgical/Emergency,False sense of surgical security
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Immune reactions
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,ABO incompatibility
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Rhesus incompatibility
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Febrile reactions
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Allergic reactions
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Reactions to plasma proteins
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Hyperkalaemia
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Citrate toxicity (hypocalcaemia)
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Bacteraemia
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Transfusion of parasites (e.g. malaria)
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,"Transfusion of viruses (HIV, Hepatitis B, C, D)"
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Volume overload
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Air embolism
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Hypothermia
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Massive blood transfusion complications
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Volume overload
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Transfusion of old blood
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Electrolyte derangements (potassium and calcium)
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Transmission of infections
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Haemosiderosis
+Prevention of Blood Loss and Blood Transfusion in Surgery,Haematological,Post transfusion purpura
+Priapism,Renal/Urological,Erectile dysfunction
+Prostatitis,Renal/Urological,Prostatic abscess
+Prostatitis,Renal/Urological,Prostatic calculi
+Prostatitis,Renal/Urological,Infertility
+Prostatitis,Renal/Urological,Septicaemia
+Pruritus,Dermatological,Sleep disturbance
+Pruritus,Dermatological,"Less than optimal performance at home, work or school"
+Pruritus,Dermatological,Emotional disturbance
+Pruritus,Dermatological,Suicidal ideation
+Psoriasis,Dermatological,Erythroderma
+Psoriasis,Dermatological,Arthritis mutilans
+Pulmonary Oedema,Respiratory,Hypoxaemia
+Pulmonary Oedema,Respiratory,Coma
+Pulmonary Tuberculosis,Infectious/Tropical,Lung collapse
+Pulmonary Tuberculosis,Infectious/Tropical,Bronchiectasis
+Pulmonary Tuberculosis,Infectious/Tropical,Chronic Obstructive Pulmonary Disease
+Pulmonary Tuberculosis,Infectious/Tropical,Pleural effusion
+Pulmonary Tuberculosis,Infectious/Tropical,Cor pulmonale
+Pulmonary Tuberculosis,Infectious/Tropical,Destructive lung syndrome
+Pulmonary Tuberculosis,Infectious/Tropical,Lung abscess
+Pulmonary Tuberculosis,Infectious/Tropical,Acute Respiratory Distress Syndrome
+Pulmonary Tuberculosis,Infectious/Tropical,Spontaneous Pneumothorax
+Pulmonary Tuberculosis,Infectious/Tropical,Haemorrhage/Mycetoma
+Pulpitis,Dental/Oral Health,Reversible pulpitis
+Pulpitis,Dental/Oral Health,Irreversible pulpitis
+Pulpitis,Dental/Oral Health,Pulpal necrosis
+Pulpitis,Dental/Oral Health,Apical periodontitis
+Pulpitis,Dental/Oral Health,Periapical abscess
+Pulpitis,Dental/Oral Health,Cellulitis
+Rheumatic Heart Disease,Cardiovascular,"Arrhythmias e.g. atrial fibrillation, heart block"
+Rheumatic Heart Disease,Cardiovascular,Cardiac failure
+Rheumatic Heart Disease,Cardiovascular,Embolic phenomena
+Rheumatic Heart Disease,Cardiovascular,Endocarditis
+Rheumatic Fever,Cardiovascular,Rheumatic heart disease
+Rheumatic Fever,Cardiovascular,Arrhythmias
+Rheumatic Fever,Cardiovascular,Cardiac failure
+Scabies,Dermatological,Secondary bacterial infection leading to acute glomerulonephritis
+Schizophrenia,Neurological/Mental,Chronicity
+Schizophrenia,Neurological/Mental,Suicide
+Schizophrenia,Neurological/Mental,Increased physical morbidity
+Schizophrenia,Neurological/Mental,Increased mortality
+Scleritis/Episcleritis,Ophthalmology,Thinning of the sclera
+Scleritis/Episcleritis,Ophthalmology,Anterior staphyloma
+Scleritis/Episcleritis,Ophthalmology,Scleral perforation
+Seizures/Epilepsies,Neurological/Mental,Status epilepticus
+Seizures/Epilepsies,Neurological/Mental,Cardiac arrhythmias
+Seizures/Epilepsies,Neurological/Mental,Renal failure from myoglobinuria
+Seizures/Epilepsies,Neurological/Mental,Anoxic brain damage and Sudden death
+Septic Arthritis,Musculoskeletal,Septicaemia
+Septic Arthritis,Musculoskeletal,Joint ankylosis
+Sialadenitis,Dental/Oral Health,Meningitis
+Sialadenitis,Dental/Oral Health,Pancreatitis
+Sialadenitis,Dental/Oral Health,Otitis
+Sialadenitis,Dental/Oral Health,Nephritis
+Sialadenitis,Dental/Oral Health,Orchitis
+Sialadenitis,Dental/Oral Health,Testicular atrophy
+Sialadenitis,Dental/Oral Health,Sterility
+Sickle Cell Disease,Haematological,"Kidneys: Hyposthenuria, Haematuria, Albuminuria, Reduced kidney function"
+Sickle Cell Disease,Haematological,"Leg ulcers: Occur around the ankles, Heal slowly and tend to recur"
+Sickle Cell Disease,Haematological,"Bones and Joints: Osteomyelitis, Avascular necrosis"
+Sickle Cell Disease,Haematological,"Infections: Salmonella osteomyelitis, Pneumococcal pneumonia, Pneumococcal meningitis (rare in adolescents and adults), Tonsillitis and pharyngitis"
+Sickle Cell Disease,Haematological,"Brain and nerves: Strokes, seizures (not common in adults), Meningitis (not common in adults), Cerebral haemorrhage, Mental neuropathy (rare)"
+Sickle Cell Disease,Haematological,"Cardiovascular/respiratory: Heart failure, Pulmonary hypertension, Acute chest syndrome"
+Sickle Cell Disease,Haematological,"Musculoskeletal system complications: Osteomyelitis – commonly staph aureus, Avascular necrosis of hip or shoulder joints, pathological fracture, Digital clubbing, Chronic leg ulcer – common in adolescents, affects the skin around the malleoli, heals slowly and recurs, Kyphosis, scoliosis, kyphoscoliosis"
+Sickle Cell Disease,Haematological,"Hepatobiliary system Complications: Hepatomegaly, Hepatic coma – rare, Haemosiderosis – transfusion associated, Cholelithiasis – uncommon in Africa"
+Sickle Cell Disease,Haematological,"Genito-urinary system complications: Hyposthenuria, polyuria, nocturia, enuresis – due to impaired urinary concentrating ability. Begins by 4-5years, Haematuria – usually from the left kidney, Proteinuria – early manifestation of sickle cell nephropathy, Bacteriuria – affects 22% of febrile SCD children, Pyelonephritis and Renal tubular acidosis"
+Sickle Cell Disease,Haematological,"Cardiovascular system complications: Cardiomegaly – due to functional adaptation to chronic anaemia, CCF, Cor pulmonale"
+Sickle Cell Disease,Haematological,"Respiratory system Complications: Pulmonary hypertension, Hypoxaemia – hallmark of pulmonary function abnormality in SCD, Reduced lung volume – Due to frequent pneumonia and reduced thoracic size"
+Sickle Cell Disease,Haematological,"Central nervous system Complications: CVA, Seizures, Sensorineural hearing loss, Ocular lesions – anterior and posterior chamber lesions"
+Sickle Cell Disease,Haematological,"Susceptibility to infection: Sepsis and other bacterial infections especially pneumonia, Haemophilus influenza, salmonella due to altered splenic function, Functional asplenia, Defective alternate pathway of complement activation, Elevated serum iron, Deranged pulmonary alveolar macrophage function from chronic hypoxia"
+Sickle Cell Disease,Haematological,"Impaired psychosocial function: Physical, skeletal and sexual maturation problems, Societal attitude/discrimination, Frequent ill-health and hospitalization, School absenteeism, Role limitations, Loss of job, Persistent jaundice, Neurocognitive impairment, Academic performance, Parents and siblings psychological problems"
+Sickle Cell Disease,Haematological,"Musculoskeletal: Osteomyelitis – commonly staph aureus, Avascular necrosis of hip or shoulder joints, pathological fracture, Digital clubbing, Chronic leg ulcer – common in adolescents, affects the skin around the malleoli, heals slowly and recurs, Kyphosis, scoliosis, kyphoscoliosis"
+Sickle Cell Disease,Haematological,"Hepatobiliary: Hepatomegaly, Hepatic coma – rare, Haemosiderosis – transfusion associated, Cholelithiasis – uncommon in Africa"
+Sickle Cell Disease,Haematological,"Genito-urinary: Hyposthenuria, polyuria, nocturia, enuresis – due to impaired urinary concentrating ability, Haematuria – usually from the left kidney, Proteinuria – early manifestation of sickle cell nephropathy, Bacteriuria – affects 22% of febrile SCD children, Pyelonephritis and Renal tubular acidosis"
+Sickle Cell Disease,Haematological,"Cardiovascular: Cardiomegaly – due to functional adaptation to chronic anaemia, CCF, Cor pulmonale"
+Sickle Cell Disease,Haematological,"Respiratory: Pulmonary hypertension, Hypoxaemia – hallmark of pulmonary function abnormality in SCD, Reduced lung volume – Due to frequent pneumonia and reduced thoracic size"
+Sickle Cell Disease,Haematological,"Central nervous system: CVA, Seizures, Sensorineural hearing loss, Ocular lesions – anterior and posterior chamber lesions"
+Sickle Cell Disease,Haematological,"Infections: Susceptibility to infection including sepsis and other bacterial infections especially pneumonia, Haemophilus influenza, salmonella due to Altered splenic function, Functional asplenia, Defective alternate pathway of complement activation, Elevated serum iron, Deranged pulmonary alveolar macrophage function from chronic hypoxia"
+Sickle Cell Disease,Haematological,"Psychosocial: Impaired psychosocial function, physical, skeletal and sexual maturation problems, societal attitude/discrimination, frequent ill-health and hospitalization, school absenteeism, role limitations, loss of job, persistent jaundice, neurocognitive impairment, academic performance, psychological problems of parents and siblings"
+Sinusitis,"ENT (Ear, Nose & Throat)",Orbital cellulitis (complicating ethmoidal sinusitis)
+Sinusitis,"ENT (Ear, Nose & Throat)",Cavernous sinus thrombosis (sphenoidal sinusitis)
+Sinusitis,"ENT (Ear, Nose & Throat)",Intracranial infection
+Sinusitis,"ENT (Ear, Nose & Throat)",Subdural abscess
+Sinusitis,"ENT (Ear, Nose & Throat)",Meningitis
+Sinusitis,"ENT (Ear, Nose & Throat)",Cerebral abscess
+Sinusitis,"ENT (Ear, Nose & Throat)",Dural vein thrombophlebitis
+Sinusitis,"ENT (Ear, Nose & Throat)",Osteomyelitis of frontal or maxillary bones
+Sinusitis,"ENT (Ear, Nose & Throat)",Chronic pharyngotonsillitis
+Sinusitis,"ENT (Ear, Nose & Throat)",Chronic laryngitis and bronchitis
+Snake Bite,Surgical/Emergency,Local and systemic bleeding
+Snake Bite,Surgical/Emergency,Impairment of organ function
+Snake Bite,Surgical/Emergency,Reduction of cardiac output
+Snake Bite,Surgical/Emergency,Inhibition of peripheral nerve impulses
+Snake Bite,Surgical/Emergency,Rhabdomyolysis
+Snake Bite,Surgical/Emergency,Haemolysis
+Snake Bite,Surgical/Emergency,Blood vessel damage
+Snake Bite,Surgical/Emergency,Neurotoxic effects
+Snake Bite,Surgical/Emergency,Secondary infection with Clostridium tetani
+Snake Bite,Surgical/Emergency,Secondary infection with Clostridium welchii
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,"Short term: tentorial herniation with coning and death; cardiac arrhythmias, hyperglycaemia, aspiration pneumonitis with sepsis, urinary tract infections; deep vein thrombosis"
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,"Long term: decubitus ulcers, depression, epilepsy, dementia, parkinsonism, contractures, thalamic pain"
+Stye (Hordeolum),Ophthalmology,Pre-septal cellulitis
+Stye (Hordeolum),Ophthalmology,Orbital cellulitis
+Stye (Hordeolum),Ophthalmology,Cavernous sinus thrombosis
+Surgical Care,Surgical/Emergency,Deep vein thrombosis
+Surgical Care,Surgical/Emergency,Atelectasis
+Surgical Care,Surgical/Emergency,Sickling crises in patients with sickle cell anaemia
+Surgical Care,Surgical/Emergency,"Postoperative pyrexia due to malaria, atelectasis, hypostatic pneumonia, wound infection, urinary tract infection"
+Syncope (Fainting),Cardiovascular,Cerebral hypoxia/anoxia resulting in brain damage
+Syncope (Fainting),Cardiovascular,Stroke
+Syncope (Fainting),Cardiovascular,Sudden death
+Syphilis,Infectious/Tropical,Phimosis and paraphimosis
+Syphilis,Infectious/Tropical,"Late syphilis: gummatous, neurological and cardiovascular syphilis"
+Tetanus,Infectious/Tropical,"Autonomic dysfunction - Labile or sustained hypertension, Tachycardia, Dysarrhythmias, Hyperpyrexia, Profuse sweating, Peripheral vasoconstriction, Cardiac arrest"
+Tetanus,Infectious/Tropical,Aspiration pneumonia
+Tetanus,Infectious/Tropical,Fractures
+Tetanus,Infectious/Tropical,Muscle rupture
+Tetanus,Infectious/Tropical,Deep vein thrombophlebitis
+Tetanus,Infectious/Tropical,Pulmonary emboli
+Tetanus,Infectious/Tropical,Decubitus ulcers
+Tetanus,Infectious/Tropical,Rhabdomyolysis
+The Empty Scrotum,Renal/Urological,Torsion of the spermatic cord
+The Empty Scrotum,Renal/Urological,Trauma to the testis
+The Empty Scrotum,Renal/Urological,Malignancy
+The Empty Scrotum,Renal/Urological,Infertility
+The Paralyzed Patient,Neurological/Mental,Deep vein thrombosis
+The Paralyzed Patient,Neurological/Mental,Pulmonary embolism
+The Paralyzed Patient,Neurological/Mental,Decubitus ulcers
+The Paralyzed Patient,Neurological/Mental,Disuse atrophy
+The Paralyzed Patient,Neurological/Mental,Contractures
+The Paralyzed Patient,Neurological/Mental,Bulbar failure
+The Unconscious Patient,Neurological/Mental,Cerebral hypoxia/anoxia resulting in brain damage
+Thyrotoxicosis,Endocrine/Metabolic,Hyperthyroid crisis (thyroid storm)
+Thyrotoxicosis,Endocrine/Metabolic,Tracheal compression
+Thyrotoxicosis,Endocrine/Metabolic,Cardiac failure
+Thyrotoxicosis,Endocrine/Metabolic,Loss of visual acuity
+Thyrotoxicosis,Endocrine/Metabolic,Infertility
+Thyrotoxicosis,Endocrine/Metabolic,Periodic paralysis
+Tonsillitis,"ENT (Ear, Nose & Throat)",Quinsy: main common complication
+Tonsillitis,"ENT (Ear, Nose & Throat)",Parapharyngeal infection/abscess
+Tonsillitis,"ENT (Ear, Nose & Throat)",Rheumatic fever and nephritis following streptococcal tonsillitis
+Torsion of the Testis,Renal/Urological,Testicular atrophy
+Torsion of the Testis,Renal/Urological,Sympathetic orchidopathy
+Torsion of the Testis,Renal/Urological,Abnormal sperm count
+Torsion of the Testis,Renal/Urological,Infertility
+Trachoma,Ophthalmology,Trichiasis
+Trachoma,Ophthalmology,Entropion
+Trachoma,Ophthalmology,Corneal scarring
+Trichomoniasis,Infectious/Tropical,Acute salpingitis
+Trichomoniasis,Infectious/Tropical,"Adverse pregnancy outcomes, particularly premature rupture of membranes, pre-term delivery and low birth weight"
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Neuropsychiatric symptoms
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Intestinal perforation
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Gastro-intestinal haemorrhage
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Pancreatitis
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Hepatitis
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Splenic abscesses
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Meningitis
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Nephritis
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Pneumonia
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Osteomyelitis
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Chronic carrier state
+Urethral Strictures,Renal/Urological,Urinary tract infections
+Urethral Strictures,Renal/Urological,Urethral/bladder calculi
+Urethral Strictures,Renal/Urological,Urinary retention
+Urethral Strictures,Renal/Urological,Fournier's gangrene
+Urethral Strictures,Renal/Urological,Perineal urinary fistulae
+Urethral Strictures,Renal/Urological,Progressive renal failure
+Urinary Schistosomiasis,Infectious/Tropical,Bladder fibrosis and contracture
+Urinary Schistosomiasis,Infectious/Tropical,Ureteral stricture
+Urinary Schistosomiasis,Infectious/Tropical,Urethral stricture
+Urinary Schistosomiasis,Infectious/Tropical,Bladder calculi
+Urinary Schistosomiasis,Infectious/Tropical,Bladder cancer
+Urinary Tract Calculi,Renal/Urological,Recurrent and intractable urinary tract infection
+Urinary Tract Calculi,Renal/Urological,Secondary hydronephrosis
+Urinary Tract Calculi,Renal/Urological,Progressive renal failure
+Urinary Tract Calculi,Renal/Urological,Periurethral abscess/urethral fistula
+Urticaria and Angioedema,Dermatological,Emotional distress in chronic cases
+Urticaria and Angioedema,Dermatological,Fatality
+Varicella (Chickenpox),Infectious/Tropical,Secondary bacterial infection
+Varicella (Chickenpox),Infectious/Tropical,Pneumonia
+Varicella (Chickenpox),Infectious/Tropical,Cerebellar ataxia and encephalitis
+Varicella (Chickenpox),Infectious/Tropical,Reye's syndrome
+Vertigo,"ENT (Ear, Nose & Throat)",Poor quality of life
+Vertigo,"ENT (Ear, Nose & Throat)",Suicidal tendencies
+Viral Warts (Verrucae),Infectious/Tropical,Squamous cell carcinoma of the perianal skin
+Viral Warts (Verrucae),Infectious/Tropical,Cervical carcinoma from anogenital warts
+Viral Warts (Verrucae),Infectious/Tropical,Obstructive laryngeal papillomatosis in babies infected through maternal birth canal
+Vitamin A Deficiency,Nutritional,Blindness
+Vitamin A Deficiency,Nutritional,Corneal ulceration
+Vitamin A Deficiency,Nutritional,Blindness
+Vitamin A Deficiency,Nutritional,Corneal ulceration
+Vitiligo,Dermatological,Emotional problems due to cosmetic disfigurement
+Vulvo-Vaginal Candidiasis,Maternal/Reproductive,"Emotional problems because of the recurrent nature of the infection, and dyspareunia"
+Vulvo-Vaginal Candidiasis,Maternal/Reproductive,"Very serious emotional problems in a non-sexually active person wrongly ""accused"" by parents, spouse or health care providers"
+Wax in the Ear,"ENT (Ear, Nose & Throat)",Superimposed infection: otitis externa
+Wax in the Ear,"ENT (Ear, Nose & Throat)",Hearing impairment
+Xerophthalmia,Nutritional,Corneal perforation
+Xerophthalmia,Nutritional,Corneal scarring
+Xerophthalmia,Nutritional,Blindness

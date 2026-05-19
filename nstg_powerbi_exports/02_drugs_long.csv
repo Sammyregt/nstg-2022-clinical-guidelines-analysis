@@ -1,0 +1,381 @@
+condition_name,category,drug_name
+Abortion,Maternal/Reproductive,misoprostol
+Abortion,Maternal/Reproductive,oxytocin
+Acne Vulgaris,Dermatological,doxycycline
+Acne Vulgaris,Dermatological,erythromycin
+Acne Vulgaris,Dermatological,prednisolone
+Acne Vulgaris,Dermatological,spironolactone
+Acne Vulgaris,Dermatological,tetracycline
+Acne Vulgaris,Dermatological,clarithromycin
+Acute Bronchitis,Respiratory,amoxicillin
+Acute Bronchitis,Respiratory,erythromycin
+Acute Coronary Syndrome,Cardiovascular,aspirin
+Acute Coronary Syndrome,Cardiovascular,amlodipine
+Acute Coronary Syndrome,Cardiovascular,lisinopril
+Acute Coronary Syndrome,Cardiovascular,diazepam
+Acute Coronary Syndrome,Cardiovascular,morphine
+Acute Coronary Syndrome,Cardiovascular,heparin
+Acute Diarrhoea,Gastrointestinal,metronidazole
+Acute Epiglottitis,Respiratory,amoxicillin
+Acute Epiglottitis,Respiratory,ceftriaxone
+Acute Kidney Injury,Renal/Urological,insulin
+Acute Necrotizing Ulcerative Gingivitis,Dental/Oral Health,metronidazole
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",amoxicillin
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",paracetamol
+Acute Peri-Apical Abscess,Dental/Oral Health,metronidazole
+Acute Peri-Apical Abscess,Dental/Oral Health,amoxicillin
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,paracetamol
+"Acute Rhinitis (Common Cold, Coryza)",Respiratory,ibuprofen
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",amoxicillin
+Allergic Conjunctivitis,Ophthalmology,diclofenac
+Amoebiasis,Infectious/Tropical,metronidazole
+Anemia in Pregnancy,Maternal/Reproductive,furosemide
+Antiphospholipid Syndrome,Haematological,chloroquine
+Antiphospholipid Syndrome,Haematological,aspirin
+Antiphospholipid Syndrome,Haematological,prednisolone
+Antiphospholipid Syndrome,Haematological,heparin
+Antiphospholipid Syndrome,Haematological,warfarin
+Antiphospholipid Syndrome,Haematological,hydroxychloroquine
+Anxiety Disorder,Neurological/Mental,diazepam
+Atopic Dermatitis (Atopic Eczema),Dermatological,prednisolone
+Atopic Dermatitis (Atopic Eczema),Dermatological,hydrocortisone
+Bacillary Dysentery,Infectious/Tropical,ciprofloxacin
+Bacillary Dysentery,Infectious/Tropical,azithromycin
+Bacillary Dysentery,Infectious/Tropical,cotrimoxazole
+Back Pain,Musculoskeletal,paracetamol
+Back Pain,Musculoskeletal,ibuprofen
+Back Pain,Musculoskeletal,diclofenac
+Back Pain,Musculoskeletal,tramadol
+Bacterial Vaginosis,Maternal/Reproductive,metronidazole
+Bipolar Disorders,Neurological/Mental,valproate
+Bipolar Disorders,Neurological/Mental,haloperidol
+Blood Transfusion,Haematological,furosemide
+Blood Transfusion,Haematological,hydrocortisone
+Bronchial Asthma,Respiratory,prednisolone
+Bronchial Asthma,Respiratory,salbutamol
+Bronchial Asthma,Respiratory,aminophylline
+Bronchial Asthma,Respiratory,theophylline
+Bronchiectasis,Respiratory,amoxicillin
+Bronchiectasis,Respiratory,cotrimoxazole
+Bronchiectasis,Respiratory,salbutamol
+Carcinoma of the Prostate,Oncology,prednisolone
+Cardiac Arrhythmias,Cardiovascular,atenolol
+Cardiac Arrhythmias,Cardiovascular,warfarin
+Cardiac Arrhythmias,Cardiovascular,digoxin
+Cardiac Arrhythmias,Cardiovascular,amiodarone
+Cardiac Disease in Pregnancy,Maternal/Reproductive,heparin
+Cardiac Disease in Pregnancy,Maternal/Reproductive,warfarin
+Cellulitis,Dermatological,gentamicin
+Cellulitis,Dermatological,ciprofloxacin
+Cellulitis,Dermatological,ampicillin
+Cellulitis,Dermatological,ceftriaxone
+Cellulitis,Dermatological,cloxacillin
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,ciprofloxacin
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,azithromycin
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,erythromycin
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,ceftriaxone
+Chest Pain,Cardiovascular,paracetamol
+Chest Pain,Cardiovascular,diclofenac
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,amoxicillin
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,azithromycin
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,doxycycline
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,erythromycin
+Cholera,Infectious/Tropical,doxycycline
+Cholera,Infectious/Tropical,erythromycin
+Cholera,Infectious/Tropical,tetracycline
+Chronic Lymphocytic Leukaemia,Oncology,prednisolone
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,amlodipine
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,atenolol
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,nifedipine
+Gonorrhea in Children,Infectious/Tropical,ciprofloxacin
+Gonorrhea in Children,Infectious/Tropical,ceftriaxone
+Asphyxiated Babies,Paediatric,phenobarbitone
+Asphyxia in Neonates,Paediatric,phenobarbitone
+Colorectal Cancer,Oncology,metronidazole
+Colorectal Cancer,Oncology,erythromycin
+Congenital Heart Disease,Cardiovascular,digoxin
+Coronavirus Disease (COVID-19),Infectious/Tropical,prednisolone
+Coronavirus Disease (COVID-19),Infectious/Tropical,dexamethasone
+Coronavirus Disease (COVID-19),Infectious/Tropical,hydrocortisone
+Coronavirus Disease (COVID-19),Infectious/Tropical,heparin
+Cutaneous Larva Migrans (Creeping Eruption),Dermatological,albendazole
+Cutaneous Larva Migrans (Creeping Eruption),Dermatological,ivermectin
+Deep Vein Thrombosis,Cardiovascular,heparin
+Deep Vein Thrombosis,Cardiovascular,warfarin
+Delirium,Neurological/Mental,haloperidol
+Delirium,Neurological/Mental,haloperidol
+Dental Caries,Dental/Oral Health,paracetamol
+Dermatophyte Infections (Tinea),Dermatological,fluconazole
+Diabetes in Pregnancy,Maternal/Reproductive,insulin
+Diabetes Mellitus,Endocrine/Metabolic,metformin
+Diabetes Mellitus,Endocrine/Metabolic,insulin
+Dizziness,"ENT (Ear, Nose & Throat)",aspirin
+Epistaxis,"ENT (Ear, Nose & Throat)",amoxicillin
+Epistaxis,"ENT (Ear, Nose & Throat)",diazepam
+Exfoliative Dermatitis (Erythroderma),Dermatological,prednisolone
+Fevers,Infectious/Tropical,paracetamol
+Fevers,Infectious/Tropical,aspirin
+Food Poisoning,Infectious/Tropical,amoxicillin
+Food Poisoning,Infectious/Tropical,erythromycin
+Food Poisoning,Infectious/Tropical,ampicillin
+Food Poisoning,Infectious/Tropical,gentamicin
+Food Poisoning,Infectious/Tropical,ceftriaxone
+Foreign Bodies in the Airways,Surgical/Emergency,amoxicillin
+Foreign Bodies in the Airways,Surgical/Emergency,hydrocortisone
+Foreign Body Impaction,Gastrointestinal,amoxicillin
+Furunculosis (Boils),Dermatological,erythromycin
+Gastritis,Gastrointestinal,amoxicillin
+Gastritis,Gastrointestinal,omeprazole
+Gastritis,Gastrointestinal,ranitidine
+Gastritis,Gastrointestinal,clarithromycin
+Giardiasis,Infectious/Tropical,metronidazole
+Gingival Abscess,Dental/Oral Health,metronidazole
+Gingival Abscess,Dental/Oral Health,amoxicillin
+Gingival Abscess,Dental/Oral Health,paracetamol
+Gout,Endocrine/Metabolic,prednisolone
+Gout,Endocrine/Metabolic,diclofenac
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,azithromycin
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,doxycycline
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,erythromycin
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,gentamicin
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,tetracycline
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,metronidazole
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,mebendazole
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,ivermectin
+Haemorrhoids,Gastrointestinal,hydrocortisone
+Heart Failure,Cardiovascular,lisinopril
+Heart Failure,Cardiovascular,furosemide
+Heart Failure,Cardiovascular,spironolactone
+Heart Failure,Cardiovascular,warfarin
+Heart Failure,Cardiovascular,digoxin
+Helminthiasis,Infectious/Tropical,albendazole
+Helminthiasis,Infectious/Tropical,mebendazole
+Helminthiasis,Infectious/Tropical,ivermectin
+Helminthiasis,Infectious/Tropical,praziquantel
+Hyperglycemia in a Child,Endocrine/Metabolic,insulin
+Hyperglycemia in a Child,Endocrine/Metabolic,insulin
+Hypertension,Cardiovascular,amlodipine
+Hypertension,Cardiovascular,lisinopril
+Hypertension,Cardiovascular,atenolol
+Hypertension,Cardiovascular,nifedipine
+Hypoglycemia in a Child,Endocrine/Metabolic,hydrocortisone
+Hypoglycemia in a Child,Endocrine/Metabolic,hydrocortisone
+Idiopathic Inflammatory Myopathies,Musculoskeletal,chloroquine
+Idiopathic Inflammatory Myopathies,Musculoskeletal,prednisolone
+Idiopathic Inflammatory Myopathies,Musculoskeletal,hydroxychloroquine
+Impetigo Contagiosa,Infectious/Tropical,erythromycin
+Infective Conjunctivitis,Ophthalmology,erythromycin
+Infective Conjunctivitis,Ophthalmology,ceftriaxone
+Infective Conjunctivitis,Ophthalmology,tetracycline
+Infective Endocarditis,Infectious/Tropical,amoxicillin
+Infective Endocarditis,Infectious/Tropical,penicillin
+Infective Endocarditis,Infectious/Tropical,gentamicin
+Infective Endocarditis,Infectious/Tropical,vancomycin
+Infective Endocarditis,Infectious/Tropical,benzylpenicillin
+Infective Endocarditis,Infectious/Tropical,cloxacillin
+Infective Endocarditis,Infectious/Tropical,flucloxacillin
+Insomnia,Neurological/Mental,diazepam
+Juvenile Periodontitis,Dental/Oral Health,metronidazole
+Juvenile Periodontitis,Dental/Oral Health,amoxicillin
+Juvenile Periodontitis,Dental/Oral Health,penicillin
+Juvenile Periodontitis,Dental/Oral Health,erythromycin
+Juvenile Periodontitis,Dental/Oral Health,tetracycline
+Leukaemia,Oncology,prednisolone
+Leukaemia,Oncology,hydrocortisone
+Lichen Planus,Dermatological,prednisolone
+Liver Cirrhosis,Gastrointestinal,furosemide
+Liver Cirrhosis,Gastrointestinal,spironolactone
+Lung Abscess,Respiratory,metronidazole
+Lung Abscess,Respiratory,amoxicillin
+Lymphogranuloma Venereum,Infectious/Tropical,doxycycline
+Lymphogranuloma Venereum,Infectious/Tropical,erythromycin
+Lymphogranuloma Venereum,Infectious/Tropical,tetracycline
+Malaria in the Newborn,Infectious/Tropical,quinine
+Malaria in the Newborn,Infectious/Tropical,quinine
+Mastoiditis,"ENT (Ear, Nose & Throat)",amoxicillin
+Mastoiditis,"ENT (Ear, Nose & Throat)",paracetamol
+Mastoiditis,"ENT (Ear, Nose & Throat)",ceftriaxone
+Measles (Rubeola),Infectious/Tropical,dexamethasone
+Meningitis,Infectious/Tropical,ciprofloxacin
+Meningitis,Infectious/Tropical,penicillin
+Meningitis,Infectious/Tropical,furosemide
+Meningitis,Infectious/Tropical,vancomycin
+Meningitis,Infectious/Tropical,rifampicin
+Meningitis,Infectious/Tropical,diazepam
+Migraines,Neurological/Mental,aspirin
+Migraines,Neurological/Mental,valproate
+Migraines,Neurological/Mental,metoclopramide
+Multiple Myeloma,Oncology,prednisolone
+Multiple Myeloma,Oncology,dexamethasone
+Myocarditis,Cardiovascular,prednisolone
+Myocarditis,Cardiovascular,warfarin
+Myocarditis,Cardiovascular,digoxin
+Malaria,Infectious/Tropical,artemether
+Malaria,Infectious/Tropical,lumefantrine
+Malaria,Infectious/Tropical,artesunate
+Malaria,Infectious/Tropical,quinine
+Necrotizing Enterocolitis,Gastrointestinal,metronidazole
+Necrotizing Enterocolitis,Gastrointestinal,gentamicin
+Necrotizing Enterocolitis,Gastrointestinal,ceftriaxone
+Necrotizing Enterocolitis,Gastrointestinal,metronidazole
+Necrotizing Enterocolitis,Gastrointestinal,gentamicin
+Necrotizing Enterocolitis,Gastrointestinal,ceftriaxone
+Neonatal Jaundice,Gastrointestinal,phenobarbitone
+Neonatal Sepsis,Paediatric,ampicillin
+Neonatal Sepsis,Paediatric,gentamicin
+Neonatal Sepsis,Paediatric,ceftriaxone
+Neonatal Sepsis,Paediatric,phenobarbitone
+Neonatal Sepsis,Paediatric,ampicillin
+Neonatal Sepsis,Paediatric,gentamicin
+Neonatal Sepsis,Paediatric,ceftriaxone
+Neonatal Sepsis,Paediatric,phenobarbitone
+Neoplasms of the Salivary Gland,Dental/Oral Health,ciprofloxacin
+Nephrotic Syndrome,Renal/Urological,prednisolone
+Nephrotic Syndrome,Renal/Urological,furosemide
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,amoxicillin
+Onchocerciasis (River Blindness),Infectious/Tropical,prednisolone
+Onchocerciasis (River Blindness),Infectious/Tropical,ivermectin
+Ophthalmia Neonatorum,Paediatric,ciprofloxacin
+Ophthalmia Neonatorum,Paediatric,gentamicin
+Ophthalmia Neonatorum,Paediatric,ceftriaxone
+Ophthalmia Neonatorum,Paediatric,tetracycline
+Oral Thrush (Candidiasis),Dental/Oral Health,fluconazole
+Otitis Externa,"ENT (Ear, Nose & Throat)",amoxicillin
+Otitis Externa,"ENT (Ear, Nose & Throat)",paracetamol
+Otitis Externa,"ENT (Ear, Nose & Throat)",hydrocortisone
+Osteoarthritis,Musculoskeletal,paracetamol
+Osteoarthritis,Musculoskeletal,ibuprofen
+Osteoarthritis,Musculoskeletal,diclofenac
+Osteoarthritis,Musculoskeletal,tramadol
+Osteoarthritis,Musculoskeletal,misoprostol
+Pancreatitis,Gastrointestinal,paracetamol
+Pancreatitis,Gastrointestinal,ibuprofen
+Pelvic Inflammatory Diseases,Maternal/Reproductive,metronidazole
+Pelvic Inflammatory Diseases,Maternal/Reproductive,doxycycline
+Pelvic Inflammatory Diseases,Maternal/Reproductive,gentamicin
+Pelvic Inflammatory Diseases,Maternal/Reproductive,ceftriaxone
+Peptic Ulcer Disease (PUD),Gastrointestinal,amoxicillin
+Peptic Ulcer Disease (PUD),Gastrointestinal,omeprazole
+Peptic Ulcer Disease (PUD),Gastrointestinal,clarithromycin
+Pericarditis,Cardiovascular,ibuprofen
+Periodontitis,Dental/Oral Health,metronidazole
+Periodontitis,Dental/Oral Health,amoxicillin
+Periodontitis,Dental/Oral Health,paracetamol
+Peripheral Vascular Disease,Cardiovascular,aspirin
+Peripheral Vascular Disease,Cardiovascular,heparin
+Peripheral Vascular Disease,Cardiovascular,warfarin
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",amoxicillin
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",paracetamol
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",aspirin
+Pityriasis Rosea,Dermatological,erythromycin
+Pityriasis Rosea,Dermatological,ampicillin
+Plaque-Induced Gingivitis,Dental/Oral Health,metronidazole
+Plaque-Induced Gingivitis,Dental/Oral Health,amoxicillin
+Plaque-Induced Gingivitis,Dental/Oral Health,paracetamol
+Pneumonia,Respiratory,azithromycin
+Pneumonia,Respiratory,penicillin
+Pneumonia,Respiratory,clarithromycin
+Pneumonia,Respiratory,levofloxacin
+Prostatitis,Renal/Urological,ciprofloxacin
+Prostatitis,Renal/Urological,cotrimoxazole
+Prostatitis,Renal/Urological,ibuprofen
+Prostatitis,Renal/Urological,prednisolone
+Prostatitis,Renal/Urological,dexamethasone
+Prostatitis,Renal/Urological,diclofenac
+Pruritus,Dermatological,hydrocortisone
+Psoriasis,Dermatological,hydrocortisone
+Pulmonary Oedema,Respiratory,furosemide
+Pulmonary Oedema,Respiratory,aminophylline
+Pulmonary Oedema,Respiratory,morphine
+Pulmonary Tuberculosis,Infectious/Tropical,rifampicin
+Pulmonary Tuberculosis,Infectious/Tropical,isoniazid
+Pulmonary Tuberculosis,Infectious/Tropical,pyrazinamide
+Pulmonary Tuberculosis,Infectious/Tropical,ethambutol
+Pulpitis,Dental/Oral Health,paracetamol
+Recurrent Aphthous Stomatitis (RAS),Dental/Oral Health,dexamethasone
+Rheumatic Heart Disease,Cardiovascular,penicillin
+Rheumatic Fever,Cardiovascular,penicillin
+Rheumatic Fever,Cardiovascular,erythromycin
+Rheumatic Fever,Cardiovascular,aspirin
+Rheumatic Fever,Cardiovascular,prednisolone
+Rheumatoid Arthritis,Musculoskeletal,chloroquine
+Rheumatoid Arthritis,Musculoskeletal,prednisolone
+Rheumatoid Arthritis,Musculoskeletal,dexamethasone
+Rheumatoid Arthritis,Musculoskeletal,hydroxychloroquine
+Scabies,Dermatological,ivermectin
+Schizophrenia,Neurological/Mental,haloperidol
+Schizophrenia,Neurological/Mental,chlorpromazine
+Scleroderma (Systemic Sclerosis),Musculoskeletal,nifedipine
+Scleroderma (Systemic Sclerosis),Musculoskeletal,omeprazole
+Scleroderma (Systemic Sclerosis),Musculoskeletal,metoclopramide
+Scorpion Sting,Surgical/Emergency,paracetamol
+Scorpion Sting,Surgical/Emergency,ibuprofen
+Scorpion Sting,Surgical/Emergency,diazepam
+Scorpion Sting,Surgical/Emergency,paracetamol
+Scorpion Sting,Surgical/Emergency,ibuprofen
+Scorpion Sting,Surgical/Emergency,diazepam
+Seizures/Epilepsies,Neurological/Mental,furosemide
+Seizures/Epilepsies,Neurological/Mental,phenytoin
+Seizures/Epilepsies,Neurological/Mental,valproate
+Seizures/Epilepsies,Neurological/Mental,diazepam
+Seizures/Epilepsies,Neurological/Mental,phenobarbitone
+Septic Arthritis,Musculoskeletal,ceftriaxone
+Septic Arthritis,Musculoskeletal,vancomycin
+Septic Arthritis,Musculoskeletal,cloxacillin
+Septic Arthritis,Musculoskeletal,flucloxacillin
+Sickle Cell Disease,Haematological,paracetamol
+Sickle Cell Disease,Haematological,ibuprofen
+Sickle Cell Disease,Haematological,aspirin
+Sickle Cell Disease,Haematological,diclofenac
+Sickle Cell Disease,Haematological,morphine
+Sickle Cell Disease,Haematological,paracetamol
+Sickle Cell Disease,Haematological,penicillin
+Sickle Cell Disease,Haematological,ibuprofen
+Sickle Cell Disease,Haematological,diclofenac
+Sickle Cell Disease,Haematological,morphine
+Sickle Cell Disease,Haematological,paracetamol
+Sickle Cell Disease,Haematological,penicillin
+Sickle Cell Disease,Haematological,ibuprofen
+Sickle Cell Disease,Haematological,diclofenac
+Sickle Cell Disease,Haematological,morphine
+Sinusitis,"ENT (Ear, Nose & Throat)",amoxicillin
+Sinusitis,"ENT (Ear, Nose & Throat)",paracetamol
+Sinusitis,"ENT (Ear, Nose & Throat)",cotrimoxazole
+Sinusitis,"ENT (Ear, Nose & Throat)",ceftriaxone
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,insulin
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,furosemide
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,diazepam
+Stye (Hordeolum),Ophthalmology,amoxicillin
+Surgical Care,Surgical/Emergency,insulin
+Syphilis,Infectious/Tropical,penicillin
+Syphilis,Infectious/Tropical,doxycycline
+Syphilis,Infectious/Tropical,erythromycin
+Syphilis,Infectious/Tropical,tetracycline
+Systemic Lupus Erythematosus,Musculoskeletal,chloroquine
+Systemic Lupus Erythematosus,Musculoskeletal,prednisolone
+Systemic Lupus Erythematosus,Musculoskeletal,hydroxychloroquine
+Temporomandibular Joint Pain Dysfunction Syndrome,Dental/Oral Health,diazepam
+Tetanus,Infectious/Tropical,metronidazole
+Tetanus,Infectious/Tropical,penicillin
+Tetanus,Infectious/Tropical,diazepam
+Tetanus,Infectious/Tropical,benzylpenicillin
+The Paralyzed Patient,Neurological/Mental,prednisolone
+The Unconscious Patient,Neurological/Mental,diazepam
+Tonsillitis,"ENT (Ear, Nose & Throat)",amoxicillin
+Tonsillitis,"ENT (Ear, Nose & Throat)",paracetamol
+Tonsillitis,"ENT (Ear, Nose & Throat)",cotrimoxazole
+Trachoma,Ophthalmology,azithromycin
+Trachoma,Ophthalmology,erythromycin
+Trachoma,Ophthalmology,tetracycline
+Apnea in a Child,Paediatric,aminophylline
+Apnea in a Child,Paediatric,aminophylline
+Trichomoniasis,Infectious/Tropical,metronidazole
+Tumour Lysis Syndrome,Oncology,insulin
+Typhoid Fever (Enteric Fever),Infectious/Tropical,ciprofloxacin
+Urinary Schistosomiasis,Infectious/Tropical,praziquantel
+Urticaria and Angioedema,Dermatological,prednisolone
+Urticaria and Angioedema,Dermatological,ranitidine
+Varicella (Chickenpox),Infectious/Tropical,erythromycin
+Vitiligo,Dermatological,prednisolone
+Vitiligo,Dermatological,hydrocortisone
+Vulvo-Vaginal Candidiasis,Maternal/Reproductive,fluconazole

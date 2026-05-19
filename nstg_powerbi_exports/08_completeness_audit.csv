@@ -1,0 +1,9 @@
+Field,Filled,Completeness_pct,Missing
+Prognosis,16,5.9,254
+Prevention,155,57.4,115
+Differential Diagnoses,166,61.5,104
+Complications,184,68.1,86
+Investigations,232,85.9,38
+Clinical Features,257,95.2,13
+Introduction,264,97.8,6
+Treatment,270,100.0,0

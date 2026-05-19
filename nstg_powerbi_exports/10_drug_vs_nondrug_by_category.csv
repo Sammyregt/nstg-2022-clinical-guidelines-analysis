@@ -1,0 +1,21 @@
+Category,Avg_Drug,Avg_NonDrug,Drug_Dominance
+Haematological,7.454545454545454,4.181818181818182,1.78
+Respiratory,7.0,1.6666666666666667,4.2
+Musculoskeletal,6.818181818181818,3.090909090909091,2.21
+Cardiovascular,5.75,2.25,2.56
+"ENT (Ear, Nose & Throat)",5.5625,2.6875,2.07
+Infectious/Tropical,5.317073170731708,2.073170731707317,2.56
+Neurological/Mental,5.125,3.1875,1.61
+Dermatological,4.95,2.4,2.06
+Ophthalmology,4.6,0.4,11.5
+Oncology,4.222222222222222,1.5,2.81
+Surgical/Emergency,3.75,6.125,0.61
+Paediatric,3.7142857142857144,3.0,1.24
+Maternal/Reproductive,3.5,4.75,0.74
+Dental/Oral Health,3.1666666666666665,2.7222222222222223,1.16
+Endocrine/Metabolic,3.1333333333333333,2.6,1.21
+Gastrointestinal,3.076923076923077,3.3846153846153846,0.91
+Nutritional,3.0,2.0,1.5
+Renal/Urological,2.3333333333333335,2.4166666666666665,0.97
+Geriatric,1.0,1.6666666666666667,0.6
+Other (Unclassifiable),0.0,2.0,0.0

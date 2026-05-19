@@ -1,0 +1,1133 @@
+condition_name,category,investigation
+Abortion,Maternal/Reproductive,PCV or Hb estimation
+Abortion,Maternal/Reproductive,Urinalysis
+Abortion,Maternal/Reproductive,Ultrasound scan to confirm if foetus is alive
+Abortion,Maternal/Reproductive,Rhesus antigen status
+Abortion,Maternal/Reproductive,Grouping and cross-matching of blood
+Abortion,Maternal/Reproductive,Bed side clotting time in cases of missed abortion
+Abortion,Maternal/Reproductive,Clotting profile in cases of missed abortion
+Abortion,Maternal/Reproductive,Further investigations will depend upon the suspected cause
+Acne Vulgaris,Dermatological,"Usually, none required"
+Acne Vulgaris,Dermatological,"In the presence of unusual acne, hirsutism, premature pubarche, or androgenic alopecia (especially when associated with obesity and/or menstrual irregularities): Screen for hyperandrogenism"
+Acne Vulgaris,Dermatological,"Blood levels of free testosterone, dehydroepiandrosterone, and androstenedione - If raised, test response of the hormones and cortisol to dexamethasone suppression"
+Acute Abdomen,Surgical/Emergency,Plain radiography of abdomen: Supine and upright films to identify features of intestinal obstruction (dilated bowel loops and multiple fluid levels); a radio-opaque shadow may be seen in the region of the urinary tract in ureteric colic
+Acute Abdomen,Surgical/Emergency,Plain radiography of chest: An upright film may identify gas under the diaphragm in gastrointestinal perforation and look for chest infection
+Acute Abdomen,Surgical/Emergency,"Abdomino-pelvic ultrasonography: Should help ascertain the cause of pain (e.g. cholecystitis, gynaecologic conditions, urinary calculi, degenerating masses); may identify injured solid organ in trauma"
+Acute Abdomen,Surgical/Emergency,Diagnostic peritoneal lavage: Useful in abdominal trauma to identify haemoperitoneum and leakage of gastrointestinal contents
+Acute Abdomen,Surgical/Emergency,"Biochemical tests: Urinalysis for sugar, protein, ketones; random blood sugar to exclude diabetes mellitus; serum electrolytes and urea (correction may be needed); serum amylase to exclude acute pancreatitis"
+Acute Abdomen,Surgical/Emergency,"Haematological tests: Haemogram to exclude anaemia; packed cell volume; haemoglobin genotype if sickle cell disease is suspected; complete blood count may show leucocytosis, neutrophilia; blood grouping and cross-matching"
+Acute Anterior Uveitis,Ophthalmology,Chest radiograph to exclude sarcoidosis and tuberculosis
+Acute Anterior Uveitis,Ophthalmology,Spinal radiograph (especially lumbrosacral segment) to exclude ankylosing spondilytis
+Acute Anterior Uveitis,Ophthalmology,"Serology for rheumatoid factor, antinuclear antibody, etc"
+Acute Bronchitis,Respiratory,Chest x-ray
+Acute Bronchitis,Respiratory,Sputum tests
+Acute Bronchitis,Respiratory,Quality sputum for culture and tests for evidence of allergy
+Acute Bronchitis,Respiratory,Pulmonary function tests
+Acute Coronary Syndrome,Cardiovascular,12 lead ECG within 10 mins of presentation with chest pain
+Acute Coronary Syndrome,Cardiovascular,Serial ECG if there is diagnostic uncertainty or change in clinical status
+Acute Coronary Syndrome,Cardiovascular,In inferior wall MI: do a right sided ECG (4VR) to exclude RV infarct (ST elevation > 1 mm)
+Acute Coronary Syndrome,Cardiovascular,"ECG diagnosis of STEMI in a setting of preceding LBBB is difficult, but the following are useful: ST changes in the same direction, ST segment elevation > 7-8 mm, Coving of ST segment, Pathological Q wave in 2 consecutive leads and Reciprocal changes"
+Acute Coronary Syndrome,Cardiovascular,"Cardiac enzymes: Cardiac troponin I & T are released within 4 hours of MI and remain elevated for up to 2 weeks, It is the most sensitive marker of myocardial damage. Useful in late presentation, MB-CK rises within 4-6 hours, peaks in a day and disappears by the second day"
+Acute Coronary Syndrome,Cardiovascular,"Blood chemistry: Blood sugar, electrolytes (Na, K, Cl, Ca, Mg), urea, Cr, lipid levels, arterial blood gas"
+Acute Coronary Syndrome,Cardiovascular,C-Xray: Cardiomegaly & Pulmonary oedema
+Acute Coronary Syndrome,Cardiovascular,"Echocardiography: Regional wall motion abnormality, Pericardial effusion, Septal/chordae/ papillary muscle rupture, MR, LV function, RV function, PAP"
+Acute Coronary Syndrome,Cardiovascular,Coronary angiography: Delineate site (s) of lesion & number of vessels involved
+Acute Diarrhoea,Gastrointestinal,"Stool microscopy, culture and sensitivity"
+Acute Diarrhoea,Gastrointestinal,Full Blood Count
+Acute Diarrhoea,Gastrointestinal,"Urea, Electrolytes and Creatinine"
+Acute Epiglottitis,Respiratory,Radiograph (lateral neck x-ray)
+Acute Epiglottitis,Respiratory,“Thumb sign” appearance of the enlarged epiglottitis
+Acute Epiglottitis,Respiratory,Ultrasound
+Acute Epiglottitis,Respiratory,Microbiology
+Acute Keratitis,Ophthalmology,"Corneal scraping for microscopy, culture and sensitivity"
+Acute Kidney Injury,Renal/Urological,Urine Examination (Volume / microscopy /Urinalysis / Electrolytes)
+Acute Kidney Injury,Renal/Urological,"Serum chemistry (e.g. creatinine, urea, K)"
+Acute Kidney Injury,Renal/Urological,Haematology including serology
+Acute Kidney Injury,Renal/Urological,"Imaging (e.g. USS, IVU, RUCG etc.)"
+Acute Kidney Injury,Renal/Urological,Renal biopsy
+Acute Necrotizing Ulcerative Gingivitis,Dental/Oral Health,Smears from ulcers show predominantly spirochaetes and gram-negative fusiform bacteria
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",Ear swab for MCS - swab taken properly without contamination
+Acute Otitis Media,"ENT (Ear, Nose & Throat)",FBC and Differentials
+Acute Peri-Apical Abscess,Dental/Oral Health,Radiographs (periapical)
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",X-ray of nasopharynx
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",X-ray of sinuses and chest
+Adenoid Diseases,"ENT (Ear, Nose & Throat)",Nasal endoscopy
+Alcohol Dependence (Alcoholism),Neurological/Mental,"FBC and differentials, LFT"
+Allergic Conjunctivitis,Ophthalmology,Skin sensitivity test to detect allergen
+Amoebiasis,Infectious/Tropical,Fresh Stool Microscopy for cysts and trophozoites
+Amoebiasis,Infectious/Tropical,Serology
+Amoebiasis,Infectious/Tropical,Chest radiograph
+Amoebiasis,Infectious/Tropical,Abdominal ultrasound scan
+Anaemias,Haematological,"Haematocrit, haemoglobin concentration, red cell indices, reticulocyte count, total leukocyte and differential counts, platelet count"
+Anaemias,Haematological,"Erythrocyte sedimentation rate, Blood film examination for morphology of cells, thick and thin films for malaria parasites"
+Anaemias,Haematological,"Urine analysis: Colour, pH, clarity, and specific gravity, microscopic examination of fresh urine specimen, protein, glucose, occult blood"
+Anaemias,Haematological,"Stool: Colour, consistency, examination for ova and parasites, occult blood"
+Anaemias,Haematological,"Plasma: Blood Urea Nitrogen (BUN), Total protein and albumin bilirubin, creatinine (if BUN is abnormal)"
+Anaemias,Haematological,Coombs test for the presence of antibodies to red cells
+Anaemias,Haematological,Ham's test (acidified serum test)
+Anaemias,Haematological,Bone marrow aspiration and trephine biopsy
+Anaemias,Haematological,Haemoglobin electrophoresis
+Anaemias,Haematological,Sickling test (metabisulphite and solubility)
+Anaemias,Haematological,Family studies
+Anemia in Pregnancy,Maternal/Reproductive,FBC and peripheral blood film
+Anemia in Pregnancy,Maternal/Reproductive,Midstream urine: M/C/S
+Anemia in Pregnancy,Maternal/Reproductive,Renal function test
+Anemia in Pregnancy,Maternal/Reproductive,"Stool analysis: ova, cysts, parasites, occult blood"
+Anemia in Pregnancy,Maternal/Reproductive,Blood group and cross-match blood
+Anemia in Pregnancy,Maternal/Reproductive,Haemoglobin genotype
+Anemia in Pregnancy,Maternal/Reproductive,VDRL
+Anemia in Pregnancy,Maternal/Reproductive,HIV screening
+Anemia in Pregnancy,Maternal/Reproductive,"Ultrasound scan (e.g. of abdomen, pelvis)"
+Anemia in Pregnancy,Maternal/Reproductive,Bone marrow biopsy if bone marrow involvement is suspected
+Antiphospholipid Syndrome,Haematological,FBC and ESR
+Antiphospholipid Syndrome,Haematological,"Serology: Anti-B2 glycoprotein antibodies IgG, IgM, IgA"
+Antiphospholipid Syndrome,Haematological,"Anti-cardiolipin antibodies(aCL) IgG, IgM, IgA"
+Antiphospholipid Syndrome,Haematological,Lupus anticoagulant(LAC)
+Antiphospholipid Syndrome,Haematological,Antinuclear antibody(ANA)
+Antiphospholipid Syndrome,Haematological,"Antibodies to phospholipids( many are not yet in clinical use) eg phosphatidylserine, phosphatidic acid, phosphatidylinositol"
+Antiphospholipid Syndrome,Haematological,"ECHO, Doppler US scan"
+Antiphospholipid Syndrome,Haematological,CT angiogram
+Antiphospholipid Syndrome,Haematological,Brain CT scan
+Anxiety Disorder,Neurological/Mental,To exclude medical/physical cause(s)
+Anxiety Disorder,Neurological/Mental,Use psychological questionnaires to confirm diagnosis
+Atopic Dermatitis (Atopic Eczema),Dermatological,RAST or skin tests may suggest dust mite allergy
+Atopic Dermatitis (Atopic Eczema),Dermatological,Eosinophilia and increased serum IgE levels may be present but are nonspecific
+Atopic Dermatitis (Atopic Eczema),Dermatological,Blinded food challenges: for diagnosing food allergy
+Bacillary Dysentery,Infectious/Tropical,"Stool microscopy, culture and sensitivity"
+Bacillary Dysentery,Infectious/Tropical,Full Blood Count
+Back Pain,Musculoskeletal,"None, if the pain is mechanical"
+Back Pain,Musculoskeletal,Laboratory investigations to exclude other causes
+Back Pain,Musculoskeletal,"Imaging: Plain X-rays, CT Scan, MRI, Bone Densitometry, Radioisotope studies"
+Bacterial Vaginosis,Maternal/Reproductive,Homogeneous milky discharge with pH > 4.5 (pH > 6.0 highly suggestive)
+Bacterial Vaginosis,Maternal/Reproductive,"Wet mount of the discharge – clue cells (normal vaginal epithelial cells studded with bacteria, giving the cells a granular appearance)"
+Bacterial Vaginosis,Maternal/Reproductive,Whiff test - addition of several drops of 10% KOH to a sample of vaginal discharge (Fishy odour is indicative of a positive test)
+Benign Prostatic Hyperplasia,Renal/Urological,FBC and ESR
+Benign Prostatic Hyperplasia,Renal/Urological,"Urinalysis, urine microscopy, culture and sensitivity"
+Benign Prostatic Hyperplasia,Renal/Urological,"Serum electrolytes, urea, and creatinine"
+Benign Prostatic Hyperplasia,Renal/Urological,Prostate Specific Antigen (PSA)
+Benign Prostatic Hyperplasia,Renal/Urological,Transrectal ultrasound (TRUS)
+Benign Prostatic Hyperplasia,Renal/Urological,Abdominal ultrasound
+Benign Prostatic Hyperplasia,Renal/Urological,"X-rays – Chest, Abdomen (KUB)"
+Benign Prostatic Hyperplasia,Renal/Urological,Uroflowmetry
+Benign Prostatic Hyperplasia,Renal/Urological,Uterocystoscopy
+Bipolar Disorders,Neurological/Mental,To rule out organic/medical causes
+Bipolar Disorders,Neurological/Mental,"FBC and Electrolyte, Urea and Creatinine"
+Blood Transfusion,Haematological,"Tests of Compatibility: A minimum of three major procedures must be carried out: Determine the recipient's ABO and Rhesus groups, Select compatible donor blood, Cross-match donor cells against recipient's serum, Donor blood should be screened for infective agents: HIV, hepatitis B, and C viruses"
+Breast Cancer,Oncology,FNAC/core needle biopsy/incisional or excision biopsy: For histopathological and immunohistochemical analyses
+Breast Cancer,Oncology,"Chest x-ray, abdominal USS, bone scan, with or withoutCT chest/abdomen: For Staging"
+Breast Cancer,Oncology,"Others: FBC, LFT, Electrolyte, Urea and Creatinine"
+Bronchial Asthma,Respiratory,Airway reversibility to inhaled β - adrenergic agonist
+Bronchial Asthma,Respiratory,Isocapnoeic response to hyperventilation of cold air
+Bronchial Asthma,Respiratory,Sputum eosinophilia
+Bronchial Asthma,Respiratory,Chest radiograph: hyperinflation
+Bronchiectasis,Respiratory,Chest radiograph: cystic spaces with air-fluid levels
+Bronchiectasis,Respiratory,"Bronchography: saccular, cylindrical or varicose bronchial dilatations"
+Bronchiectasis,Respiratory,CT scan (of the chest)
+Bronchiectasis,Respiratory,Bronchoscopy: biopsies of endobronchial lesion
+Bronchiectasis,Respiratory,"Sputum microscopy, culture, Ziehl Nielson microscopy"
+Bronchiectasis,Respiratory,Ventilatory function test: obstructive pattern
+Cancer of the Cervix,Oncology,FBC
+Cancer of the Cervix,Oncology,Urinalysis
+Cancer of the Cervix,Oncology,Blood Group
+Cancer of the Cervix,Oncology,Electrolytes and Urea
+Cancer of the Cervix,Oncology,Liver function tests
+Cancer of the Cervix,Oncology,"Midstream urine specimen for microscopy, culture and sensitivity"
+Cancer of the Cervix,Oncology,Chest radiograph
+Cancer of the Cervix,Oncology,HIV screening
+Cancer of the Cervix,Oncology,Intravenous urography
+Cancer Therapy,Oncology,"Tissue diagnosis is the hallmark of diagnosis, and it must be confirmed prior to initiation of treatment"
+Cancer Therapy,Oncology,Cytology: From body fluid or discharge or cell scrapings/shavings; fine needle aspiration biopsy/cytology (FNAB/C) of solid tumours
+Cancer Therapy,Oncology,"Histopathology: Core tissue obtained from specialized needles (e.g. Tru cut needle for solid tumours, Vim Silverman needle, Menghini needle), incisional/wedge biopsy, excision biopsy"
+Cancer Therapy,Oncology,Immunohistochemistry: Specialized studies to further characterize cancers e.g. breast cancer
+Cancer Therapy,Oncology,FBC
+Cancer Therapy,Oncology,Electrolyte
+Cancer Therapy,Oncology,Urea and Creatinine
+Cancer Therapy,Oncology,LFT
+Cancer Therapy,Oncology,Plain x-ray
+Cancer Therapy,Oncology,USS
+Cancer Therapy,Oncology,Endoscopy
+Cancer Therapy,Oncology,Radionuclide bone scan
+Cancer Therapy,Oncology,CT scan
+Cancer Therapy,Oncology,MRI
+Cancer Therapy,Oncology,"Tumour markers like CEA, CA 19-9"
+Carcinoma of the Prostate,Oncology,FBC and ESR
+Carcinoma of the Prostate,Oncology,"Serum, electrolytes, urea and creatinine"
+Carcinoma of the Prostate,Oncology,Transrectal ultrasound
+Carcinoma of the Prostate,Oncology,Abdominal ultrasound
+Carcinoma of the Prostate,Oncology,Prostate biopsy
+Carcinoma of the Prostate,Oncology,"X-ray- Lumbosacral spine, chest"
+Carcinoma of the Prostate,Oncology,MRI/CT scan
+Carcinoma of the Prostate,Oncology,Radionuclide bone scan
+Cardiac Arrhythmias,Cardiovascular,"Electrocardiograph (resting, 24-hour Holter, 1 month Holter monitoring)"
+Cardiac Arrhythmias,Cardiovascular,"Atrial fibrillation is characterized by absence of p waves, presence of fibrillary waves and varying RR interval"
+Cardiac Arrhythmias,Cardiovascular,Electrolytes including K and Mg; Urea and Creatinine
+Cardiac Arrhythmias,Cardiovascular,Echocardiography
+Cardiac Arrhythmias,Cardiovascular,Electrophysiology
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Echocardiography (Doppler)
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Electrocardiography
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Plethymography
+Cardiac Disease in Pregnancy,Maternal/Reproductive,CT scan
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Cardiac catherization
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Pulmonary artery catherization
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Serial blood cultures (if infective endocarditis is suspected)
+Cardiac Disease in Pregnancy,Maternal/Reproductive,FBC
+Cardiac Disease in Pregnancy,Maternal/Reproductive,"Serum Electrolyte, Urea and Creatinine"
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Urinalysis
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Blood Glucose
+Cardiac Disease in Pregnancy,Maternal/Reproductive,Bedside crude clotting time
+Cardiomyopathies,Cardiovascular,Echocardiography
+Cardiomyopathies,Cardiovascular,Electrocardiography (ECG)
+Cardiomyopathies,Cardiovascular,Chest radiography
+Cardiomyopathies,Cardiovascular,B-type Natriuretic peptide
+Cataract,Ophthalmology,Projection of light
+Cataract,Ophthalmology,Pupillary light reflex
+Cataract,Ophthalmology,Macular function test
+Cataract,Ophthalmology,Ocular ultrasounds scan: especially in cases of trauma to exclude pathology of the posterior segment of the eye
+Cellulitis,Dermatological,M/C/S (blood and swab)
+Cellulitis,Dermatological,Blood culture
+Cellulitis,Dermatological,Full Blood Count with differentials
+Cellulitis,Dermatological,Fasting blood glucose
+Cellulitis,Dermatological,HIV screening
+Cellulitis,Dermatological,"Wound swab for microscopy, culture and sensitivity"
+Cellulitis,Dermatological,Urinalysis
+Cervical Cancer,Oncology,Visual inspection of the cervix
+Cervical Cancer,Oncology,Pap smear
+Cervical Cancer,Oncology,HPV DNA test
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,"Microscopy, culture and sensitivity of discharge from ulcer"
+"Chancroid (Ulcus Molle, Soft Chancre)",Infectious/Tropical,Serological tests e.g. complement fixation (CF); microimmuno-fluorescence (MIF) test; PCR
+Chest Pain,Cardiovascular,Chest radiography
+Chest Pain,Cardiovascular,Electrocardiography
+Chest Pain,Cardiovascular,Echocardiography
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,"Microscopy, culture and sensitivity (of discharge)"
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Direct immunofluorescence assay
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Enzyme-linked immunoassay
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,DNA probe test
+Chlamydial Infection (Other Than Lymphogranuloma Venereum),Infectious/Tropical,Ligase chain reaction (LCR)
+Cholera,Infectious/Tropical,"Stool microscopy, culture and sensitivity"
+Cholera,Infectious/Tropical,"Urea, Electrolytes and Creatinine"
+Cholera,Infectious/Tropical,Complete Blood Count
+Cholestasis of Pregnancy,Maternal/Reproductive,Liver function tests: Mildly deranged
+Cholestasis of Pregnancy,Maternal/Reproductive,Serum bilirubin and bile salts may be elevated
+Chronic Kidney Disease (CKD),Renal/Urological,Urine Examination (Volume / microscopy /Urinalysis / Electrolytes)
+Chronic Kidney Disease (CKD),Renal/Urological,"Serum chemistry (e.g. creatinine, urea, K)"
+Chronic Kidney Disease (CKD),Renal/Urological,"Haematology including serology: Full blood count, clotting profile, serological tests for HBV, HCV and HIV"
+Chronic Kidney Disease (CKD),Renal/Urological,"Imaging (e.g. USS, IVU, RUCG)"
+Chronic Kidney Disease (CKD),Renal/Urological,Renal biopsy
+Chronic Lymphocytic Leukaemia,Oncology,Cell morphology:
+Chronic Lymphocytic Leukaemia,Oncology,Size
+Chronic Lymphocytic Leukaemia,Oncology,Nuclear: cytoplasmic (N: C) ratio
+Chronic Lymphocytic Leukaemia,Oncology,Regularity or irregularity of the nuclear outline
+Chronic Lymphocytic Leukaemia,Oncology,Characteristics of the cytoplasm (presence and length or absence of azurophil granules)
+Chronic Lymphocytic Leukaemia,Oncology,Degree of nuclear chromatin condensation and its pattern
+Chronic Lymphocytic Leukaemia,Oncology,"Prominence, frequency and localization of the nucleolus"
+Chronic Lymphocytic Leukaemia,Oncology,As for anaemia and other leukaemias
+Chronic Myeloid Leukaemia (CML),Oncology,Determination of Philadelphia chromosome
+Chronic Myeloid Leukaemia (CML),Oncology,Lactic dehydrogenase
+Chronic Myeloid Leukaemia (CML),Oncology,Serum calcium
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)",Ear swab for MCS
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)",Audiogram: conductive deafness
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)","X-ray of the mastoids: shows sclerosis, Hypopneumatization"
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)","CT Scan of Petromastoid: Axial, coronal views"
+Chronic Otitis Media,"ENT (Ear, Nose & Throat)",MRI of the petromastoid
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,"Resting ECG: Normal in 50% of patients, ST depression, May show Q wave of previous MI"
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,"Exercise stress ECG: Positive test evidenced by ST depression ≥ 1 mm at the J point (planar or down sloping), Arrhythmias, Fall in BP, Sensitivity (68%), Specificity (77%)"
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,"Echocardiography: May show segmental hypokinesia or dyskinesia, severe infarcts show global hypokinesia"
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,"Laboratory evaluation: FBG, Lipid profile, Electrolyte, Urea and Creatinine, Cardiac enzymes – Point of care or laboratory based (CK-MB, troponin, N-terminal B natriuretic peptide)"
+Chronic Stable Angina (Angina Pectoris),Cardiovascular,"Coronary angiography: Gold standard, invasive, expensive and done only when coronary artery bypass graft (CABG) or angioplasty is planned"
+Gonorrhea in Females,Infectious/Tropical,"Endocervical swab (through a vaginal speculum) for microscopy, culture and sensitivity"
+Asphyxiated Babies,Paediatric,Oxygen saturation via pulse oximetry
+Asphyxiated Babies,Paediatric,Random blood glucose
+Asphyxiated Babies,Paediatric,"Serum electrolytes, urea and creatinine, serum calcium"
+Asphyxiated Babies,Paediatric,Serum troponin
+Asphyxiated Babies,Paediatric,"Serum aspartate aminotransferase, serum alanine aminotransferase"
+Colorectal Cancer,Oncology,Colonoscopy and biopsy
+Colorectal Cancer,Oncology,barium enema
+Colorectal Cancer,Oncology,Abdominopelvic USS
+Colorectal Cancer,Oncology,Abdominopelvic CT scan
+Colorectal Cancer,Oncology,Chest X-ray/CT
+Colorectal Cancer,Oncology,IVU
+Colorectal Cancer,Oncology,Cystoscopy
+Colorectal Cancer,Oncology,Haematological tests
+Colorectal Cancer,Oncology,Biochemical tests
+Colorectal Cancer,Oncology,Tumour markers (CEA)
+Colorectal Cancer,Oncology,Electrocardiogram
+Colorectal Cancer,Oncology,Echocardiography
+Colorectal Cancer,Oncology,Digital rectal examination
+Colorectal Cancer,Oncology,"Faecal tests (occult blood test, immunochemical test, DNA testing)"
+Colorectal Cancer,Oncology,Colonoscopy
+Colorectal Cancer,Oncology,Double contrast barium enema
+Congenital Heart Disease,Cardiovascular,FBC and differentials
+Congenital Heart Disease,Cardiovascular,"Electrolyte, Urea and Creatinine"
+Congenital Heart Disease,Cardiovascular,Chest radiograph
+Congenital Heart Disease,Cardiovascular,Electrocardiograhy
+Congenital Heart Disease,Cardiovascular,Foetal echocardiography
+Congenital Heart Disease,Cardiovascular,Angiography
+Constipation,Gastrointestinal,Full blood counts
+Constipation,Gastrointestinal,Stool microscopy
+Constipation,Gastrointestinal,Serum electrolytes
+Constipation,Gastrointestinal,Proctosigmoidoscopy/Colonoscopy
+Constipation,Gastrointestinal,Barium enema
+Constipation,Gastrointestinal,Serum hormonal levels e.g. Thyroid hormones
+Constipation,Gastrointestinal,Abdominal x-rays
+Contact Dermatitis,Dermatological,Patch test
+Contact Dermatitis,Dermatological,Occupational site assessment
+Coronavirus Disease (COVID-19),Infectious/Tropical,FBC & Differentials
+Coronavirus Disease (COVID-19),Infectious/Tropical,Chest X-ray
+Coronavirus Disease (COVID-19),Infectious/Tropical,Chest CT scan
+Coronavirus Disease (COVID-19),Infectious/Tropical,Renal function tests
+Coronavirus Disease (COVID-19),Infectious/Tropical,Blood gas analysis
+Coronavirus Disease (COVID-19),Infectious/Tropical,"C-reactive protein, Lactate dehydrogenase, D-dimer and ferritin levels"
+Coronavirus Disease (COVID-19),Infectious/Tropical,Clotting profile
+Coronavirus Disease (COVID-19),Infectious/Tropical,Immunological markers
+Coronavirus Disease (COVID-19),Infectious/Tropical,Sputum analysis for respiratory pathogens
+Coronavirus Disease (COVID-19),Infectious/Tropical,Blood culture
+Coronavirus Disease (COVID-19),Infectious/Tropical,Liver function tests
+Cough,Respiratory,Macroscopic and microscopic examination of sputum
+Cough,Respiratory,Sputum culture
+Cough,Respiratory,Exclude tuberculosis if cough is chronic
+Cough,Respiratory,Sputum cytology for malignant cells
+Cough,Respiratory,Chest radiograph where indicated
+Cough,Respiratory,HIV screen if history and clinical features are suggestive
+Cushing's Syndrome,Endocrine/Metabolic,Electrolyte
+Cushing's Syndrome,Endocrine/Metabolic,Urea and Creatinine
+Cushing's Syndrome,Endocrine/Metabolic,FBS and FBC
+Cushing's Syndrome,Endocrine/Metabolic,Urine free cortisol (UFC; at least two measurements)
+Cushing's Syndrome,Endocrine/Metabolic,Late-night salivary cortisol (two measurements)
+Cushing's Syndrome,Endocrine/Metabolic,1 mg overnight dexamethasone suppression test (DST)
+Cushing's Syndrome,Endocrine/Metabolic,Longer low-dose DST (2 mg/day for 48 hours)
+Cutaneous Larva Migrans (Creeping Eruption),Dermatological,None useful to management
+Cutaneous Squamous Cell Carcinoma,Oncology,Wedge biopsy for histopathological analysis
+Cutaneous Squamous Cell Carcinoma,Oncology,Plain x-ray
+Cutaneous Squamous Cell Carcinoma,Oncology,CT scan
+Cutaneous Squamous Cell Carcinoma,Oncology,MRI
+Decubitus (Pressure) Ulcers,Dermatological,Levine's technique for obtaining wound swabs
+Decubitus (Pressure) Ulcers,Dermatological,Tissue biopsy
+Deep Vein Thrombosis,Cardiovascular,FBC and differentials
+Deep Vein Thrombosis,Cardiovascular,Prothrombin time
+Deep Vein Thrombosis,Cardiovascular,KCCT
+Deep Vein Thrombosis,Cardiovascular,Venous doppler of the leg/pelvic vessels
+Deep Vein Thrombosis,Cardiovascular,Echocardiography
+Deep Vein Thrombosis,Cardiovascular,Electrocardiography
+Deep Vein Thrombosis,Cardiovascular,Venography (pelvic or calf veins)
+Delirium,Neurological/Mental,Determined by any causal or contributing medical conditions
+Delirium,Neurological/Mental,FBC
+Delirium,Neurological/Mental,"Electrolyte, urea and creatinine"
+Delirium,Neurological/Mental,Serum Ca
+Delirium,Neurological/Mental,LFT
+Delirium,Neurological/Mental,Blood glucose
+Delirium,Neurological/Mental,Blood culture
+Delirium,Neurological/Mental,Urinalysis and urine culture
+Delirium,Neurological/Mental,Chest X-ray
+Delirium,Neurological/Mental,Thyroid function tests
+Dental Caries,Dental/Oral Health,Periapical radiographs
+Dental Caries,Dental/Oral Health,Bitewing radiographs
+Dental Caries,Dental/Oral Health,Electric pulp testers
+Dental Caries,Dental/Oral Health,Thermal test
+Depression,Neurological/Mental,FBC and differentials
+Depression,Neurological/Mental,Thyroid function test
+Depression,Neurological/Mental,Indicative infection screen
+Diabetes in Pregnancy,Maternal/Reproductive,Daily SBGM (urine glucose monitoring) is not useful in pregnancy
+Diabetes in Pregnancy,Maternal/Reproductive,Regular assessment of maternal wellbeing should include blood pressure and urine protein
+Diabetes in Pregnancy,Maternal/Reproductive,Regular surveillance for foetal well-being
+Diabetes Mellitus,Endocrine/Metabolic,Fasting or random blood glucose
+Diabetes Mellitus,Endocrine/Metabolic,Urine ketones and protein
+Diabetes Mellitus,Endocrine/Metabolic,"FBC and Electrolyte, Urea and Creatinine"
+Diabetes Mellitus,Endocrine/Metabolic,Fasting blood lipid profile
+Diabetes Mellitus,Endocrine/Metabolic,Glycated haemoglobin (HbA1c)
+Diabetes Mellitus,Endocrine/Metabolic,ECG
+Dizziness,"ENT (Ear, Nose & Throat)",Full Blood Count and differentials
+Dizziness,"ENT (Ear, Nose & Throat)",Electrocardiography
+Dizziness,"ENT (Ear, Nose & Throat)",Echocardiography
+Dizziness,"ENT (Ear, Nose & Throat)",Random blood glucose
+Dizziness,"ENT (Ear, Nose & Throat)",X-ray of the sinuses
+Dizziness,"ENT (Ear, Nose & Throat)","Neuro-imaging: CT scan, MRI and carotid Doppler ultrasound"
+Ectopic Pregnancy,Maternal/Reproductive,FBC
+Ectopic Pregnancy,Maternal/Reproductive,Blood grouping and cross matching
+Ectopic Pregnancy,Maternal/Reproductive,Urinalysis
+Ectopic Pregnancy,Maternal/Reproductive,Ultrasound scan of the pelvis (preferably trans-vaginal)
+Ectopic Pregnancy,Maternal/Reproductive,Serum B-hCG (where available) especially in silent cases
+Ectopic Pregnancy,Maternal/Reproductive,"Laparoscopy may be necessary when still in doubt, but the availability of trans-vaginal ultrasound scan may obviate this"
+Ectopic Pregnancy,Maternal/Reproductive,Final arbiter when the diagnosis is in doubt is exploratory laparotomy
+Elder Mistreatment,Geriatric,As indicated by history and Clinical Features
+Epistaxis,"ENT (Ear, Nose & Throat)","FBC, including platelet count"
+Epistaxis,"ENT (Ear, Nose & Throat)",Bleeding and clotting time; APTT
+Epistaxis,"ENT (Ear, Nose & Throat)","Serum Electrolyte, Urea and Creatinine"
+Epistaxis,"ENT (Ear, Nose & Throat)",X-ray sinuses
+Epistaxis,"ENT (Ear, Nose & Throat)",CT scan
+Epistaxis,"ENT (Ear, Nose & Throat)",Nasal endoscopy
+Erectile Dysfunction,Maternal/Reproductive,FBC and ESR
+Erectile Dysfunction,Maternal/Reproductive,Urinalysis
+Erectile Dysfunction,Maternal/Reproductive,Blood glucose screening
+Erectile Dysfunction,Maternal/Reproductive,Blood lipid profile (Fasting)
+Erectile Dysfunction,Maternal/Reproductive,"Hormone assay – Total and free testosterone, prolactin, FSH, LH"
+Erectile Dysfunction,Maternal/Reproductive,Nocturnal penile tumescence testing (Rigidscan)
+Erectile Dysfunction,Maternal/Reproductive,Colour Duplex Ultrasound – for suspected vascular cause.
+Erectile Dysfunction,Maternal/Reproductive,Cavernosogram – suspected venous leak
+Exfoliative Dermatitis (Erythroderma),Dermatological,Full blood count and differentials
+Exfoliative Dermatitis (Erythroderma),Dermatological,ESR
+Exfoliative Dermatitis (Erythroderma),Dermatological,Urea and Electrolytes
+Exfoliative Dermatitis (Erythroderma),Dermatological,Histopathology
+Exfoliative Dermatitis (Erythroderma),Dermatological,Blood culture
+Falls,Geriatric,"Should be tailored to identify underlying causes e.g. anaemia, arrhythmias, electrolyte imbalance, infections, etc."
+Falls,Geriatric,Additional Investigations to confirm or rule out Complications as indicated by clinical presentation
+Fevers,Infectious/Tropical,FBC and differential WBC
+Fevers,Infectious/Tropical,"Urinalysis, with examination of the urinary sediment"
+Fevers,Infectious/Tropical,Examination of any abnormal fluid collection
+Fevers,Infectious/Tropical,Rapid diagnostic tests for infectious antigen or antibody
+Fevers,Infectious/Tropical,Blood smear for malaria parasites
+Fevers,Infectious/Tropical,Serology - detection of pathogen antigen or antibody
+Fevers,Infectious/Tropical,"Nucleic acid-based techniques for detection of pathogens (e.g., polymerase chain reaction)"
+Fevers,Infectious/Tropical,"Microscopy, culture, and sensitivity of specimens from body fluids and mucosal surfaces"
+Fevers,Infectious/Tropical,Urine examination
+Fevers,Infectious/Tropical,"Serum urea, electrolytes, and creatinine"
+Fevers,Infectious/Tropical,Blood glucose
+Fevers,Infectious/Tropical,Liver function tests
+Fevers,Infectious/Tropical,Cerebrospinal fluid examination
+Fevers,Infectious/Tropical,Chest radiograph
+Food Poisoning,Infectious/Tropical,Essentially clinical
+Food Poisoning,Infectious/Tropical,Laboratory confirmation of the specific microbe(s) involved.
+Foreign Bodies in the Airways,Surgical/Emergency,Radiograph of neck and chest
+Foreign Bodies in the Ear,"ENT (Ear, Nose & Throat)",Ear Endoscopy
+Foreign Bodies in the Ear,"ENT (Ear, Nose & Throat)",Xray of petromastoid
+Foreign Bodies in the Ear,"ENT (Ear, Nose & Throat)",CT Scan of petromastoid
+Foreign Bodies in the Nose and Rhinoliths,"ENT (Ear, Nose & Throat)",Nasal endoscopy
+Foreign Bodies in the Nose and Rhinoliths,"ENT (Ear, Nose & Throat)",Radiograph of nose: for metallic or radio-opaque objects
+Foreign Bodies in the Nose and Rhinoliths,"ENT (Ear, Nose & Throat)",CT Scan of the nose and paranasal sinuses when missile injuries are involved
+Foreign Body Impaction,Gastrointestinal,Radiograph of neck and chest
+Frailty,Geriatric,Full blood count
+Frailty,Geriatric,"Electrolytes, urea and creatinine"
+Frailty,Geriatric,Liver function tests
+Frailty,Geriatric,Thyroid function tests
+Frailty,Geriatric,Serum calcium and albumin
+Frailty,Geriatric,Urinalysis
+Furunculosis (Boils),Dermatological,Wound swab for bacteriology and sensitivity
+Furunculosis (Boils),Dermatological,Full Blood Count with differentials
+Furunculosis (Boils),Dermatological,Fasting blood glucose
+Furunculosis (Boils),Dermatological,HIV screening
+Furunculosis (Boils),Dermatological,Urinalysis
+Gastric Cancer,Oncology,Oesophagogastroduodenoscopy with biopsy for histopathology
+Gastritis,Gastrointestinal,Upper GI Endoscopy (macroscopic diagnosis).
+Gastritis,Gastrointestinal,Histology of gastric biopsy for definitive diagnosis
+Giardiasis,Infectious/Tropical,Stool microscopy
+Giardiasis,Infectious/Tropical,Full blood count
+Giardiasis,Infectious/Tropical,Duodenal aspirate for microscopy
+Glaucoma,Ophthalmology,Intraocular pressure measurement
+Glaucoma,Ophthalmology,Central and peripheral visual field test.
+Glaucoma,Ophthalmology,Fundoscopy to determine cup/disc ratio
+Glaucoma,Ophthalmology,Gonioscopy to view the angle of the eye
+Gonorrhea,Infectious/Tropical,Urethral swab for microscopy and culture and sensitivity
+Gout,Endocrine/Metabolic,Serum uric acid - may be normal in acute gout
+Gout,Endocrine/Metabolic,"Haematocrit, white blood cell count, ESR, lipid profile"
+Gout,Endocrine/Metabolic,"Creatinine, urea, eGFR - to exclude the usually associated renal impairment"
+Gout,Endocrine/Metabolic,"Cholesterol, triglycerides – usually elevated and co-existing with gout"
+Gout,Endocrine/Metabolic,Plasma glucose (high serum uric acid may be a component of metabolic syndrome)
+Gout,Endocrine/Metabolic,"Musculoskeletal ultrasound scan, radiographs, Dual energy computerized tomography"
+Granuloma Inguinale (Donovanosis Granuloma Venereum),Infectious/Tropical,Direct microscopy
+Guinea Worm Disease (Dracunculiasis),Infectious/Tropical,Radiograph of the affected area if osteomyelitis and arthritis (or calcified worms) are suspected
+Haemorrhoids,Gastrointestinal,Anoscopy.
+Haemorrhoids,Gastrointestinal,Full blood count
+Heart Failure,Cardiovascular,Chest radiograph
+Heart Failure,Cardiovascular,Electrocardiography
+Heart Failure,Cardiovascular,Echocardiography
+Heart Failure,Cardiovascular,"Electrolyte, Urea and Creatinine"
+Heart Failure,Cardiovascular,FBG
+Heart Failure,Cardiovascular,Urine micro-analysis
+Heart Failure,Cardiovascular,Full Blood Count with differentials
+Helminthiasis,Infectious/Tropical,Stool examination for ova and parasites
+Helminthiasis,Infectious/Tropical,Urine examination: microscopy
+Helminthiasis,Infectious/Tropical,Haematology: eosinophilia and anaemia may be present
+Helminthiasis,Infectious/Tropical,Serology and CT scan may be required in some instances.
+Hepatitis,Infectious/Tropical,Liver Function Tests
+Hepatitis,Infectious/Tropical,"Serologic markers of Hepatitis A, B, C, D and E"
+Hepatitis,Infectious/Tropical,Viral load
+Hepatitis,Infectious/Tropical,Abdominal ultrasonography
+Hepatitis,Infectious/Tropical,Prothrombin time
+Hepatitis,Infectious/Tropical,HIV Screening
+Hepatocellular Carcinoma (HCC),Oncology,Liver biopsy
+Hepatocellular Carcinoma (HCC),Oncology,Abdominopelvic USS
+Hepatocellular Carcinoma (HCC),Oncology,Abdominal CT
+Hepatocellular Carcinoma (HCC),Oncology,LFT
+Hepatocellular Carcinoma (HCC),Oncology,Serum proteins
+Hepatocellular Carcinoma (HCC),Oncology,"Electrolyte, Urea and Creatinine"
+Hepatocellular Carcinoma (HCC),Oncology,"Tumour markers (α-fetoprotein, des-gamma-carboxy prothrombin, C-reactive protein)"
+Hepatocellular Carcinoma (HCC),Oncology,FBC
+Herpes Zoster,Infectious/Tropical,HIV screening for all patients
+Herpes Zoster,Infectious/Tropical,Full Blood Count with differentials
+Herpes Zoster,Infectious/Tropical,ESR
+Herpes Zoster,Infectious/Tropical,Exclude Hodgkin's disease and leukaemia
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Full Blood Count and differentials
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,VDRL (or RPR)
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Tuberculin test (PPD)
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Gene Xpert
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Sputum smears for TB
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Renal function tests: Electrolytes, Urea and Creatinine"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Urinalysis
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Blood glucose
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Liver function tests
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Lipid studies (fasting triglycerides, LDL, HDL)"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"HBV, HCV serology"
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Cervical (PAP) smears
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,CD4 T cell counts
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Chest X-ray
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,HIV RNA level (viral load)
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,HIV DNA (paediatric diagnosis <18 months of age)
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,Genotype and phenotype assays for resistance testing
+Human Immunodeficiency Virus (HIV) Infection,Infectious/Tropical,"Pregnancy assessment, family planning and counselling services"
+Hyperemesis Gravidarum,Maternal/Reproductive,FBC
+Hyperemesis Gravidarum,Maternal/Reproductive,"Electrolyte, Urea and Creatinine"
+Hyperemesis Gravidarum,Maternal/Reproductive,Liver function tests
+Hyperemesis Gravidarum,Maternal/Reproductive,Midstream urine for M/C/S
+Hyperemesis Gravidarum,Maternal/Reproductive,Urinalysis for ketones
+Hyperemesis Gravidarum,Maternal/Reproductive,Blood film for malaria parasites
+Hyperemesis Gravidarum,Maternal/Reproductive,Ultrasound scan of the pelvis/abdomen to rule out multiple or abnormal pregnancies
+Hyperlipidaemia,Endocrine/Metabolic,Lipid profile
+Hyperlipidaemia,Endocrine/Metabolic,"Urea, Electrolytes and Creatinine"
+Hyperlipidaemia,Endocrine/Metabolic,FBG
+Hyperlipidaemia,Endocrine/Metabolic,Urine proteins
+Hyperlipidaemia,Endocrine/Metabolic,Serum proteins (total and differential)
+Hypertension,Cardiovascular,Urinalysis; urine microscopy
+Hypertension,Cardiovascular,"Electrolyte, Urea and Creatinine"
+Hypertension,Cardiovascular,Uric acid
+Hypertension,Cardiovascular,FBG
+Hypertension,Cardiovascular,Lipid profile
+Hypertension,Cardiovascular,Chest radiograph
+Hypertension,Cardiovascular,Electrocardiography
+Hypertension,Cardiovascular,Echocardiography
+Hypertension,Cardiovascular,Abdominal ultrasound
+Hypertension,Cardiovascular,Renal angiography
+Hypoglycemia in a Child,Endocrine/Metabolic,"Screening for hypoglycaemia is mandatory for all high-risk infants (EGA <37weeks, Weight <2.5kg, SGA, infants of diabetic mothers, infants of mothers on β-blockers, infants with cold-stress)."
+Hypoglycemia in a Child,Endocrine/Metabolic,"The diagnosis of hypoglycaemia should be confirmed using test strips which are not affected by haematocrit, oxygen saturation or bilirubin level."
+Hypoglycemia in a Child,Endocrine/Metabolic,"Screening for hypoglycaemia for all high-risk infants (EGA <37weeks, Weight <2.5kg, SGA, infants of diabetic mothers, infants of mothers on β-blockers, infants with cold-stress)."
+Hypoglycemia in a Child,Endocrine/Metabolic,"Diagnosis confirmed using test strips unaffected by haematocrit, oxygen saturation, or bilirubin level. Modern strips provide blood glucose values close to spectrophotometery values."
+Hypothyroidism (Myxoedema),Endocrine/Metabolic,Total serum T3 and T4 levels
+Hypothyroidism (Myxoedema),Endocrine/Metabolic,TSH stimulation test
+Hypothyroidism (Myxoedema),Endocrine/Metabolic,TRH test
+Idiopathic Inflammatory Myopathies,Musculoskeletal,"Diagnosis is based on three planks – muscle enzymes, EMG, muscle biopsy. Probably the more commonly used set of criteria are the Bohan-Peter criteria"
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Elevated muscle enzymes - Creatine kinase : many times upper limit of normal
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Elevated aldolase
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Lactate dehydrogenase
+Idiopathic Inflammatory Myopathies,Musculoskeletal,"Elevated liver enzymes - Alanine transaminase (ALT), aspartate transaminases (AST)"
+Idiopathic Inflammatory Myopathies,Musculoskeletal,ESR and CRP are usually elevated
+Idiopathic Inflammatory Myopathies,Musculoskeletal,"Serology - Antinuclear Antibodies (ANA) 50-80%, Anti-Mi2 associated with dermatomyositis, Anti-Jo1 associated with polymyositis, Anti-SR2 associated with severe resistance polymyositis"
+Idiopathic Inflammatory Myopathies,Musculoskeletal,ECG : arrhythmias seen in 90% of patient
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Muscle biopsy
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Pulmonary function test
+Idiopathic Inflammatory Myopathies,Musculoskeletal,High resolution lung CT scan to exclude interstitial lung disease.
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Magnetic Resonance Imaging to differentiate acute inflammation from chronic muscle damage
+Idiopathic Inflammatory Myopathies,Musculoskeletal,Electromyography (EMG)
+Impetigo Contagiosa,Infectious/Tropical,Wound swab for bacteriology and sensitivity
+Infective Conjunctivitis,Ophthalmology,"Conjunctival swab for microscopy, culture and sensitivity"
+Infective Endocarditis,Infectious/Tropical,FBC and differentials
+Infective Endocarditis,Infectious/Tropical,Urinalysis; urine microscopy
+Infective Endocarditis,Infectious/Tropical,Blood cultures X 3 (the yield is higher at the time of pyrexia)
+Infective Endocarditis,Infectious/Tropical,Chest radiography
+Infective Endocarditis,Infectious/Tropical,ECG
+Infective Endocarditis,Infectious/Tropical,Echocardiography
+Insomnia,Neurological/Mental,Mainly of the presumed underlying cause(s)
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Bilirubinuria
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Elevated bile acids
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Elevated alkaline phosphatase
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Elevated liver transferase enzymes
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,Prothrombin time
+Intra-hepatic Cholestatic Jaundice of Pregnancy,Maternal/Reproductive,"Always exclude viral disease, gallstones and treatment with chlorpromazine"
+Jaundice in Pregnancy,Maternal/Reproductive,Histology: Perilobular fatty infiltration of the liver cells
+Jaundice in Pregnancy,Maternal/Reproductive,There is no place for liver biopsy because of risk of severe bleeding
+Jaundice,Gastrointestinal,LFTs
+Jaundice,Gastrointestinal,Abdominal ultrasound scan
+Jaundice,Gastrointestinal,PT/PTTK
+Jaundice,Gastrointestinal,CT/MRI/MRCP
+Juvenile Periodontitis,Dental/Oral Health,"Radiology may reveal marked bone loss interdentally, inter-radicularly and apically"
+Kwashiorkor and Marasmus,Nutritional,Full Blood Count
+Kwashiorkor and Marasmus,Nutritional,ESR
+Kwashiorkor and Marasmus,Nutritional,Stool microscopy
+Kwashiorkor and Marasmus,Nutritional,Urinalysis
+Kwashiorkor and Marasmus,Nutritional,Serum proteins
+Kwashiorkor and Marasmus,Nutritional,Chest radiograph
+Kwashiorkor and Marasmus,Nutritional,Mantoux test
+Leukaemia,Oncology,"Full blood count with ESR, reticulocyte count, Coombs test"
+Leukaemia,Oncology,Bone marrow examination
+Leukaemia,Oncology,"Biochemical tests: serum electrolytes, urea, creatinine, uric acid, liver function tests"
+Leukaemia,Oncology,"Prothrombin time, partial thromboplasmin human leucocyte antigen typing"
+Leukaemia,Oncology,HIV I and II
+Leukaemia,Oncology,"Cytochemical tests: Peroxidase, Sudan Black B-Non-specific esterase reaction e.g. alpha napthyl acetate esterase"
+Leukaemia,Oncology,Bone marrow cultures
+Leukaemia,Oncology,Cytogenetic studies
+Leukaemia,Oncology,Electron microscopy
+Leukaemia,Oncology,Cell markers e.g. using a panel of antibodies combined with flow cytometric analysis or the alkaline phosphase-anti alkaline phosphate (APAAP) technique to classify the blast cells into lymphoid or myeloid lineages
+Leukaemia,Oncology,Abdominal ultrasound/CT scans
+Leukaemia,Oncology,Immunological classification
+Leukaemia,Oncology,Terminal deoxynucleotidyl transferase demonstration in nuclei of B and T lymphocytes
+Lichen Planus,Dermatological,Histopathology
+Lichen Planus,Dermatological,Hepatitis C antigen
+Liver Cirrhosis,Gastrointestinal,LFTs
+Liver Cirrhosis,Gastrointestinal,"PT, PTTK"
+Liver Cirrhosis,Gastrointestinal,Liver biopsy
+Liver Cirrhosis,Gastrointestinal,Ultrasound examination of the liver
+Liver Cirrhosis,Gastrointestinal,Hepatitis B & C
+Liver Cirrhosis,Gastrointestinal,Upper GI endoscopy.
+Lung Abscess,Respiratory,Sputum: Gram stain and culture
+Lung Abscess,Respiratory,Bronchoscopy
+Lung Abscess,Respiratory,Transthoracic aspiration
+Lung Abscess,Respiratory,Blood culture
+Lung Abscess,Respiratory,Chest radiograph
+Lung Cancer,Oncology,Bronchoscopy plus biopsy
+Lung Cancer,Oncology,Mediastinoscopy
+Lung Cancer,Oncology,Thoracoscopy or video-assisted thoracoscopy
+Lung Cancer,Oncology,"Radiologic: chest radiograph, contrast-enhanced chest CT, PET-CT"
+Lung Cancer,Oncology,"Others: FBC, Electrolyte, Urea and Creatinine, LFT and Serum proteins"
+Lymphogranuloma Venereum,Infectious/Tropical,Culture and cell typing of the isolate from an aspirate of involved lymph node
+Lymphogranuloma Venereum,Infectious/Tropical,Serological tests e.g. CFT and MIF
+Lymphogranuloma Venereum,Infectious/Tropical,PCR
+Lymphomas,Oncology,FBC and ESR
+Lymphomas,Oncology,Coombs test
+Lymphomas,Oncology,Bone marrow aspiration and needle biopsy
+Lymphomas,Oncology,Serum Urea
+Lymphomas,Oncology,Electrolytes
+Lymphomas,Oncology,Serum Uric acid
+Lymphomas,Oncology,"Liver Function Tests: transaminases-ALT, AST, ALP; bilirubin; serum proteins"
+Lymphomas,Oncology,HIV screening
+Lymphomas,Oncology,Immunoglobulins
+Lymphomas,Oncology,Chest Radiograph
+Malaria in the Newborn,Infectious/Tropical,Rapid Diagnostic Tests for rapid detection of Plasmodium falciparum in situations of poor laboratory services
+Malaria in the Newborn,Infectious/Tropical,Peripheral blood film microscopy with Giemsa staining which most frequently reveals Plasmodium falciparum.
+Malaria in the Newborn,Infectious/Tropical,Full blood count: anaemia and leucocytosis.
+Malaria in the Newborn,Infectious/Tropical,Blood culture is expected to be negative.
+Malaria in the Newborn,Infectious/Tropical,Rapid Diagnostic Tests for rapid detection of Plasmodium falciparum in situations of poor laboratory services
+Malaria in the Newborn,Infectious/Tropical,Peripheral blood film microscopy with Giemsa staining which most frequently reveals Plasmodium falciparum
+Malaria in the Newborn,Infectious/Tropical,Full blood count: anaemia and leucocytosis
+Malaria in the Newborn,Infectious/Tropical,Blood culture is expected to be negative
+Male Infertility,Maternal/Reproductive,Semen analysis x 3
+Male Infertility,Maternal/Reproductive,"Hormone profile (LH, FSH, testosterone, and prolactin)"
+Male Infertility,Maternal/Reproductive,Scrotal ultrasound
+Male Infertility,Maternal/Reproductive,Trans-rectal ultrasound
+Male Infertility,Maternal/Reproductive,Testicular biopsy
+Male Infertility,Maternal/Reproductive,Vasography
+Mastoiditis,"ENT (Ear, Nose & Throat)","Ear swab for microscopy, culture, culture and sensitivity"
+Mastoiditis,"ENT (Ear, Nose & Throat)",Radiographs of the mastoid
+Mastoiditis,"ENT (Ear, Nose & Throat)",CT Scan of petromastoid
+Mastoiditis,"ENT (Ear, Nose & Throat)",MRI of the petromastoid
+Measles (Rubeola),Infectious/Tropical,Isolation of the virus by tissue culture
+Measles (Rubeola),Infectious/Tropical,ELISA: first IgM and later IgG response
+Measles (Rubeola),Infectious/Tropical,Demonstration of Warthin Finkeldy giant cells in smears of the nasal mucosa
+Measles (Rubeola),Infectious/Tropical,FBC
+Measles (Rubeola),Infectious/Tropical,Lumbar puncture
+Meningitis,Infectious/Tropical,Lumbar puncture for CSF analysis
+Meningitis,Infectious/Tropical,Full Blood Count and differentials
+Meningitis,Infectious/Tropical,Blood culture
+Meningitis,Infectious/Tropical,Erythrocyte sedimentation rate
+Meningitis,Infectious/Tropical,Random blood glucose
+Meningitis,Infectious/Tropical,"Electrolytes, Urea and Creatinine"
+Meningitis,Infectious/Tropical,Chest radiograph
+Meningitis,Infectious/Tropical,Mantoux test (if tuberculosis is suspected)
+Meningitis,Infectious/Tropical,HIV screening after voluntary counseling
+Micronutrient Deficiencies,Nutritional,"Blood, urine and stool tests"
+Migraines,Neurological/Mental,"Neuroimaging such as computerized tomographic (CT) scan, MRI for the exclusion of mass lesions and electroencephalography, skull X-ray"
+Migraines,Neurological/Mental,"Cerebrospinal fluid examination for pressure, cells and chemistry, erythrocyte sedimentation rate"
+Migraines,Neurological/Mental,Angiography
+Molluscum Contagiosum,Infectious/Tropical,Histopathology of the expressed pasty core
+Multiple Myeloma,Oncology,Diagnosis is based on the presence of at least 10% clonal bone marrow plasma cells and monoclonal protein in serum or urine
+Multiple Myeloma,Oncology,"In patients with true non-secretory myeloma, the diagnosis is based on 30% monoclonal bone marrow plasma cells or a biopsy proven plasmacytoma"
+Multiple Myeloma,Oncology,"Routine laboratory testing: FBC, Chemical analysis, Serum and urine protein electrophoresis with immunofixation, and qualification of monoclonal protein, Bone marrow examination (trephine biopsy plus aspirate of cytogenetic analysis or fluorescence In situ hybridization [FISH])"
+Multiple Myeloma,Oncology,"Conventional radiography of the spine, skull, chest, pelvic, humeri, and femoral remains the standard to identify myeloma related bone lesions"
+Multiple Myeloma,Oncology,Magnetic resonance imaging (MRI) is recommended to evaluate symptoms in patients with normal results in conventional radiography and in all patients with radiographs suggesting the presence or solitary plasmacytoma of the bone
+Multiple Myeloma,Oncology,Computed tomography and MRI are the procedures of choice to asses suspected cord compression and should be performed on an urgent basis
+Myocarditis,Cardiovascular,Electrocardiography
+Myocarditis,Cardiovascular,Echocardiography
+Myocarditis,Cardiovascular,FBC and differentials
+Myocarditis,Cardiovascular,"Electrolyte, Urea and Creatinine"
+Myocarditis,Cardiovascular,Cardiac enzymes
+Myocarditis,Cardiovascular,Endomyocardial biopsy
+Malaria,Infectious/Tropical,Blood smear for malaria parasites
+Malaria,Infectious/Tropical,Packed cell volume; haemoglobin concentration
+Malaria,Infectious/Tropical,White cell count with differentials
+Malaria,Infectious/Tropical,Blood sugar
+Malaria,Infectious/Tropical,Urinalysis
+Malaria,Infectious/Tropical,Electrolytes and Urea; Creatinine
+Malaria,Infectious/Tropical,Stool microscopy for ova; occult blood
+Malaria,Infectious/Tropical,Chest radiograph
+Malaria,Infectious/Tropical,"Cerebrospinal fluid biochemistry; microscopy, culture, and sensitivity"
+Nasal Allergy,"ENT (Ear, Nose & Throat)",Skin tests for allergens: intradermal or prick tests
+Nasal Allergy,"ENT (Ear, Nose & Throat)",Smear of nasal secretions for eosinophilia
+Nasal Allergy,"ENT (Ear, Nose & Throat)",Serological tests: radio-immunoassay for IgE antibodies
+Nasal Allergy,"ENT (Ear, Nose & Throat)",Sinus X-ray
+Nasal Allergy,"ENT (Ear, Nose & Throat)",CT Scan of nose and paranasal sinuses
+Necrotizing Enterocolitis,Gastrointestinal,Full blood count
+Necrotizing Enterocolitis,Gastrointestinal,Plain abdominal X-Ray
+Necrotizing Enterocolitis,Gastrointestinal,Random Blood Glucose
+Necrotizing Enterocolitis,Gastrointestinal,"Serum electrolytes, urea and creatinine"
+Necrotizing Enterocolitis,Gastrointestinal,Blood culture
+Necrotizing Enterocolitis,Gastrointestinal,Full blood count
+Necrotizing Enterocolitis,Gastrointestinal,Plain abdominal X-Ray
+Necrotizing Enterocolitis,Gastrointestinal,Random Blood Glucose
+Necrotizing Enterocolitis,Gastrointestinal,"Serum electrolytes, urea and creatinine"
+Necrotizing Enterocolitis,Gastrointestinal,Blood culture
+Neonatal Jaundice,Gastrointestinal,"Serum bilirubin (only TSB is essential in the first week of life; split bilirubin – total, unconjugated and conjugated- is only required in cases of prolonged jaundice)"
+Neonatal Jaundice,Gastrointestinal,Trans-cutaneous Bilirubin (TcB) estimation is reliable as it correlates well with serum bilirubin except in severe cases of hyperbilirubinaemia
+Neonatal Jaundice,Gastrointestinal,Blood typing (for mother and baby)
+Neonatal Jaundice,Gastrointestinal,Full Blood Count
+Neonatal Jaundice,Gastrointestinal,Peripheral blood film examination
+Neonatal Jaundice,Gastrointestinal,Coomb's test
+Neonatal Jaundice,Gastrointestinal,G6PD assay or screening
+Neonatal Jaundice,Gastrointestinal,Thyroid Function Tests
+Neonatal Jaundice,Gastrointestinal,Hepatobiliary scan
+Neonatal Sepsis,Paediatric,A lumbar tap for cerebrospinal fluid analysis is mandatory unless the infant has cardio-respiratory instability. It must not delay empirical antibiotic therapy.
+Neonatal Sepsis,Paediatric,"Neuro-imaging studies if fever persists, seizures recur, or occipitofrontal circumference is increasing."
+Neonatal Sepsis,Paediatric,A lumbar tap for cerebrospinal fluid analysis is mandatory unless the infant has cardio-respiratory instability.
+Neonatal Sepsis,Paediatric,"Neuro-imaging studies are required if fever persists or recurs, seizures recur after initial control, or occipitofrontal circumference is increasing."
+Neonatal Jaundice,Gastrointestinal,"Serum bilirubin (only TSB is essential in the first week of life; split bilirubin – total, unconjugated and conjugated- is only required in cases of prolonged jaundice)"
+Neonatal Jaundice,Gastrointestinal,"Trans-cutaneous Bilirubin (TcB) estimation is reliable as it correlates well with serum bilirubin except in severe cases of hyperbilirubinaemia. Therefore, this can be reliably used when serum TSB is not available."
+Neonatal Jaundice,Gastrointestinal,Blood typing (for mother and baby)
+Neonatal Jaundice,Gastrointestinal,Full Blood Count
+Neonatal Jaundice,Gastrointestinal,Peripheral blood film examination
+Neonatal Jaundice,Gastrointestinal,Coomb's test
+Neonatal Jaundice,Gastrointestinal,G6PD assay or screening
+Neonatal Jaundice,Gastrointestinal,Thyroid Function Tests
+Neonatal Jaundice,Gastrointestinal,Hepatobiliary scan
+Neoplasms of the Salivary Gland,Dental/Oral Health,Sialography
+Neoplasms of the Salivary Gland,Dental/Oral Health,Postero-anterior view of the skull
+Neoplasms of the Salivary Gland,Dental/Oral Health,Oblique lateral view of the jaws
+Nephrotic Syndrome,Renal/Urological,"Blood: Serum proteins, Serum lipids"
+Nephrotic Syndrome,Renal/Urological,"Urine: Urinalysis, 24-hour urine collection for protein estimation"
+Nephrotic Syndrome,Renal/Urological,Abdominal ultrasound scan
+Nephrotic Syndrome,Renal/Urological,Renal biopsy
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,"Spirometry may reveal no abnormality in lung function, since there is no airflow obstruction"
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,Chest Xray does not show any characteristic abnormality in simple chronic bronchitis
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,"Bronchography may reveal irregular narrowed or distorted bronchi. There is however, no need for routine bronchography in chronic bronchitis."
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,"Sputum examination; In early stages, sputum may be mucoid. Sputum M/C/S may be necessary to detect bacterial infection"
+Non-Obstructive (Simple) Chronic Bronchitis (NCB),Respiratory,Arterial blood gas studies may be unnecessary in straightforward uncomplicated NCB.
+Obesity,Endocrine/Metabolic,"Non-specific assessment: FBS, OGTT, serum lipid profile."
+Obesity,Endocrine/Metabolic,Assessment of other complications as indicated.
+Obesity,Endocrine/Metabolic,"Specific assessment should be directed towards identifying underlying specific causes when suspected. These include conditions such as endocrinopathies (hypothyroidism, Cushing's syndrome, male hypogonadism, Insulinoma CNS disease that affects hypothalamic function, PCOS), genetic syndromes associated with obesity, mental disorders like bulimia nervosa and binge eating disorder, medications such as steroids, and atypical antipsychotics."
+Obesity,Endocrine/Metabolic,"Rule out underlying causes: although these may not be common, specific therapy may be available. Clinical presentation may therefore require specific Investigations to exclude conditions such as hypothyroidism, hypercortisolism, male hypogonadism, insulinoma and CNS diseases that affect hypothalamic function"
+Onchocerciasis (River Blindness),Infectious/Tropical,Skin snip or punch biopsy for microfilariae
+Onchocerciasis (River Blindness),Infectious/Tropical,Excise nodule for adult worms
+Onchocerciasis (River Blindness),Infectious/Tropical,Mazzotti test reaction
+Onchocerciasis (River Blindness),Infectious/Tropical,Slit lamp eye examination
+Ophthalmia Neonatorum,Paediatric,"Conjunctival swab for microscopy, culture and sensitivity"
+Oral Thrush (Candidiasis),Dental/Oral Health,"Smear of the affected region and Gram staining or PAS, with or without potassium hydroxide to demonstrate hyphae"
+Oral Thrush (Candidiasis),Dental/Oral Health,Swab sample for M/C/S
+Oral Thrush (Candidiasis),Dental/Oral Health,Biopsy and histopathologic examination
+Oral Thrush (Candidiasis),Dental/Oral Health,Identify predisposing factors (including immunosuppression)
+Oral Thrush (Candidiasis),Dental/Oral Health,Define extent of involvement
+Otitis Externa,"ENT (Ear, Nose & Throat)","Ear swab, taken properly for microscopy, culture and sensitivity"
+Otitis Externa,"ENT (Ear, Nose & Throat)",Ear endoscopy
+Otitis Externa,"ENT (Ear, Nose & Throat)",Urinalysis for glycosuria
+Otitis Externa,"ENT (Ear, Nose & Throat)",Blood glucose estimation in cases of recurrent furunculosis to exclude diabetes mellitus
+Osteoarthritis,Musculoskeletal,To exclude other diagnosis
+Osteoarthritis,Musculoskeletal,No blood tests diagnostic
+Osteoarthritis,Musculoskeletal,"Imaging – X-ray; CT, MRI (hardly done because of cost)"
+Pancreatitis,Gastrointestinal,Serum amylase.
+Pancreatitis,Gastrointestinal,Serum lipase.
+Pancreatitis,Gastrointestinal,Alanine aminotransferase (ALT).
+Pancreatitis,Gastrointestinal,Abdominal USS
+Pancreatitis,Gastrointestinal,Plain Abdominal X-ray
+Pancreatitis,Gastrointestinal,CT scan.
+Pancreatitis,Gastrointestinal,"ERCP, after recovery"
+Pancreatitis,Gastrointestinal,Magnetic Resonance Cholangiopancreatography (MRCP).
+Panic Disorder,Neurological/Mental,As indicated to exclude medical aetiologies
+Parkinsonism,Neurological/Mental,Diagnosis is essentially clinical
+Parkinsonism,Neurological/Mental,Neuro-imaging: CT scan/MRI for exclusion of possible differentials
+Pediculosis (Lice),Dermatological,Examine louse or the nits on epilated hair strands (especially from behind the ears) under the microscope
+Pediculosis (Lice),Dermatological,Examine the seams of clothing for nits and lice
+Pelvic Inflammatory Diseases,Maternal/Reproductive,FBC
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Haemoglobin genotype
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Blood Group
+Pelvic Inflammatory Diseases,Maternal/Reproductive,"Electrolyte, Urea and Creatinine"
+Pelvic Inflammatory Diseases,Maternal/Reproductive,"Midstream urine microscopy, culture and sensitivity"
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Endocervical swab
+Pelvic Inflammatory Diseases,Maternal/Reproductive,"High vaginal swab culture: to exclude trichomoniasis, bacterial vaginosis"
+Pelvic Inflammatory Diseases,Maternal/Reproductive,Urethral swab
+Pelvic Inflammatory Diseases,Maternal/Reproductive,"Ultrasound scan: to exclude cyesis, ectopic gestation, adnexal mass (e.g. ovarian mass)"
+Peptic Ulcer Disease (PUD),Gastrointestinal,Occult blood test. Stool microscopy
+Peptic Ulcer Disease (PUD),Gastrointestinal,Endoscopy
+Peptic Ulcer Disease (PUD),Gastrointestinal,Barium meal
+Peptic Ulcer Disease (PUD),Gastrointestinal,Direct/indirect detection of H. pylori
+Pericarditis,Cardiovascular,Electrocardiography
+Pericarditis,Cardiovascular,FBC and differentials
+Pericarditis,Cardiovascular,Chest radiograph
+Pericarditis,Cardiovascular,Echocardiography
+Pericoronitis,Dental/Oral Health,Radiographs
+Pericoronitis,Dental/Oral Health,To establish the position of the affected tooth and its relationship to the second molar
+Pericoronitis,Dental/Oral Health,May show impacted third molar
+Peripheral Vascular Disease,Cardiovascular,Ankle Brachial Index(ABI)
+Peripheral Vascular Disease,Cardiovascular,A pulse volume record
+Peripheral Vascular Disease,Cardiovascular,A vascular ultrasound
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",Throat swab
+Peritonsillar Abscess (Quinsy),"ENT (Ear, Nose & Throat)",Full Blood Count with differentials
+Pharyngitis (Sore Throat),"ENT (Ear, Nose & Throat)","Throat swab: microscopy, culture and sensitivity"
+Pharyngitis (Sore Throat),"ENT (Ear, Nose & Throat)",X-ray of paranasal sinuses
+Pharyngitis (Sore Throat),"ENT (Ear, Nose & Throat)",CT Scan of Paranasal sinuses
+Pityriasis Rosea,Dermatological,Non-specific
+Pityriasis Rosea,Dermatological,VDRL
+Pityriasis Rosea,Dermatological,If secondary syphilis is suspected (e.g. lesions on palms and soles with/without lymphadenopathy)
+Pityriasis Versicolor (Tinea Versicolor),Dermatological,Skin scraping for KOH microscopy
+Pneumonia,Respiratory,FBC +ESR+ CRP
+Pneumonia,Respiratory,"Serum Electrolyte, Urea and Creatinine"
+Pneumonia,Respiratory,LFT
+Pneumonia,Respiratory,Blood Culture
+Pneumonia,Respiratory,Serology
+Pneumonia,Respiratory,Cold agglutinins
+Pneumonia,Respiratory,Arterial blood gases/ SPO2
+Pneumonia,Respiratory,"Sputum gram stain, M/C/S"
+Pneumonia,Respiratory,Urine pneumococcal and legionella antigen
+Pneumonia,Respiratory,Chest X-ray
+Pneumonia,Respiratory,Pleural fluid M/C/S
+Poliomyelitis,Infectious/Tropical,"Viral isolation from stool, pharynx or cerebrospinal fluid"
+Poliomyelitis,Infectious/Tropical,Fingerprinting genomic sequencing to determine if it is the wild type vaccine type
+Poliomyelitis,Infectious/Tropical,Serology: a fourfold rise in antibody may be demonstrated
+Poliomyelitis,Infectious/Tropical,Cerebrospinal fluid examination:
+Poliomyelitis,Infectious/Tropical,"Raised white cell count, 10 - 200 cells/mm3 (primarily lymphocytes)"
+Poliomyelitis,Infectious/Tropical,Mild increase in protein: 40 - 50 mg/mL
+Poliomyelitis,Infectious/Tropical,"Viral isolation from stool, pharynx or cerebrospinal fluid"
+Poliomyelitis,Infectious/Tropical,Fingerprinting genomic sequencing to determine if it is the wild type vaccine type
+Poliomyelitis,Infectious/Tropical,Serology: a fourfold rise in antibody may be demonstrated
+Poliomyelitis,Infectious/Tropical,"Cerebrospinal fluid examination: Raised white cell count, 10 - 200 cells/mm3 (primarily lymphocytes), Mild increase in protein: 40 - 50 mg/mL"
+Posterior Urethral Valves,Renal/Urological,Urinalysis
+Posterior Urethral Valves,Renal/Urological,"Urine microscopy, culture and sensitivity"
+Posterior Urethral Valves,Renal/Urological,FBC
+Posterior Urethral Valves,Renal/Urological,"Serum Urea, Electrolytes and Creatinine"
+Posterior Urethral Valves,Renal/Urological,Abdominal ultrasound
+Posterior Urethral Valves,Renal/Urological,Micturating cysto-urethrogram
+Posterior Urethral Valves,Renal/Urological,Urethrocystoscopy
+Priapism,Renal/Urological,FBC
+Priapism,Renal/Urological,Haemoglobin electrophoresis
+Priapism,Renal/Urological,Colour Doppler/duplex ultrasound
+Prostatitis,Renal/Urological,FBC and ESR
+Prostatitis,Renal/Urological,Urinalysis
+Prostatitis,Renal/Urological,"Urine microscopy, culture and sensitivity"
+Prostatitis,Renal/Urological,"Prostatic massage: microscopy, culture and sensitivity (chronic prostatitis only)"
+Prostatitis,Renal/Urological,Trans-rectal ultrasound
+Prostatitis,Renal/Urological,Biopsy: culture and histology
+Prostatitis,Renal/Urological,Urethrocystoscopy (chronic prostatitis only)
+Pruritus,Dermatological,As suggested by meticulous history and physical examination
+Psoriasis,Dermatological,Histopathology
+Pulmonary Oedema,Respiratory,Chest radiograph
+Pulmonary Oedema,Respiratory,Electrocardiography
+Pulmonary Oedema,Respiratory,Echocardiography
+Pulmonary Oedema,Respiratory,Blood gases
+Pulmonary Oedema,Respiratory,"Urea, Electrolytes and Creatinine"
+Pulmonary Oedema,Respiratory,D-Dimer
+Pulmonary Tuberculosis,Infectious/Tropical,"Bacteriologic examination: Sputum AFB X 3 (spot, morning, spot)"
+Pulmonary Tuberculosis,Infectious/Tropical,Sputum mycobacterial culture and drug susceptibility testing/Gene Xpert MTB-RIF Assay
+Pulmonary Tuberculosis,Infectious/Tropical,Radiologic Examination: Chest X-ray
+Pulmonary Tuberculosis,Infectious/Tropical,Tuberculin skin test (low sensitivity and low specificity)
+Pulmonary Tuberculosis,Infectious/Tropical,Haematologic - FBC and ESR
+Pulmonary Tuberculosis,Infectious/Tropical,High Resolution CT
+Pulmonary Tuberculosis,Infectious/Tropical,Fibre-optic bronchoscopy with bronchoalveolar lavage and trans-bronchial biopsy
+Pulpitis,Dental/Oral Health,Electric pulp tester
+Pulpitis,Dental/Oral Health,Cold or hot water bath
+Pulpitis,Dental/Oral Health,Ethyl chloride spray
+Pulpitis,Dental/Oral Health,Hot gutta percha sticks
+Pulpitis,Dental/Oral Health,Ice sticks
+Rabies,Infectious/Tropical,Full Blood Count and differentials
+Rabies,Infectious/Tropical,Urea and Electrolytes
+Rabies,Infectious/Tropical,Culture of secretions
+Rabies,Infectious/Tropical,Cerebro Spinal Fluid (CSF) analysis
+Rabies,Infectious/Tropical,Serology
+Rabies,Infectious/Tropical,Pulmonary Chain Reaction (PCR)
+Rabies,Infectious/Tropical,Direct rapid immunohistochemistry tests
+Rabies,Infectious/Tropical,Enzyme-linked immunosorbent assays
+Rape,Maternal/Reproductive,"Vaginal/perineal swab for microscopy, culture and sensitivity"
+Rape,Maternal/Reproductive,Semen: DNA analysis
+Rape,Maternal/Reproductive,"Urinalysis; urine microscopy, culture and sensitivity"
+Rape,Maternal/Reproductive,Pregnancy test (blood)
+Rape,Maternal/Reproductive,HIV screening
+Rape,Maternal/Reproductive,Hepatitis screening
+Rheumatic Heart Disease,Cardiovascular,Chest radiograph
+Rheumatic Heart Disease,Cardiovascular,Electrocardiography
+Rheumatic Heart Disease,Cardiovascular,Echocardiography
+Rheumatic Heart Disease,Cardiovascular,Coronary angiography
+Rheumatic Heart Disease,Cardiovascular,"Electrolyte, Urea and Creatinine"
+Renal Cell Carcinoma,Renal/Urological,FBC
+Renal Cell Carcinoma,Renal/Urological,"Electrolyte, Urea and Creatinine"
+Renal Cell Carcinoma,Renal/Urological,Liver function test
+Renal Cell Carcinoma,Renal/Urological,Clotting profiles
+Renal Cell Carcinoma,Renal/Urological,Urine M/C/S
+Renal Cell Carcinoma,Renal/Urological,Abdominal ultrasound
+Renal Cell Carcinoma,Renal/Urological,Abdominal CT scan – useful to establish stage of disease.
+Renal Cell Carcinoma,Renal/Urological,Magnetic resonance imaging (MRI)
+Renal Cell Carcinoma,Renal/Urological,Intravenous pyelography (IVP)
+Rheumatic Fever,Cardiovascular,FBC and differentials
+Rheumatic Fever,Cardiovascular,ASO titre
+Rheumatic Fever,Cardiovascular,ESR
+Rheumatic Fever,Cardiovascular,Electrocardiograph
+Rheumatic Fever,Cardiovascular,Echocardiography
+Rheumatic Fever,Cardiovascular,Chest radiograph
+Rheumatic Fever,Cardiovascular,"Throat swab for microscopy, culture and sensitivity"
+Rheumatoid Arthritis,Musculoskeletal,Haematocrit
+Rheumatoid Arthritis,Musculoskeletal,White blood cell count
+Rheumatoid Arthritis,Musculoskeletal,ESR
+Rheumatoid Arthritis,Musculoskeletal,CRP
+Rheumatoid Arthritis,Musculoskeletal,Liver function tests (as most of drugs used could be hepatotoxic)
+Rheumatoid Arthritis,Musculoskeletal,Cholesterol
+Rheumatoid Arthritis,Musculoskeletal,Triglycerides
+Rheumatoid Arthritis,Musculoskeletal,Rheumatoid factors-this is diagnostic as well as Anti CCP
+Rheumatoid Arthritis,Musculoskeletal,Anti-Cyclic citrullinated peptide
+Rheumatoid Arthritis,Musculoskeletal,Plain radiographs especially of the hands and feet to demonstrate erosions
+Rheumatoid Arthritis,Musculoskeletal,Ultrasound of the joints to demonstrate synovitis and erosions
+Rheumatoid Arthritis,Musculoskeletal,CT scan
+Rheumatoid Arthritis,Musculoskeletal,MRI
+Rheumatoid Arthritis,Musculoskeletal,Radioisotope
+Scabies,Dermatological,Burrow scraping on to a glass slide for microscopy
+Scabies,Dermatological,Video dermatoscopy
+Schizophrenia,Neurological/Mental,To exclude organic causes of acute psychotic presentations
+Scleritis/Episcleritis,Ophthalmology,Investigate for collagen diseases
+Scleroderma (Systemic Sclerosis),Musculoskeletal,"FBC, haematocrit"
+Scleroderma (Systemic Sclerosis),Musculoskeletal,"ESR, CRP"
+Scleroderma (Systemic Sclerosis),Musculoskeletal,"Digital chest X-ray, HRCT scan with suspicion of ILD"
+Scleroderma (Systemic Sclerosis),Musculoskeletal,"ECG, ECHO with suspicion of pulmonary hypertension"
+Scleroderma (Systemic Sclerosis),Musculoskeletal,Serology – Anti-Nuclear Antibody (ANA)
+Scleroderma (Systemic Sclerosis),Musculoskeletal,Anti-topoisomerase 1 (anti-Scl 70) specific for diffuse sclerosis
+Scleroderma (Systemic Sclerosis),Musculoskeletal,Anti-centromere (specific for Limited scleroderma)
+Scleroderma (Systemic Sclerosis),Musculoskeletal,"Others Anti-RNA polymerase I, II, and III, anti-U1 RNP (found in mixed connective tissue)"
+Scorpion Sting,Surgical/Emergency,"There is no specific diagnostic Investigations, and in most cases, no investigation is required"
+Scorpion Sting,Surgical/Emergency,"Investigations, when required, should be tailored towards the complications that may occur"
+Scorpion Sting,Surgical/Emergency,"There is no specific diagnostic Investigations, and in most cases, no investigation is required"
+Scorpion Sting,Surgical/Emergency,"Investigations, when required, should be tailored towards the complications that may occur"
+Seizures/Epilepsies,Neurological/Mental,Electroencephalography
+Seizures/Epilepsies,Neurological/Mental,Neuro-imaging (CT scan or MRI)
+Seizures/Epilepsies,Neurological/Mental,Random blood glucose
+Seizures/Epilepsies,Neurological/Mental,"Urea, Electrolytes and Creatinine"
+Septic Arthritis,Musculoskeletal,"Haematocrit, white blood cell count and differentials"
+Septic Arthritis,Musculoskeletal,"Joint aspirate – microscopy, culture and sensitivity"
+Septic Arthritis,Musculoskeletal,Blood culture
+Septic Arthritis,Musculoskeletal,"ESR, CRP"
+Septic Arthritis,Musculoskeletal,X-ray of affected joints
+Septic Arthritis,Musculoskeletal,"CT, MRI"
+Sialadenitis,Dental/Oral Health,Based on history and clinical findings
+Sialadenitis,Dental/Oral Health,Virological evaluations may be employed
+Sickle Cell Disease,Haematological,"FBC and ESR; Red cell indices (MCH, MCHC, MCV), Reticulocyte count"
+Sickle Cell Disease,Haematological,Sickling tests: solubility test; metabisulphite test
+Sickle Cell Disease,Haematological,Haemoglobin electrophoresis (using cellulose acetate paper at pH 8.4 or citrate agar gel at pH 5.6)
+Sickle Cell Disease,Haematological,"Serum Electrolytes, Urea and Creatinine"
+Sickle Cell Disease,Haematological,"Liver function tests (transaminases, bilirubin, serum albumin, alkaline phosphatase and prothrombin time)"
+Sickle Cell Disease,Haematological,"Urinalysis; microscopy, culture and sensitivity"
+Sickle Cell Disease,Haematological,"Sputum: Acid Fast Bacilli, Microscopy, culture and sensitivity"
+Sickle Cell Disease,Haematological,"Stool: Ova and parasites, Occult blood"
+Sickle Cell Disease,Haematological,Abdominal ultrasound scan
+Sickle Cell Disease,Haematological,Transcranial Doppler ultrasonography
+Sickle Cell Disease,Haematological,Chest radiograph
+Sickle Cell Disease,Haematological,FBC and ESR
+Sickle Cell Disease,Haematological,"Total leukocyte count, differential leukocyte count (Neutrophils including bands, lymphocytes, monocytes, basophils, eosinophils)"
+Sickle Cell Disease,Haematological,"Red blood cell indices (MCV, MCHC, MCH)"
+Sickle Cell Disease,Haematological,"Blood film may show sickled and other abnormally shaped red cells, malaria parasites"
+Sickle Cell Disease,Haematological,Reticulocyte count
+Sickle Cell Disease,Haematological,Sickling test using 2% sodium metabisulphite as a deoxygenating agent
+Sickle Cell Disease,Haematological,Solubility test using sodium dithionate as buffer
+Sickle Cell Disease,Haematological,Haemoglobin electrophoresis using cellulose acetate paper at pH 8.4 (alkaline) or citrate agar gel at pH 5.6 (acidic). This detects the variant haemoglobin bands
+Sickle Cell Disease,Haematological,High performance liquid chromatography (HPLC) for Haemoglobin quantitation
+Sickle Cell Disease,Haematological,"Serum electrolytes, urea and creatinine"
+Sickle Cell Disease,Haematological,"Liver function test: serum bilirubin-total and conjugated, transaminases, alkaline phosphatase, serum albumin prothrombin time"
+Sickle Cell Disease,Haematological,"Urinalysis, microscopy, culture and sensitivity"
+Sickle Cell Disease,Haematological,"Stool microscopy for ova and parasites, occult blood"
+Sickle Cell Disease,Haematological,"Sputum M/C/S, acid fast bacilli"
+Sickle Cell Disease,Haematological,"Chest X-Ray. Ultrasound scan, Abdominal ultrasound"
+Sickle Cell Disease,Haematological,Trans cranial Doppler ultrasound (TCD)- detects those at increased risk of cerebrovascular accident (CVA)
+Sickle Cell Disease,Haematological,Magnetic Resonance Imaging (MRI)- detects brain micro infarcts
+Sickle Cell Disease,Haematological,"Organ dysfunction screen: Kidney: urinalysis, 24-hour urine protein quantitation, renal ultrasound, measurement of GFR, screen for micro albuminuria"
+Sickle Cell Disease,Haematological,Echocardiography detects pulmonary hypertension
+Sickle Cell Disease,Haematological,Pulse oximetry
+Sickle Cell Disease,Haematological,FBC and ESR
+Sickle Cell Disease,Haematological,Total leukocyte count
+Sickle Cell Disease,Haematological,"Differential leukocyte count (Neutrophils including bands, lymphocytes, monocytes, basophils, eosinophils)"
+Sickle Cell Disease,Haematological,"Red blood cell indices (MCV, MCHC, MCH)"
+Sickle Cell Disease,Haematological,"Blood film may show sickled and other abnormally shaped red cells, malaria parasites"
+Sickle Cell Disease,Haematological,Reticulocyte count
+Sickle Cell Disease,Haematological,Sickling test using 2% sodium metabisulphite as a deoxygenating agent
+Sickle Cell Disease,Haematological,Solubility test using sodium dithionate as buffer
+Sickle Cell Disease,Haematological,Haemoglobin electrophoresis using cellulose acetate paper at pH 8.4 (alkaline) or citrate agar gel at pH 5.6 (acidic)
+Sickle Cell Disease,Haematological,High performance liquid chromatography (HPLC) for Haemoglobin quantitation
+Sickle Cell Disease,Haematological,"Serum electrolytes, urea and creatinine"
+Sickle Cell Disease,Haematological,"Liver function test: serum bilirubin-total and conjugated, transaminases, alkaline phosphatase, serum albumin, prothrombin time"
+Sickle Cell Disease,Haematological,"Urinalysis, microscopy, culture and sensitivity"
+Sickle Cell Disease,Haematological,"Stool microscopy for ova and parasites, occult blood"
+Sickle Cell Disease,Haematological,"Sputum M/C/S, acid fast bacilli"
+Sickle Cell Disease,Haematological,Chest X-Ray
+Sickle Cell Disease,Haematological,"Ultrasound scan, Abdominal ultrasound"
+Sickle Cell Disease,Haematological,Trans cranial Doppler ultrasound (TCD)- detects those at increased risk of cerebrovascular accident (CVA)
+Sickle Cell Disease,Haematological,Magnetic Resonance Imaging (MRI)- detects brain micro infarcts
+Sickle Cell Disease,Haematological,"Organ dysfunction screen: Kidney: urinalysis, 24-hour urine protein quantitation, renal ultrasound, measurement of GFR, screen for micro albuminuria"
+Sickle Cell Disease,Haematological,Echocardiography detects pulmonary hypertension
+Sickle Cell Disease,Haematological,Pulse oximetry
+Sinusitis,"ENT (Ear, Nose & Throat)","Nasal swab for microscopy, culture and sensitivity"
+Sinusitis,"ENT (Ear, Nose & Throat)",X-ray of sinuses: four-view
+Sinusitis,"ENT (Ear, Nose & Throat)",Antrum roof puncture/lavage: specimen for culture
+Sinusitis,"ENT (Ear, Nose & Throat)",CT scan in complicated cases
+Sinusitis,"ENT (Ear, Nose & Throat)",MRI
+Snake Bite,Surgical/Emergency,FBC and differentials
+Snake Bite,Surgical/Emergency,Test for haemostasis (20 Minute Whole Blood Clotting Test)
+Snake Bite,Surgical/Emergency,Electrolytes and Urea
+Snake Bite,Surgical/Emergency,Blood clotting profile
+Snake Bite,Surgical/Emergency,Arterial blood gas estimation
+Snake Bite,Surgical/Emergency,Chest radiograph
+Snake Bite,Surgical/Emergency,Wound and blood cultures
+Snake Bite,Surgical/Emergency,FBC and differentials
+Snake Bite,Surgical/Emergency,Test for haemostasis (20 Minute Whole Blood Clotting Test)
+Snake Bite,Surgical/Emergency,Electrolytes and Urea
+Snake Bite,Surgical/Emergency,Blood clotting profile
+Snake Bite,Surgical/Emergency,Arterial blood gas estimation
+Snake Bite,Surgical/Emergency,Chest radiograph
+Snake Bite,Surgical/Emergency,Wound and blood cultures
+Soft Tissue Sarcoma,Oncology,Trucut/incisional/excision biopsy + histopathology
+Soft Tissue Sarcoma,Oncology,Chest X-ray
+Soft Tissue Sarcoma,Oncology,MRI
+Soft Tissue Sarcoma,Oncology,CT
+Soft Tissue Sarcoma,Oncology,FBC
+Soft Tissue Sarcoma,Oncology,LFT and Serum proteins
+Soft Tissue Sarcoma,Oncology,"Electrolyte, Urea and Creatinine"
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,Neuro-imaging with CT scan/MRI to determine stroke type and choice of management
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,Lumbar puncture for CSF analysis in suspected subarachnoid haemorrhage
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,"Electrocardiography, echocardiography, carotid Doppler ultrasound study, cerebral angiography"
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,"Full Blood Count with differentials, random blood glucose, urea, electrolytes and creatinine"
+"Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",Neurological/Mental,"Chest radiograph, HIV screening"
+Stye (Hordeolum),Ophthalmology,"If recurrent, screen for diabetes"
+Surgical Care,Surgical/Emergency,"Chest radiograph: especially for patients 60 years and above, and those with chest infection gives evidence of chest infection and cardiomegaly"
+Surgical Care,Surgical/Emergency,ECG: for patients over 60 years and those with heart disease or hypertension
+Surgical Care,Surgical/Emergency,Pulmonary function tests may be necessary in patients with obstructive airways disease
+Surgical Care,Surgical/Emergency,"Urine sugar to exclude diabetes mellitus in patients with history of polyuria, polydipsia and polyphagia"
+Surgical Care,Surgical/Emergency,Serum electrolytes and urea
+Surgical Care,Surgical/Emergency,Haemogram and complete blood count in all patients
+Surgical Care,Surgical/Emergency,Haemoglobin genotype in patients with suspected haemoglobinopathies
+Surgical Care,Surgical/Emergency,"Clotting profile (PT, KCCT) where there is suspicion of bleeding diathesis e.g., in jaundiced patients"
+Surgical Care,Surgical/Emergency,Other investigations as may be indicated by individual clinical circumstances
+Syncope (Fainting),Cardiovascular,Electrocardiography
+Syncope (Fainting),Cardiovascular,Echocardiography
+Syncope (Fainting),Cardiovascular,"Neuro-imaging: CT scan, MRI, carotid Doppler"
+Syncope (Fainting),Cardiovascular,Random blood sugar
+Syphilis,Infectious/Tropical,Dark field examination
+Syphilis,Infectious/Tropical,Direct fluorescent antibody tests of lesion exudates or tissue
+Syphilis,Infectious/Tropical,VDRL and RPR
+Systemic Lupus Erythematosus,Musculoskeletal,"Haematocrit, white blood cell count, platelet count"
+Systemic Lupus Erythematosus,Musculoskeletal,"ESR, CRP . ESR markedly high while CRP is normal or marginally raised. Markedly elevated ESR may be suggestive of SLE if other conditions causing this have been eliminated. This is in lieu of serologies especially in patients who cannot afford the latter."
+Systemic Lupus Erythematosus,Musculoskeletal,"Urine analysis and microscopy – for casts, RBCs, protein"
+Systemic Lupus Erythematosus,Musculoskeletal,Electrolytes and urea
+Systemic Lupus Erythematosus,Musculoskeletal,"Chest X-ray, ECG"
+Systemic Lupus Erythematosus,Musculoskeletal,Serology – Anti–nuclear Antibody (ANA); Extractable Nuclear Antigen (ENA); Double stranded DNA
+Systemic Lupus Erythematosus,Musculoskeletal,Kidney Biopsy – as indicated
+Tetanus,Infectious/Tropical,"Wound swab for microscopy, culture, and sensitivity"
+Tetanus,Infectious/Tropical,"Cerebrospinal fluid for biochemistry; microscopy, culture, and sensitivity"
+Tetanus,Infectious/Tropical,Full Blood Count; ESR
+Tetanus,Infectious/Tropical,"Urinalysis; urine microscopy, culture, and sensitivity"
+Tetanus,Infectious/Tropical,Blood glucose
+Tetanus,Infectious/Tropical,Electrocardiography
+Tetanus,Infectious/Tropical,"Serum Electrolytes, Urea and Creatinine"
+Tetanus,Infectious/Tropical,Electromyography
+The Empty Scrotum,Renal/Urological,"Urinary 17-ketosteroids, gonadotropins"
+The Empty Scrotum,Renal/Urological,Serum testosterone
+The Empty Scrotum,Renal/Urological,Ultrasonography
+The Empty Scrotum,Renal/Urological,Computed tomography
+The Empty Scrotum,Renal/Urological,Laparoscopy
+The Empty Scrotum,Renal/Urological,Magnetic Resonance Imaging
+The Paralyzed Patient,Neurological/Mental,"Imaging: Plain X-ray of the skull and back; Magnetic resonance imaging (brain, spines); Chest X-ray"
+The Paralyzed Patient,Neurological/Mental,"Cerebrospinal fluid examination for protein, cells, cytology, oligoclonal bands"
+The Paralyzed Patient,Neurological/Mental,Muscle biopsy
+The Paralyzed Patient,Neurological/Mental,Edrophonium test for myasthenia gravis; Protein Specific Antigen for prostatic cancer
+The Paralyzed Patient,Neurological/Mental,Electrolyte and urea for suspected periodic paralysis
+The Paralyzed Patient,Neurological/Mental,"Electromyography and nerve conduction studies for suspected GBS, MG and periodic paralysis"
+The Paralyzed Patient,Neurological/Mental,"Other tests are pulse oximetry; erythrocyte sedimentation rate, full blood count and plasma glucose"
+The Unconscious Patient,Neurological/Mental,"Neuro-imaging: CT scan, MRI"
+The Unconscious Patient,Neurological/Mental,Random blood glucose
+The Unconscious Patient,Neurological/Mental,"Urea, Electrolytes and Creatinine"
+The Unconscious Patient,Neurological/Mental,Electroencephalography
+The Unconscious Patient,Neurological/Mental,Cerebrospinal fluid analysis
+The Unconscious Patient,Neurological/Mental,Drug levels/toxicology screen
+The Unconscious Patient,Neurological/Mental,Full Blood Count
+The Unconscious Patient,Neurological/Mental,Blood culture
+Thyrotoxicosis,Endocrine/Metabolic,"Thyroid Function Test with free T4 and T3 (both high, TSH suppressed)"
+Thyrotoxicosis,Endocrine/Metabolic,"Thyroid antibodies: Thyroid Peroxidase Antibodies, Thyroglobulin antibody, TSH Receptor antibodies"
+Thyrotoxicosis,Endocrine/Metabolic,Radio-labelled thyroid scan with iodine 123
+Thyrotoxicosis,Endocrine/Metabolic,FBC and ESR
+Thyrotoxicosis,Endocrine/Metabolic,"Electrolyte, Urea and Creatinine"
+Thyrotoxicosis,Endocrine/Metabolic,Fasting blood sugar
+Thyrotoxicosis,Endocrine/Metabolic,ECG and Echocardiography
+Tonsillitis,"ENT (Ear, Nose & Throat)","Throat swab for microscopy, culture and sensitivity"
+Tonsillitis,"ENT (Ear, Nose & Throat)",Full Blood Count
+Torsion of the Testis,Renal/Urological,Colour Doppler sonography: an absence of arterial flow is typical
+Torsion of the Testis,Renal/Urological,Radionuclide scan using Tc-99m pertechnetate: the twisted testis is avascular
+Trachoma,Ophthalmology,Conjunctival scraping for microscopy
+Trachoma,Ophthalmology,Immunofluorescence or ELISA test
+Trachoma,Ophthalmology,Giemsa staining for trachoma inclusion bodies
+Apnea in a Child,Paediatric,Investigate underlying causes
+Apnea in a Child,Paediatric,Apnea monitor should be used if available
+Apnea in a Child,Paediatric,Pulse oximeter with an alarm system for hypoxaemia
+Trichomoniasis,Infectious/Tropical,Microscopy and culture of vaginal discharge
+Trypanosomiasis (Sleeping Sickness),Infectious/Tropical,Peripheral blood film for the detection of trypanosomes
+Trypanosomiasis (Sleeping Sickness),Infectious/Tropical,Rapid Card Agglutination Trypanosomiasis Test (CATT) for antibody detection
+Tumour Lysis Syndrome,Oncology,Full Blood Count
+Tumour Lysis Syndrome,Oncology,"Serum electrolyte, urea and creatinine + Ca, PO, Serum Uric acid, Urine Uric acid (normal urinary excretory rate is 300-600 mg/day)"
+Tumour Lysis Syndrome,Oncology,LFT
+Tumour Lysis Syndrome,Oncology,ECG
+Tumour Lysis Syndrome,Oncology,Abdominal X-ray (for gouty nephropathy)
+Typhoid Fever (Enteric Fever),Infectious/Tropical,"A positive culture is the 'gold standard' for the diagnosis of typhoid fever. Specimens for culture may be obtained from the blood, stool, urine, bone marrow; gastric and intestinal secretions."
+Typhoid Fever (Enteric Fever),Infectious/Tropical,There are no diagnostic tests other than positive cultures.
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Full Blood Count
+Typhoid Fever (Enteric Fever),Infectious/Tropical,"Leucopenia, neutropenia, leucocytosis can develop early, especially in children; late if complicated by intestinal perforation or secondary infection"
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Liver function tests: values may be elevated.
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Electrocardiography: ST and T wave abnormalities may be present.
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Serological tests
+Typhoid Fever (Enteric Fever),Infectious/Tropical,Widal test gives high rates of false positives and negatives
+Urethral Strictures,Renal/Urological,Urinalysis
+Urethral Strictures,Renal/Urological,"Urine microscopy, culture and sensitivity"
+Urethral Strictures,Renal/Urological,Urethroscopy
+Urethral Strictures,Renal/Urological,Urethrogram
+Urethral Strictures,Renal/Urological,Uroflowmetry
+Urethral Strictures,Renal/Urological,Abdominal ultrasound
+Urethral Strictures,Renal/Urological,"Serum Urea, Electrolytes and Creatinine"
+Urethral Strictures,Renal/Urological,Full Blood Count
+Urinary Schistosomiasis,Infectious/Tropical,Urine examination for schistosomal ova
+Urinary Schistosomiasis,Infectious/Tropical,"Cystoscopy: tubercles, sandy patches, nodules, ulcers"
+Urinary Schistosomiasis,Infectious/Tropical,Plain abdominal radiograph (KUB)
+Urinary Schistosomiasis,Infectious/Tropical,Intravenous urogram
+Urinary Schistosomiasis,Infectious/Tropical,Serological tests
+Urinary Schistosomiasis,Infectious/Tropical,Full Blood Count
+Urinary Tract Calculi,Renal/Urological,Urinalysis
+Urinary Tract Calculi,Renal/Urological,Urine culture
+Urinary Tract Calculi,Renal/Urological,"Serum calcium, phosphate and albumin"
+Urinary Tract Calculi,Renal/Urological,Intravenous urography (IVU)
+Urinary Tract Calculi,Renal/Urological,Ultrasonography
+Urinary Tract Calculi,Renal/Urological,Computerized tomography (non-contrast enhanced)
+Urticaria and Angioedema,Dermatological,Suggested by meticulous history and physical examination
+Varicella (Chickenpox),Infectious/Tropical,Tzanck smear
+Varicella (Chickenpox),Infectious/Tropical,Direct fluorescent antibody (DFA) staining
+Varicella (Chickenpox),Infectious/Tropical,Polymerase Chain Reaction (PCR)
+Vertigo,"ENT (Ear, Nose & Throat)","Audiologic tests - Pure Tone Audiogram (PTA), Tympanometry"
+Vertigo,"ENT (Ear, Nose & Throat)",Automated Brain Response Audiometry (where possible)
+Vertigo,"ENT (Ear, Nose & Throat)",CT scan in complicated cases
+Vertigo,"ENT (Ear, Nose & Throat)",MRI in suspected inner ear tumours
+Vertigo,"ENT (Ear, Nose & Throat)",Ear Endoscopy
+Viral Warts (Verrucae),Infectious/Tropical,Histopathology if in doubt
+Vitamin A Deficiency,Nutritional,Serum retinol: Costly but is a direct measure. A value of less than 0.7mg/L in children younger than 12 years is considered low.
+Vitamin A Deficiency,Nutritional,Serum RBP: Easier and less expensive to perform than retinol. Less accurate because levels are affected by serum protein concentrations; types of RBP cannot be differentiated.
+Vitamin A Deficiency,Nutritional,Serum zinc: Useful because zinc deficiency interferes with RBP production.
+Vitamin A Deficiency,Nutritional,Iron panel: Useful because iron deficiency can affect the metabolism of vitamin A.
+Vitamin A Deficiency,Nutritional,Serum albumin: Levels are indirect measures of levels of vitamin A.
+Vitamin A Deficiency,Nutritional,"Full Blood Count with differentials: If anaemia, infection, or sepsis is a possibility."
+Vitamin A Deficiency,Nutritional,Serum electrolytes
+Vitamin A Deficiency,Nutritional,Liver function tests: To evaluate nutritional status
+Vitamin A Deficiency,Nutritional,Radiographs of the long bones: To evaluate bone growth and excessive deposition of periosteal bone
+Vitamin A Deficiency,Nutritional,Clinical testing for dark-adaptation threshold
+Vitamin A Deficiency,Nutritional,Serum retinol: Costly but is a direct measure. A value of less than 0.7mg/L in children younger than 12 years is considered low
+Vitamin A Deficiency,Nutritional,Serum RBP: Easier and less expensive to perform than retinol. Less accurate because levels are affected by serum protein concentrations; types of RBP cannot be differentiated
+Vitamin A Deficiency,Nutritional,Serum zinc: Useful because zinc deficiency interferes with RBP production
+Vitamin A Deficiency,Nutritional,Iron panel: Useful because iron deficiency can affect the metabolism of vitamin A
+Vitamin A Deficiency,Nutritional,Serum albumin: Levels are indirect measures of levels of vitamin A
+Vitamin A Deficiency,Nutritional,"Full Blood Count with differentials: If anaemia, infection, or sepsis is a possibility"
+Vitamin A Deficiency,Nutritional,Serum electrolytes
+Vitamin A Deficiency,Nutritional,Liver function tests: To evaluate nutritional status
+Vitamin A Deficiency,Nutritional,Radiographs of the long bones: To evaluate bone growth and excessive deposition of periosteal bone
+Vitamin A Deficiency,Nutritional,Clinical testing for dark-adaptation threshold
+Vitamin K Deficiency Bleeding,Haematological,Prothrombin time – very prolonged
+Vitamin K Deficiency Bleeding,Haematological,Activated partial thromboplastin time – prolonged
+Vitamin K Deficiency Bleeding,Haematological,Thrombin time – normal
+Vitamin K Deficiency Bleeding,Haematological,Fibrin degradation products – normal
+Vitamin K Deficiency Bleeding,Haematological,Platelet count - normal
+Vitamin K Deficiency Bleeding,Haematological,Prothrombin time – very prolonged
+Vitamin K Deficiency Bleeding,Haematological,Activated partial thromboplastin time – prolonged
+Vitamin K Deficiency Bleeding,Haematological,Thrombin time – normal
+Vitamin K Deficiency Bleeding,Haematological,Fibrin degradation products – normal
+Vitamin K Deficiency Bleeding,Haematological,Platelet count - normal
+Vitiligo,Dermatological,Exclude other autoimmune diseases if clinically suggestive
+Vulvo-Vaginal Candidiasis,Maternal/Reproductive,Positive KOH examination
+Vulvo-Vaginal Candidiasis,Maternal/Reproductive,Culture of vaginal discharges
+Xerophthalmia,Nutritional,Conjunctival impression cytology (where available)
+Xerophthalmia,Nutritional,Serum Vitamin A levels
