@@ -22,10 +22,27 @@ across 20 disease categories, published by Nigeria's Federal Ministry of Health
 Python · pandas · scikit-learn · NetworkX · WordCloud · Matplotlib · Power BI
 
 ## Repository Structure
-figures/        → 10 publication-quality charts
-data/           → 10 cleaned CSV exports for Power BI
+nstg_outputs/        → 10 publication-quality charts
+nstg_powerbi_exports/           → 10 cleaned CSV exports for Power BI
 nstg_analysis.ipynb        → Jupyter notebook with markdown inferences
 NSTG_Dashboard.pbix        → Interactive Power BI dashboard (open with free Power BI Desktop)
+
+## Setup Instructions
+1. Create a Virtual Environment
+python -m venv venv
+2. Activate the Virtual Environment
+Windows
+venv\\Scripts\\activate
+Mac/Linux
+source venv/bin/activate
+3. Install Project Requirements
+pip install -r requirements.txt
+4. Launch Jupyter Notebook
+jupyter notebook
+
+Open and start working on:
+
+nstg_analysis.ipynb
 
 ----------------------------------------------------------------
 
@@ -62,3 +79,10 @@ Each condition object in the array contains the following fields:
 **Data Source & Citation:**
 Chisom Rutherford (2026). *NSTG Nigeria Treatment Guidelines Dataset*. Datum Africa.
 https://datum.africa/datasets/nstg-nigeria-treatment-guidelines-dataset
+
+
+### © [Adeoye Samuel] 2025 · CC BY 4.0
+### Original analysis of NSTG 2022 — Nigeria Standard Treatment Guidelines
+### Repository: [[your GitHub UR](https://github.com/Sammyregt/nstg-2022-clinical-guidelines-analysis.git)L]
+### Cite as: [Adeoye] (2026). NSTG 2022 Clinical Guidelines Analysis.
+### GitHub. https://github.com/Sammyregt/nstg-2022-clinical-guidelines-analysis.git
