@@ -86,8 +86,8 @@ Chisom Rutherford (2026). *NSTG Nigeria Treatment Guidelines Dataset*. Datum Afr
 https://datum.africa/datasets/nstg-nigeria-treatment-guidelines-dataset
 
 
-### © [Adeoye Samuel] 2025 · CC BY 4.0
+### © [Adeoye Samuel] 2026 · CC BY 4.0
 ### Original analysis of NSTG 2022 — Nigeria Standard Treatment Guidelines
-### Repository: [[your GitHub UR](https://github.com/Sammyregt/nstg-2022-clinical-guidelines-analysis.git)L]
+### Repository: https://github.com/Sammyregt/
 ### Cite as: [Adeoye] (2026). NSTG 2022 Clinical Guidelines Analysis.
 ### GitHub. https://github.com/Sammyregt/nstg-2022-clinical-guidelines-analysis.git
